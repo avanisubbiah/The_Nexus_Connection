@@ -1,0 +1,31 @@
+[01:27:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:27:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:27:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:27:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:27:16] [Worker-Main-5/INFO]: Loaded 7 recipes
+[01:27:16] [Worker-Main-5/INFO]: Loaded 927 advancements
+[01:27:18] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[01:27:18] [Server thread/INFO]: Loading properties
+[01:27:18] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:18] [Server thread/INFO]: Generating keypair
+[01:27:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:18] [Server thread/INFO]: Using epoll channel type
+[01:27:19] [Server thread/INFO]: Preparing level "world"
+[01:27:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:27:21] [Server thread/INFO]: Preparing spawn area: 47%
+[01:27:21] [Server thread/INFO]: Time elapsed: 2757 ms
+[01:27:21] [Server thread/INFO]: Done (2.851s)! For help, type "help"
+[01:27:33] [User Authenticator #1/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[01:27:34] [Server thread/INFO]: Rocknrow[/24.192.41.13:59761] logged in with entity id 47 at (24.93855581243734, 116.0, -30.03310375305865)
+[01:27:34] [Server thread/INFO]: Rocknrow joined the game
+[01:27:46] [User Authenticator #2/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[01:27:47] [Server thread/INFO]: Aviroblox[/66.216.215.84:50897] logged in with entity id 185 at (28.582593804565867, 116.0, -38.25266871532138)
+[01:27:47] [Server thread/INFO]: Aviroblox joined the game
