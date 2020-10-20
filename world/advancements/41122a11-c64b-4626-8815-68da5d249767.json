@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-19 21:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2020-01-08 02:37:08 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2020-10-19 21:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2019-12-31 07:31:08 +0000"
@@ -917,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-19 21:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2019-12-26 20:34:27 +0000"
@@ -1140,6 +1158,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2020-07-31 08:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-10-19 21:13:16 +0000"
     },
     "done": true
   },
@@ -1467,7 +1491,8 @@
       "minecraft:turtle": "2020-01-07 08:13:30 +0000",
       "minecraft:sheep": "2020-01-15 09:02:50 +0000",
       "minecraft:cow": "2019-12-25 23:55:34 +0000",
-      "minecraft:chicken": "2020-02-17 10:13:56 +0000"
+      "minecraft:chicken": "2020-02-17 10:13:56 +0000",
+      "minecraft:wolf": "2020-10-19 22:11:35 +0000"
     },
     "done": false
   },
@@ -2689,6 +2714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-10-19 21:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-12-28 21:04:52 +0000"
@@ -3452,6 +3483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2020-10-19 21:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-12-25 21:30:00 +0000"
@@ -3665,6 +3702,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2019-12-30 06:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-19 21:44:13 +0000"
     },
     "done": true
   },
@@ -4169,6 +4212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_the_recipe": "2020-10-19 21:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-27 05:41:44 +0000"
@@ -4238,6 +4287,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-12-27 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-10-19 21:41:38 +0000"
     },
     "done": true
   },
