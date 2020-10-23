@@ -1724,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-10-23 01:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-12-25 22:04:24 +0000"
@@ -2880,6 +2886,7 @@
       "minecraft:piglin_brute": "2020-10-05 21:27:13 +0000",
       "minecraft:creeper": "2019-12-25 21:51:35 +0000",
       "minecraft:slime": "2019-12-28 08:55:07 +0000",
+      "minecraft:evoker": "2020-10-23 01:20:38 +0000",
       "minecraft:phantom": "2019-12-25 23:27:49 +0000",
       "minecraft:zombified_piglin": "2019-12-29 07:02:04 +0000",
       "minecraft:witch": "2019-12-31 05:53:59 +0000",
@@ -2891,6 +2898,7 @@
       "minecraft:enderman": "2019-12-28 07:15:29 +0000",
       "minecraft:silverfish": "2019-12-31 06:15:44 +0000",
       "minecraft:stray": "2020-02-15 05:46:38 +0000",
+      "minecraft:vex": "2020-10-23 01:21:12 +0000",
       "minecraft:zombie": "2019-12-25 21:53:33 +0000",
       "minecraft:drowned": "2019-12-28 21:09:44 +0000",
       "minecraft:zombie_villager": "2019-12-29 06:47:47 +0000"
@@ -3444,6 +3452,7 @@
       "minecraft:jungle": "2020-01-01 09:10:19 +0000",
       "minecraft:birch_forest": "2020-01-07 08:12:09 +0000",
       "minecraft:jungle_hills": "2020-01-07 08:01:03 +0000",
+      "minecraft:snowy_beach": "2020-10-23 01:32:16 +0000",
       "minecraft:bamboo_jungle": "2020-01-13 22:24:25 +0000",
       "minecraft:warm_ocean": "2019-12-26 07:07:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-12-25 21:37:44 +0000",
@@ -3453,6 +3462,7 @@
       "minecraft:dark_forest": "2019-12-26 07:09:47 +0000",
       "minecraft:river": "2019-12-26 01:27:14 +0000",
       "minecraft:lukewarm_ocean": "2019-12-26 07:09:05 +0000",
+      "minecraft:snowy_taiga": "2020-10-23 01:31:49 +0000",
       "minecraft:birch_forest_hills": "2020-01-07 08:12:26 +0000",
       "minecraft:wooded_mountains": "2019-12-31 05:50:24 +0000",
       "minecraft:bamboo_jungle_hills": "2020-01-07 08:11:10 +0000",

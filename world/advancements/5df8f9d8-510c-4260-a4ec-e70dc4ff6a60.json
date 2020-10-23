@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2020-10-23 20:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-12-30 00:13:27 +0000"
@@ -389,6 +395,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-01-12 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-10-21 21:34:21 +0000"
     },
     "done": true
   },
@@ -891,6 +903,7 @@
       "minecraft:shulker": "2020-01-10 00:37:06 +0000",
       "minecraft:piglin": "2020-10-10 19:46:17 +0000",
       "minecraft:enderman": "2020-01-06 23:29:55 +0000",
+      "minecraft:silverfish": "2020-10-23 18:45:47 +0000",
       "minecraft:endermite": "2020-10-19 22:31:03 +0000",
       "minecraft:zombie": "2019-12-27 05:31:51 +0000",
       "minecraft:drowned": "2020-01-12 19:51:13 +0000",
@@ -2271,6 +2284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-10-23 18:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-12-26 06:46:12 +0000"
@@ -2672,6 +2691,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-12-30 02:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-10-21 00:25:19 +0000"
     },
     "done": true
   },
@@ -3748,6 +3773,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-12-27 07:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-10-23 16:21:36 +0000"
     },
     "done": true
   },

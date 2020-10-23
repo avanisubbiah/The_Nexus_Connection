@@ -1,596 +1,442 @@
-[00:15:44] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[00:15:44] [Server thread/INFO]: Rocknrow left the game
-[00:21:33] [User Authenticator #44/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
-[00:21:33] [Server thread/INFO]: Rocknrow[/24.192.41.13:65332] logged in with entity id 146044 at (455.30000001192093, 170.0, 310.30000001192093)
-[00:21:33] [Server thread/INFO]: Rocknrow joined the game
-[00:36:19] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[00:36:19] [Server thread/INFO]: Rocknrow left the game
-[00:37:00] [User Authenticator #45/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
-[00:37:00] [Server thread/INFO]: Rocknrow[/24.192.41.13:65396] logged in with entity id 146674 at (455.30000001192093, 170.0, 310.30000001192093)
-[00:37:00] [Server thread/INFO]: Rocknrow joined the game
-[00:56:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/147521, l='ServerLevel[world]', x=461.26, y=64.00, z=306.67]
-[01:01:02] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[01:01:02] [Server thread/INFO]: Rocknrow left the game
-[01:08:34] [User Authenticator #46/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
-[01:08:34] [Server thread/INFO]: Rocknrow[/24.192.41.13:49174] logged in with entity id 147691 at (455.69999998807907, 170.0, 310.30000001192093)
-[01:08:34] [Server thread/INFO]: Rocknrow joined the game
-[01:15:19] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[01:15:19] [Server thread/INFO]: Rocknrow left the game
-[01:15:22] [User Authenticator #47/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
-[01:15:22] [Server thread/INFO]: Rocknrow[/24.192.41.13:49200] logged in with entity id 148902 at (215.61402403989146, 60.200000047683716, -270.81459477790577)
-[01:15:22] [Server thread/INFO]: Rocknrow joined the game
-[01:24:38] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[01:24:38] [Server thread/INFO]: Rocknrow left the game
-[01:24:42] [User Authenticator #48/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
-[01:24:43] [Server thread/INFO]: Rocknrow[/24.192.41.13:49255] logged in with entity id 154607 at (219.3379266496196, 67.0, -273.35018598254663)
-[01:24:43] [Server thread/INFO]: Rocknrow joined the game
-[01:36:14] [Server thread/INFO]: Rocknrow lost connection: Timed out
-[01:36:14] [Server thread/INFO]: Rocknrow left the game
-[13:40:47] [User Authenticator #49/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
-[13:40:47] [Server thread/INFO]: mano328[/128.211.189.182:53365] logged in with entity id 156250 at (1798.9302590815673, 18.0, 1455.6220293054519)
-[13:40:47] [Server thread/INFO]: mano328 joined the game
-[13:41:06] [User Authenticator #50/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[13:41:06] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56753] logged in with entity id 156443 at (746.4444700687011, 74.0, -747.8524976650436)
-[13:41:06] [Server thread/INFO]: NBSpace_Kid joined the game
-[13:56:21] [User Authenticator #51/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[13:56:21] [Server thread/INFO]: DrPoyo[/74.133.67.1:49906] logged in with entity id 161886 at (758.5270203684138, 71.0, -771.2431518377273)
-[13:56:21] [Server thread/INFO]: DrPoyo joined the game
-[13:56:28] [Server thread/INFO]: <NBSpace_Kid> hihi
-[13:56:31] [Server thread/INFO]: <DrPoyo> hlwdy
-[13:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1813, y=31, z=1495} fx{x=1811, y=27, z=1497}
-[14:03:56] [Server thread/INFO]: <mano328> sleep?
-[14:04:52] [Server thread/INFO]: <DrPoyo> do you have any slime NB?
-[14:05:02] [Server thread/INFO]: <DrPoyo> ty
-[14:05:06] [Server thread/INFO]: <NBSpace_Kid> i think in the brewing room
-[14:05:29] [Server thread/INFO]: <mano328> we have a slime farm just in case, I have a stack or so of blocks on me if you need more
-[14:05:36] [Server thread/INFO]: <DrPoyo> ty
-[14:08:36] [Server thread/WARN]: Trying to add entity with duplicated UUID 41e25508-b2af-47a1-9d65-de1f29867b2f. Existing minecraft:armor_stand#165418, new: minecraft:armor_stand#165418
-[14:08:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/165565, l='ServerLevel[world]', x=747.53, y=70.00, z=-745.41]
-[14:08:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/165565, l='ServerLevel[world]', x=747.53, y=70.00, z=-745.41]
-[14:09:11] [Server thread/WARN]: Trying to add entity with duplicated UUID ed23a2ab-954c-4f64-a1f6-27046da5a822. Existing minecraft:armor_stand#165667, new: minecraft:armor_stand#165667
-[14:09:47] [Server thread/INFO]: <NBSpace_Kid> want help?
-[14:09:54] [Server thread/INFO]: <DrPoyo> i dont remember how it works
-[14:10:11] [Server thread/INFO]: <NBSpace_Kid> may wanna make this block a half slab
-[14:10:55] [Server thread/WARN]: Trying to add entity with duplicated UUID cbb6c0ec-4745-4728-931e-13780c28ce91. Existing minecraft:armor_stand#165975, new: minecraft:armor_stand#165975
-[14:11:25] [Server thread/INFO]: <DrPoyo> it not sticky
-[14:14:11] [Server thread/WARN]: Trying to add entity with duplicated UUID c48f0e31-3c06-40df-a0a3-dbdb270861b3. Existing minecraft:armor_stand#166738, new: minecraft:armor_stand#166738
-[14:14:31] [Server thread/INFO]: <NBSpace_Kid> uuh wait here
-[14:14:40] [Server thread/INFO]: <NBSpace_Kid> oop it night nvm
-[14:14:40] [Server thread/INFO]: <mano328> sleep?
-[14:19:21] [Server thread/INFO]: <DrPoyo> can we kill him?
-[14:19:24] [Server thread/INFO]: <NBSpace_Kid> sure
-[14:19:52] [Server thread/INFO]: DrPoyo was slain by Iron Golem
-[14:19:55] [Server thread/INFO]: <mano328> f
-[14:19:55] [Server thread/INFO]: <NBSpace_Kid> oof
-[14:20:41] [Server thread/WARN]: Trying to add entity with duplicated UUID 4b6baf53-eeff-40cc-b273-77633f86395d. Existing minecraft:armor_stand#168632, new: minecraft:armor_stand#168632
-[14:20:56] [Server thread/WARN]: Trying to add entity with duplicated UUID b0f58412-1e13-4c02-ac76-d8681b1c476b. Existing minecraft:armor_stand#168677, new: minecraft:armor_stand#168677
-[14:21:23] [Server thread/WARN]: Trying to add entity with duplicated UUID c2fb5490-46fa-47a5-b90c-9809c072efe4. Existing minecraft:armor_stand#168779, new: minecraft:armor_stand#168779
-[14:23:17] [Server thread/INFO]: mano328 lost connection: Disconnected
-[14:23:17] [Server thread/INFO]: mano328 left the game
-[14:23:17] [Server thread/INFO]: <NBSpace_Kid> we should fill seths house with those
-[14:23:26] [Server thread/INFO]: <DrPoyo> i only have 19
-[14:23:35] [Server thread/INFO]: <DrPoyo> halloween decor done
-[14:23:36] [Server thread/INFO]: <NBSpace_Kid> i can get/make more
-[14:23:40] [Server thread/INFO]: <NBSpace_Kid> cutee
-[14:24:19] [Server thread/INFO]: <NBSpace_Kid> can you make cobwebs?
-[14:24:30] [Server thread/INFO]: <DrPoyo> idk, i dont think so?
-[14:24:39] [Server thread/INFO]: <NBSpace_Kid> dang alright
-[14:24:56] [Server thread/INFO]: <DrPoyo> put it in his water tunnel so he drowns
-[14:25:01] [Server thread/INFO]: <NBSpace_Kid> oof
-[14:25:48] [Server thread/INFO]: <NBSpace_Kid> rude
-[14:26:59] [Server thread/INFO]: NBSpace_Kid experienced kinetic energy
-[14:27:02] [Server thread/INFO]: <NBSpace_Kid> noooo
-[14:27:13] [Server thread/INFO]: <DrPoyo> WHAT DOES IT MEAN
-[14:27:23] [Server thread/INFO]: <NBSpace_Kid> wall amck
-[14:27:28] [Server thread/INFO]: <NBSpace_Kid> smack
-[14:27:32] [Server thread/INFO]: <DrPoyo> ow
-[14:29:14] [Server thread/INFO]: <DrPoyo> wya
-[14:29:18] [Server thread/INFO]: <NBSpace_Kid> strip mine
-[14:29:36] [Server thread/INFO]: <DrPoyo> i have a our secretary
-[14:29:42] [Server thread/INFO]: <NBSpace_Kid> oh no
-[14:31:34] [Server thread/INFO]: <DrPoyo> lmk when ur comin back up
-[14:31:39] [Server thread/INFO]: <NBSpace_Kid> oki
-[14:31:56] [Server thread/INFO]: <NBSpace_Kid> do you still need coal?
-[14:32:03] [Server thread/INFO]: <DrPoyo> yeth pleath
-[14:32:08] [Server thread/INFO]: <NBSpace_Kid> mk
-[14:34:35] [Server thread/INFO]: <NBSpace_Kid> i may be lost
-[14:35:06] [Server thread/INFO]: <DrPoyo> which strip mine'
-[14:35:24] [Server thread/INFO]: <NBSpace_Kid> in the mineshaft one
-[14:35:32] [Server thread/INFO]: <DrPoyo> so yours?
-[14:35:35] [Server thread/INFO]: <NBSpace_Kid> ye
-[14:35:44] [Server thread/INFO]: <NBSpace_Kid> im lost in the mineshaft
-[14:35:53] [Server thread/INFO]: <DrPoyo> im comin
-[14:35:58] [Server thread/INFO]: <NBSpace_Kid> thank youu
-[14:37:37] [Server thread/INFO]: <DrPoyo> im inthe opening of the cave
-[14:37:52] [Server thread/INFO]: <NBSpace_Kid> i here
-[14:38:07] [Server thread/INFO]: <NBSpace_Kid> m in strip mine
-[14:39:06] [Server thread/INFO]: <DrPoyo> we need to put rails in here
-[14:39:17] [Server thread/INFO]: <NBSpace_Kid> ye
-[14:40:41] [Server thread/INFO]: <NBSpace_Kid> ty for rescue
-[14:40:47] [Server thread/INFO]: <DrPoyo> ye
-[14:41:27] [Server thread/INFO]: <NBSpace_Kid> sleb
-[14:41:37] [Server thread/INFO]: <NBSpace_Kid> ty
-[14:41:58] [Server thread/INFO]: <DrPoyo> ty!
-[14:42:14] [Server thread/INFO]: <NBSpace_Kid> ehy
-[14:42:16] [Server thread/INFO]: <NBSpace_Kid> why
-[14:42:42] [Server thread/INFO]: <DrPoyo> when ur done with that meet secretary
-[14:42:48] [Server thread/INFO]: <NBSpace_Kid> okii
-[14:43:08] [Server thread/INFO]: <NBSpace_Kid> :o
-[14:43:15] [Server thread/INFO]: <NBSpace_Kid> WAIT
-[14:43:22] [Server thread/INFO]: <DrPoyo> !!!!!!
-[14:43:33] [Server thread/INFO]: <DrPoyo> looks so silly
-[14:47:49] [Server thread/INFO]: <DrPoyo> should we make a waiting room over here?
-[14:47:56] [Server thread/INFO]: <NBSpace_Kid> ooo yeah
-[14:49:59] [Server thread/INFO]: <DrPoyo> im thinkin dark oak or blackstone for chairs, so it look like leather
-[14:50:14] [Server thread/INFO]: <NBSpace_Kid> oo
-[14:50:22] [Server thread/INFO]: <NBSpace_Kid> dark oak is easier
-[14:50:29] [Server thread/INFO]: <DrPoyo> i have tons
-[14:52:05] [Server thread/INFO]: <NBSpace_Kid> brb
-[14:57:11] [Server thread/INFO]: <NBSpace_Kid> back
-[14:57:16] [Server thread/INFO]: <DrPoyo> wb
-[14:57:19] [Server thread/INFO]: <NBSpace_Kid> ty
-[14:57:24] [Server thread/INFO]: <DrPoyo> i have an idea
-[14:57:31] [Server thread/INFO]: <NBSpace_Kid> do tell
-[14:58:06] [Server thread/INFO]: <DrPoyo> maybe diff color?
-[14:58:17] [Server thread/INFO]: <DrPoyo> like grey
-[14:58:29] [Server thread/INFO]: <NBSpace_Kid> i think keep it grey scale and ur gucci
-[14:58:31] [Server thread/INFO]: <NBSpace_Kid> ye
-[15:01:04] [Server thread/INFO]: <DrPoyo> 1 or 2
-[15:01:15] [Server thread/INFO]: <NBSpace_Kid> mm 2
-[15:01:35] [Server thread/INFO]: <DrPoyo> i need more black dye
-[15:01:48] [Server thread/INFO]: <NBSpace_Kid> i may have some in my house
-[15:02:21] [Server thread/INFO]: <NBSpace_Kid> how much?
-[15:03:30] [Server thread/INFO]: <DrPoyo> uuuh idk
-[15:03:38] [User Authenticator #52/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
-[15:03:39] [Server thread/INFO]: mano328[/128.211.189.182:64479] logged in with entity id 178445 at (1797.675755930236, 18.0, 1456.6124800145906)
-[15:03:39] [Server thread/INFO]: mano328 joined the game
-[15:04:08] [Server thread/INFO]: mano328 lost connection: Disconnected
-[15:04:08] [Server thread/INFO]: mano328 left the game
-[15:04:15] [Server thread/INFO]: <DrPoyo> sleeb pls
-[15:04:17] [Server thread/INFO]: <NBSpace_Kid> the hell happened here?
-[15:04:27] [Server thread/INFO]: <DrPoyo> where
-[15:04:33] [Server thread/INFO]: <NBSpace_Kid> town hall
-[15:05:09] [Server thread/INFO]: <DrPoyo> secretary went apeshit
-[15:05:25] [Server thread/INFO]: <NBSpace_Kid> big oof
-[15:09:25] [Server thread/INFO]: <DrPoyo> bacc
-[15:09:32] [Server thread/INFO]: <NBSpace_Kid> owo
-[15:09:45] [Server thread/INFO]: <DrPoyo> do you have the balack dye?
-[15:12:12] [Server thread/INFO]: <DrPoyo> nice
-[15:13:13] [Server thread/INFO]: <NBSpace_Kid> how did that explosion reach up here
-[15:13:22] [Server thread/INFO]: <DrPoyo> yikes
-[15:13:29] [Server thread/INFO]: <NBSpace_Kid> wacky
-[15:15:14] [Server thread/INFO]: <DrPoyo> dark over here
-[15:17:21] [Server thread/INFO]: <NBSpace_Kid> going to get glowstone
-[15:17:28] [Server thread/INFO]: <DrPoyo> it looks nice, im proud of it
-[15:17:31] [Server thread/INFO]: <DrPoyo> ok
-[15:17:37] [Server thread/INFO]: <NBSpace_Kid> vry goof
-[15:17:39] [Server thread/INFO]: <NBSpace_Kid> good
-[15:17:43] [Server thread/INFO]: <NBSpace_Kid> whoops
-[15:19:00] [Server thread/INFO]: <NBSpace_Kid> iff we got end rods i could build some lamps
-[15:19:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=98, z=-303} fx{x=69, y=96, z=-304}
-[15:19:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=98, z=-303} fx{x=69, y=96, z=-304}
-[15:19:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=98, z=-303} fx{x=69, y=96, z=-304}
-[15:22:42] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[15:22:42] [Server thread/INFO]: NBSpace_Kid left the game
-[15:22:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@6da769c1[id=<null>,name=NBSpace_Kid,properties={},legacy=false] (/24.192.41.13:56989) lost connection: Disconnected
-[15:23:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e83c92e[id=<null>,name=NBSpace_Kid,properties={},legacy=false] (/24.192.41.13:57001) lost connection: Disconnected
-[15:24:40] [User Authenticator #53/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[15:24:40] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:57077] logged in with entity id 182230 at (770.9223348934485, 72.0, -773.6321365109366)
-[15:24:40] [Server thread/INFO]: NBSpace_Kid joined the game
-[15:24:46] [Server thread/INFO]: <DrPoyo> hello
-[15:24:50] [Server thread/INFO]: <NBSpace_Kid> howdy
-[15:24:52] [Server thread/INFO]: <DrPoyo> ive changed my mind
-[15:24:59] [Server thread/INFO]: <NBSpace_Kid> on?
-[15:25:12] [Server thread/INFO]: <DrPoyo> the waiting area looks crowded
-[15:25:17] [Server thread/INFO]: <NBSpace_Kid> mm
-[15:25:49] [Server thread/INFO]: <NBSpace_Kid> ?
-[15:26:13] [Server thread/INFO]: <DrPoyo> wha?
-[15:26:24] [Server thread/INFO]: <NBSpace_Kid> opinion
-[15:26:33] [Server thread/INFO]: <DrPoyo> thats better
-[15:27:00] [Server thread/INFO]: <DrPoyo> it kinda reminds me of an old timey train station
-[15:27:05] [Server thread/INFO]: <NBSpace_Kid> oo
-[15:27:06] [Server thread/INFO]: <DrPoyo> in a good way
-[15:27:50] [Server thread/INFO]: <NBSpace_Kid> im going to murder you
-[15:27:55] [Server thread/INFO]: <DrPoyo> why
-[15:28:00] [Server thread/INFO]: <NBSpace_Kid> you know why
-[15:28:15] [Server thread/INFO]: <DrPoyo> my sister sent it to me so you need to see too
-[15:28:33] [Server thread/INFO]: <NBSpace_Kid> sometimes i hate artist
-[15:28:33] [Server thread/INFO]: <DrPoyo> i sent it to taylor too
-[15:28:37] [Server thread/INFO]: <DrPoyo> same
-[15:32:01] [Server thread/INFO]: <DrPoyo> i think these are locked
-[15:32:21] [Server thread/INFO]: <NBSpace_Kid> only mayor can get in them
-[15:32:34] [Server thread/INFO]: <DrPoyo> makes sense
-[15:35:41] [Server thread/WARN]: Fetching packet for removed entity bcs['Sugar Cane'/183497, l='ServerLevel[world]', x=673.77, y=63.19, z=-759.28]
-[15:36:14] [Server thread/INFO]: <DrPoyo> u know how we talked about a hot spring?
-[15:36:23] [Server thread/INFO]: <NBSpace_Kid> ye
-[15:36:30] [Server thread/INFO]: <DrPoyo> found a good place
-[15:36:40] [Server thread/INFO]: <NBSpace_Kid> owo
-[15:36:45] [Server thread/INFO]: <DrPoyo> behind seths house
-[15:37:32] [Server thread/INFO]: <DrPoyo> i wanna test smth
-[15:37:36] [Server thread/INFO]: <NBSpace_Kid> kk
-[15:37:55] [Server thread/INFO]: <DrPoyo> also nighttiem
-[15:38:32] [Server thread/INFO]: <NBSpace_Kid> next night ima need to creeper hunt
-[15:38:36] [Server thread/INFO]: <DrPoyo> okee
-[15:40:09] [Server thread/INFO]: <DrPoyo> brb
-[15:40:13] [Server thread/INFO]: <NBSpace_Kid> oki
-[15:40:27] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[15:40:27] [Server thread/INFO]: DrPoyo left the game
-[15:53:39] [Server thread/WARN]: NBSpace_Kid moved wrongly!
-[16:02:35] [User Authenticator #54/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[16:02:35] [Server thread/INFO]: DrPoyo[/74.133.67.1:50094] logged in with entity id 191842 at (786.0031469315402, 75.0, -776.924431085714)
-[16:02:35] [Server thread/INFO]: DrPoyo joined the game
-[16:02:40] [Server thread/INFO]: <NBSpace_Kid> wb
-[16:02:42] [Server thread/INFO]: <DrPoyo> ty
-[16:03:07] [Server thread/INFO]: <NBSpace_Kid> i think the next villager we should get is fletcher
-[16:03:11] [Server thread/INFO]: <DrPoyo> okee
-[16:06:15] [Server thread/INFO]: <DrPoyo> how do you repair bows?
-[16:06:31] [Server thread/INFO]: <NBSpace_Kid> combine w/ other bows
-[16:06:38] [Server thread/INFO]: <NBSpace_Kid> in an anvil
-[16:08:20] [Server thread/INFO]: <DrPoyo> srry
-[16:09:59] [Server thread/INFO]: <DrPoyo> kill?
-[16:10:02] [Server thread/INFO]: <NBSpace_Kid> sure
-[16:10:06] [Server thread/INFO]: <DrPoyo> k
-[16:13:37] [Server thread/INFO]: <NBSpace_Kid> wya?
-[16:13:42] [Server thread/INFO]: <DrPoyo> house
-[16:13:52] [Server thread/INFO]: <DrPoyo> ty
-[16:14:12] [Server thread/INFO]: <DrPoyo> imma head to the xp farm for a bit
-[16:14:16] [Server thread/INFO]: <NBSpace_Kid> oki
-[16:15:13] [Server thread/WARN]: DrPoyo moved too quickly! -477.957036084954,18.392604549951344,2192.470871661714
-[16:15:13] [Server thread/WARN]: Entity aah['DrPoyo'/191842, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[16:21:23] [Server thread/INFO]: <NBSpace_Kid> it cool if i creeper hunt again tonight?
-[16:21:40] [Server thread/INFO]: <DrPoyo> sure
-[16:22:55] [Server thread/INFO]: <NBSpace_Kid> i feel like the mob rates are higher than usual
-[16:24:09] [Server thread/INFO]: <NBSpace_Kid> oh sweet a new disc
-[16:24:15] [Server thread/INFO]: <DrPoyo> oh word?
-[16:24:38] [Server thread/INFO]: <DrPoyo> also i figured out how to make the hotsprings steam
-[16:24:44] [Server thread/INFO]: <NBSpace_Kid> ooo
-[16:24:55] [Server thread/INFO]: <DrPoyo> brb
-[16:24:58] [Server thread/INFO]: <NBSpace_Kid> mk
-[16:29:39] [Server thread/INFO]: <DrPoyo> bacc
-[16:29:43] [Server thread/INFO]: <NBSpace_Kid> wb
-[16:29:46] [Server thread/INFO]: <DrPoyo> ty
-[16:29:58] [Server thread/INFO]: <NBSpace_Kid> could you bring me a splash potion of weakness?
-[16:30:15] [Server thread/INFO]: <DrPoyo> ill go look for one, or brew one
-[16:30:21] [Server thread/INFO]: <NBSpace_Kid> mk
-[16:30:25] [Server thread/INFO]: <NBSpace_Kid> ty
-[16:34:33] [Server thread/INFO]: <DrPoyo> how do you make a fermented spider eye?
-[16:34:49] [Server thread/INFO]: <NBSpace_Kid> spider eye and suger i think
-[16:34:49] [Server thread/INFO]: <DrPoyo> nvm
-[16:35:04] [Server thread/INFO]: <DrPoyo> also a brown mush apparently
-[16:35:10] [Server thread/INFO]: <NBSpace_Kid> weird
-[16:37:16] [Server thread/INFO]: <DrPoyo> Hewwo?
-[16:37:27] [Server thread/INFO]: <NBSpace_Kid> srry was lookin at insta
-[16:37:33] [Server thread/INFO]: <DrPoyo> u good
-[16:37:52] [Server thread/INFO]: <DrPoyo> where he gonna live? with stephon?
-[16:38:01] [Server thread/INFO]: <NBSpace_Kid> uu i guess
-[16:38:12] [Server thread/INFO]: <DrPoyo> kitty
-[16:38:28] [Server thread/INFO]: <NBSpace_Kid> wait
-[16:38:38] [Server thread/INFO]: <DrPoyo> ty
-[16:38:59] [Server thread/INFO]: <NBSpace_Kid> ima go get water brb
-[16:39:03] [Server thread/INFO]: <DrPoyo> ok
-[16:43:28] [Server thread/INFO]: <NBSpace_Kid> back
-[16:43:45] [Server thread/INFO]: <DrPoyo> wb
-[16:43:47] [Server thread/INFO]: <NBSpace_Kid> tyty
-[16:44:55] [Server thread/INFO]: <DrPoyo> my armor stands have merged
-[16:45:04] [Server thread/INFO]: <NBSpace_Kid> h u h
-[16:45:21] [Server thread/INFO]: <NBSpace_Kid> uu h brb
-[16:45:23] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[16:45:23] [Server thread/INFO]: NBSpace_Kid left the game
-[16:45:31] [User Authenticator #55/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[16:45:31] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:57212] logged in with entity id 201737 at (817.7376426396822, 84.0, -803.9878624419143)
-[16:45:31] [Server thread/INFO]: NBSpace_Kid joined the game
-[16:45:38] [Server thread/INFO]: <DrPoyo> wb
-[16:45:41] [Server thread/INFO]: <NBSpace_Kid> tyty
-[16:46:29] [Server thread/INFO]: <DrPoyo> so many skelly
-[16:50:11] [Server thread/INFO]: <DrPoyo> for the hot springs we need a lot of spruce
-[16:50:20] [Server thread/INFO]: <NBSpace_Kid> aight
-[16:50:34] [Server thread/INFO]: <NBSpace_Kid> do you need extra bows to repair yours?
-[16:50:47] [Server thread/INFO]: <DrPoyo> nah i fixed it
-[16:50:50] [Server thread/INFO]: <NBSpace_Kid> mk
-[16:50:52] [Server thread/INFO]: <DrPoyo> ty
-[16:51:47] [Server thread/INFO]: <NBSpace_Kid> whered you go??
-[16:53:17] [Server thread/INFO]: <DrPoyo> ty!
-[16:53:34] [Server thread/INFO]: <DrPoyo> he ran out of stick trades already
-[16:53:39] [Server thread/INFO]: <NBSpace_Kid> oof
-[16:54:08] [Server thread/INFO]: <NBSpace_Kid> is there a villager thatll trade emeralds for bones?
-[16:54:17] [Server thread/INFO]: <DrPoyo> lemmy check
-[16:54:22] [Server thread/INFO]: <NBSpace_Kid> k tyty
-[16:56:30] [Server thread/INFO]: <DrPoyo> no, srry
-[16:56:35] [Server thread/INFO]: <NBSpace_Kid> oof
-[17:00:50] [Server thread/INFO]: <NBSpace_Kid> night time
-[17:03:02] [Server thread/INFO]: <DrPoyo> we also need trap doors
-[17:03:12] [Server thread/INFO]: <NBSpace_Kid> which kind?
-[17:03:17] [Server thread/INFO]: <DrPoyo> any
-[17:03:21] [Server thread/INFO]: <NBSpace_Kid> mkay
-[17:03:58] [Server thread/INFO]: <NBSpace_Kid> roughly how much spruce do you need?
-[17:04:21] [Server thread/INFO]: <DrPoyo> i think it got alat, so whatever you have now is good?
-[17:04:29] [Server thread/INFO]: <NBSpace_Kid> mkay
-[17:04:57] [Server thread/INFO]: <NBSpace_Kid> uu where are ya?
-[17:05:53] [Server thread/INFO]: <DrPoyo> at hspring
-[17:06:40] [Server thread/INFO]: <DrPoyo> ty
-[17:07:47] [Server thread/INFO]: <DrPoyo> pillagers in my bath :(
-[17:07:53] [Server thread/INFO]: <NBSpace_Kid> oop
-[17:07:58] [Server thread/INFO]: <NBSpace_Kid> ill bring miljk
-[17:08:52] [Server thread/INFO]: <DrPoyo> i have bad omen again, u up for a raid?
-[17:09:12] [Server thread/INFO]: <NBSpace_Kid> uuh lemme secure the villagers then sure
-[17:09:15] [Server thread/INFO]: <DrPoyo> okee
-[17:09:27] [Server thread/INFO]: <DrPoyo> i need to make a sheild
-[17:10:43] [Server thread/INFO]: <NBSpace_Kid> aight ready when you are
-[17:11:30] [Server thread/INFO]: <DrPoyo> lets wait for night first
-[17:11:39] [Server thread/INFO]: <DrPoyo> then in morin raid
-[17:11:43] [Server thread/INFO]: <NBSpace_Kid> mkay
-[17:11:49] [Server thread/WARN]: Trying to add entity with duplicated UUID d6f97c75-4181-4e47-9b07-eed6b52fba0d. Existing minecraft:armor_stand#208259, new: minecraft:armor_stand#208259
-[17:11:49] [Server thread/WARN]: Trying to add entity with duplicated UUID 626403b0-ca55-46ae-98c9-56fffe91800b. Existing minecraft:armor_stand#208260, new: minecraft:armor_stand#208260
-[17:12:06] [Server thread/WARN]: Trying to add entity with duplicated UUID 0530c90b-2976-4784-9c30-3cb84f9842bf. Existing minecraft:armor_stand#208293, new: minecraft:armor_stand#208293
-[17:12:08] [Server thread/WARN]: Trying to add entity with duplicated UUID ba73056a-fb67-4249-ab80-a12c81982c52. Existing minecraft:armor_stand#208297, new: minecraft:armor_stand#208297
-[17:12:28] [Server thread/WARN]: Trying to add entity with duplicated UUID 2d12537b-4c14-487a-b05d-b388e56ad03b. Existing minecraft:armor_stand#208342, new: minecraft:armor_stand#208342
-[17:12:31] [Server thread/WARN]: Trying to add entity with duplicated UUID afb9972c-1a86-4af4-a9fc-c549dfde5535. Existing minecraft:armor_stand#208350, new: minecraft:armor_stand#208350
-[17:12:36] [Server thread/INFO]: <NBSpace_Kid> sleb
-[17:12:37] [Server thread/WARN]: Trying to add entity with duplicated UUID f50153f0-2cfa-4fe3-894a-201238eb2ddc. Existing minecraft:armor_stand#208359, new: minecraft:armor_stand#208359
-[17:15:18] [Server thread/INFO]: <NBSpace_Kid> sorry
-[17:16:36] [Server thread/INFO]: <DrPoyo> yayy
-[17:16:39] [Server thread/INFO]: <NBSpace_Kid> i feel like they dont even attack us
-[17:16:51] [Server thread/INFO]: <DrPoyo> yeahh
-[17:24:12] [Server thread/INFO]: <DrPoyo> sleep pls
-[17:26:11] [Server thread/INFO]: DrPoyo experienced kinetic energy
-[17:26:16] [Server thread/INFO]: <NBSpace_Kid> he wont restock >:(
-[17:26:18] [Server thread/INFO]: <NBSpace_Kid> oof
-[17:26:36] [Server thread/INFO]: <DrPoyo> i thought my gate was open
-[17:26:43] [Server thread/INFO]: <NBSpace_Kid> lamoo
-[17:26:50] [Server thread/INFO]: <NBSpace_Kid> ah yes
-[17:26:53] [Server thread/INFO]: <NBSpace_Kid> "lamoo"
-[17:29:02] [Server thread/INFO]: <DrPoyo> stick trade out again
-[17:29:07] [Server thread/INFO]: <NBSpace_Kid> f
-[17:32:02] [Server thread/INFO]: <DrPoyo> how long is still left with the hero thingy
-[17:32:12] [Server thread/INFO]: <NBSpace_Kid> mine ran out
-[17:32:18] [Server thread/INFO]: <DrPoyo> wack
-[17:33:40] [Server thread/INFO]: <DrPoyo> i got 44 emralds during that holy shit'
-[17:33:52] [Server thread/INFO]: <NBSpace_Kid> congrats
-[17:34:08] [Server thread/INFO]: <DrPoyo> ty srry
-[17:34:18] [Server thread/INFO]: <NBSpace_Kid> ??
-[17:34:35] [Server thread/INFO]: <DrPoyo> it was kinda braggy
-[17:34:42] [Server thread/INFO]: <NBSpace_Kid> nah you gucci
-[17:35:52] [Server thread/INFO]: <NBSpace_Kid> i think this iron is yours
-[17:36:01] [Server thread/INFO]: <NBSpace_Kid> from the town hall chest
-[17:36:05] [Server thread/INFO]: <DrPoyo> oh oke
-[17:36:32] [Server thread/INFO]: <NBSpace_Kid> night time
-[17:36:52] [Server thread/INFO]: <DrPoyo> prove it
-[17:36:57] [Server thread/INFO]: <NBSpace_Kid> o h
-[17:37:04] [Server thread/INFO]: <DrPoyo> soo
-[17:37:15] [Server thread/INFO]: <NBSpace_Kid> kachow?
-[17:37:22] [Server thread/INFO]: <DrPoyo> damn right
-[17:37:31] [Server thread/INFO]: <NBSpace_Kid> aw hell yeah
-[17:37:42] [Server thread/INFO]: <NBSpace_Kid> kachow time
-[17:38:01] [Server thread/INFO]: <DrPoyo> do you have any wheat?
-[17:38:06] [Server thread/INFO]: <NBSpace_Kid> uuh yeah
-[17:38:10] [Server thread/INFO]: <NBSpace_Kid> wya?
-[17:38:17] [Server thread/INFO]: <DrPoyo> town hall
-[17:38:32] [Server thread/INFO]: <NBSpace_Kid> how much ya need?
-[17:38:54] [Server thread/INFO]: <DrPoyo> ty
-[17:39:03] [Server thread/INFO]: <DrPoyo> ty
-[17:41:52] [Server thread/INFO]: <NBSpace_Kid> how the fuck is it almost 5
-[17:41:59] [Server thread/INFO]: <DrPoyo> oh shit
-[17:42:22] [Server thread/INFO]: <NBSpace_Kid> uhhhhhh
-[17:42:27] [Server thread/INFO]: <NBSpace_Kid> i gtg do wrol
-[17:42:30] [Server thread/INFO]: <NBSpace_Kid> work
-[17:42:36] [Server thread/INFO]: <DrPoyo> byeee
-[17:42:38] [Server thread/INFO]: <NBSpace_Kid> jesus i think i had a stroke
-[17:42:45] [Server thread/INFO]: <NBSpace_Kid> see ya
-[17:42:47] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[17:42:47] [Server thread/INFO]: NBSpace_Kid left the game
-[17:56:32] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[17:56:32] [Server thread/INFO]: DrPoyo left the game
-[19:47:07] [User Authenticator #56/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[19:47:07] [Server thread/INFO]: DrPoyo[/74.133.67.1:50397] logged in with entity id 217556 at (946.9777420522282, 77.0, -644.1971985406277)
-[19:47:07] [Server thread/INFO]: DrPoyo joined the game
-[19:48:14] [Server thread/WARN]: DrPoyo moved too quickly! 4.27524437138743,0.125,-9.226813005024042
-[20:00:25] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[20:00:25] [Server thread/INFO]: DrPoyo left the game
-[20:05:01] [User Authenticator #57/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[20:05:01] [Server thread/INFO]: DrPoyo[/74.133.67.1:50446] logged in with entity id 220747 at (931.1408445846989, 75.0, -639.8415054606413)
-[20:05:01] [Server thread/INFO]: DrPoyo joined the game
-[20:16:26] [User Authenticator #58/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[20:16:26] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:64998] logged in with entity id 222781 at (784.7895784107367, 75.0, -778.3807436300971)
-[20:16:26] [Server thread/INFO]: NBSpace_Kid joined the game
-[20:16:30] [Server thread/INFO]: <DrPoyo> hewwo
-[20:16:33] [Server thread/INFO]: <NBSpace_Kid> hihi
-[20:18:45] [Server thread/INFO]: <NBSpace_Kid> thats a lot of buddies
-[20:18:54] [Server thread/INFO]: <DrPoyo> i got impatient
-[20:18:58] [Server thread/INFO]: <NBSpace_Kid> oop
-[20:19:54] [Server thread/WARN]: DrPoyo moved wrongly!
-[20:23:47] [Server thread/INFO]: <DrPoyo> hewwo do you have lanterns i can use?
-[20:23:56] [Server thread/INFO]: <NBSpace_Kid> uuh ye
-[20:24:05] [Server thread/INFO]: <NBSpace_Kid> im at hotsprins
-[20:24:33] [Server thread/INFO]: <DrPoyo> ty
-[20:25:43] [Server thread/INFO]: <DrPoyo> fish
-[20:26:00] [Server thread/INFO]: <NBSpace_Kid> ive become la fishe
-[20:27:35] [Server thread/INFO]: <DrPoyo> i kinda wanna build a bathhouse too, but that seems like a lot of work
-[20:27:52] [Server thread/INFO]: <NBSpace_Kid> ehh it shouldnt be
-[20:29:03] [Server thread/INFO]: <DrPoyo> imagine playing hide and seek w/a bunch of players in the village
-[20:29:08] [Server thread/INFO]: <NBSpace_Kid> OO
-[20:29:11] [Server thread/INFO]: <NBSpace_Kid> oop caps
-[20:30:10] [Server thread/INFO]: <DrPoyo> ill do it
-[20:30:29] [Server thread/INFO]: <NBSpace_Kid> o h
-[20:33:28] [Server thread/INFO]: <DrPoyo> idk what i wanna do
-[20:33:34] [Server thread/INFO]: <NBSpace_Kid> with?
-[20:34:04] [Server thread/INFO]: <NBSpace_Kid> brb
-[20:39:19] [Server thread/INFO]: <DrPoyo> me too
-[20:41:20] [Server thread/INFO]: <NBSpace_Kid> bac
-[20:41:36] [Server thread/INFO]: <DrPoyo> wb
-[20:41:39] [Server thread/INFO]: <NBSpace_Kid> tyty
-[20:42:58] [Server thread/INFO]: <NBSpace_Kid> bruh??
-[20:43:14] [Server thread/INFO]: <DrPoyo> was trying to trap you, fell in
-[20:43:21] [Server thread/INFO]: <NBSpace_Kid> lel
-[20:52:46] [Server thread/INFO]: <NBSpace_Kid> are you still in the nether?
-[20:53:05] [Server thread/INFO]: <DrPoyo> im getting meding books, ill be there soon though
-[20:53:10] [Server thread/INFO]: <NBSpace_Kid> mkay
-[20:55:50] [Server thread/INFO]: <DrPoyo> im there
-[20:56:06] [Server thread/INFO]: <NBSpace_Kid> just need ya to sleep
-[20:56:37] [Server thread/INFO]: <DrPoyo> sleepin
-[20:57:27] [Server thread/INFO]: <NBSpace_Kid> do you wanna go caving in a bit?
-[20:57:31] [Server thread/INFO]: <DrPoyo> sure
-[20:57:35] [Server thread/INFO]: <NBSpace_Kid> neat
-[20:58:51] [Server thread/INFO]: <NBSpace_Kid> tell me when you wanna go
-[20:59:05] [Server thread/INFO]: <DrPoyo> m ready
-[20:59:29] [Server thread/INFO]: <NBSpace_Kid> k you good w/ mesa?
-[20:59:45] [Server thread/INFO]: <DrPoyo> i have bad memories there
-[20:59:49] [Server thread/INFO]: <DrPoyo> but sure
-[20:59:54] [Server thread/INFO]: <NBSpace_Kid> oof mkay
-[21:00:04] [Server thread/INFO]: <DrPoyo> hewp pwease
-[21:00:09] [Server thread/INFO]: <DrPoyo> mr obawa
-[21:00:17] [Server thread/INFO]: <NBSpace_Kid> oh
-[21:01:14] [Server thread/INFO]: <DrPoyo> im bringing full armor but its so scary not to use wings
-[21:01:35] [Server thread/INFO]: <NBSpace_Kid> yeah same,,
-[21:02:46] [Server thread/INFO]: <DrPoyo> u mad bro
-[21:02:51] [Server thread/INFO]: <NBSpace_Kid> angy
-[21:03:08] [Server thread/INFO]: <DrPoyo> bout to say
-[21:03:19] [Server thread/INFO]: <NBSpace_Kid> idk where im going
-[21:03:36] [Server thread/INFO]: <DrPoyo> uuh
-[21:04:23] [Server thread/INFO]: <NBSpace_Kid> ill check if right
-[21:04:43] [Server thread/INFO]: <DrPoyo> yep
-[21:05:01] [Server thread/INFO]: <DrPoyo> cat
-[21:05:16] [Server thread/INFO]: <NBSpace_Kid> im hella laggy brb
-[21:05:18] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[21:05:18] [Server thread/INFO]: NBSpace_Kid left the game
-[21:06:05] [User Authenticator #59/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[21:06:05] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:65182] logged in with entity id 233997 at (60.33989712113973, 63.0, 1763.6674834416451)
-[21:06:05] [Server thread/INFO]: NBSpace_Kid joined the game
-[21:06:10] [Server thread/INFO]: <DrPoyo> i left you
-[21:06:14] [Server thread/INFO]: <NBSpace_Kid> oh
-[21:06:28] [Server thread/INFO]: <DrPoyo> i went back to nether
-[21:06:43] [Server thread/INFO]: <NBSpace_Kid> y.?
-[21:06:50] [Server thread/INFO]: <DrPoyo> wrong portal
-[21:06:53] [Server thread/INFO]: <NBSpace_Kid> oof
-[21:07:26] [Server thread/INFO]: <NBSpace_Kid> where you at
-[21:09:33] [Server thread/INFO]: <DrPoyo> zz
-[21:12:47] [Server thread/INFO]: <NBSpace_Kid> ive lost you
-[21:13:02] [Server thread/INFO]: <DrPoyo> i see minshaft
-[21:13:08] [Server thread/INFO]: <NBSpace_Kid> oo where
-[21:13:16] [Server thread/INFO]: <DrPoyo> goto hill
-[21:13:29] [Server thread/INFO]: <DrPoyo> top of hill
-[21:13:29] [Server thread/INFO]: <NBSpace_Kid> here
-[21:14:37] [Server thread/INFO]: <DrPoyo> oi
-[21:18:33] [Server thread/INFO]: <DrPoyo> mesa islands look cool, nothin on them probs tho
-[21:18:45] [Server thread/INFO]: <NBSpace_Kid> yee
-[21:19:45] [Server thread/INFO]: <NBSpace_Kid> over here
-[21:20:40] [Server thread/INFO]: <DrPoyo> scary
-[21:21:10] [Server thread/INFO]: <NBSpace_Kid> do you need torches?
-[21:21:27] [Server thread/INFO]: <DrPoyo> i feel bad
-[21:21:32] [Server thread/INFO]: <NBSpace_Kid> y?
-[21:21:49] [Server thread/INFO]: <DrPoyo> this is someones mine, were defiling it
-[21:22:00] [Server thread/INFO]: <NBSpace_Kid> lmao this is our mine
-[21:22:08] [Server thread/INFO]: <DrPoyo> but
-[21:22:14] [Server thread/INFO]: <DrPoyo> the torches?
-[21:22:19] [Server thread/INFO]: <DrPoyo> and stairway?
-[21:22:24] [Server thread/INFO]: <NBSpace_Kid> this is were we left off last time
-[21:22:38] [Server thread/INFO]: <DrPoyo> oh, i didnt make it that far
-[21:22:51] [Server thread/INFO]: <NBSpace_Kid> you died right here??
-[21:23:02] [Server thread/INFO]: <DrPoyo> yeah
-[21:25:43] [Server thread/INFO]: <NBSpace_Kid> meany
-[21:25:46] [Server thread/INFO]: <DrPoyo> ha
-[21:30:36] [Server thread/INFO]: <DrPoyo> hewwo?
-[21:30:42] [Server thread/INFO]: <NBSpace_Kid> hewwo??
-[21:30:49] [Server thread/INFO]: <DrPoyo> HEWWO?!?
-[21:31:04] [Server thread/INFO]: <NBSpace_Kid> come back
-[21:35:33] [Server thread/INFO]: <DrPoyo> COME BACC
-[21:35:40] [Server thread/INFO]: <DrPoyo> whoops caps
-[21:35:51] [Server thread/INFO]: <NBSpace_Kid> chest over here
-[21:39:24] [Server thread/INFO]: <NBSpace_Kid> up or down?
-[21:39:32] [Server thread/INFO]: <DrPoyo> oh yikes
-[21:39:37] [Server thread/INFO]: <DrPoyo> up then down
-[21:39:40] [Server thread/INFO]: <NBSpace_Kid> kk
-[21:40:26] [Server thread/INFO]: <NBSpace_Kid> SORRY
-[21:40:32] [Server thread/INFO]: <DrPoyo> its ok
-[21:42:00] [Server thread/INFO]: <DrPoyo> srry
-[21:42:13] [Server thread/INFO]: <NBSpace_Kid> didnt hit me just spooked me u good
-[21:47:35] [Server thread/INFO]: <DrPoyo> brb
-[21:47:40] [Server thread/INFO]: <NBSpace_Kid> oki
-[21:54:24] [Server thread/INFO]: <DrPoyo> fight!
-[21:54:40] [Server thread/INFO]: /advancement (grant|revoke)
-[21:54:40] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
-[21:54:40] [Server thread/INFO]: /ban <targets> [<reason>]
-[21:54:40] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[21:54:40] [Server thread/INFO]: /banlist [ips|players]
-[21:54:40] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[21:54:40] [Server thread/INFO]: /clear [<targets>]
-[21:54:40] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[21:54:40] [Server thread/INFO]: /data (get|merge|modify|remove)
-[21:54:40] [Server thread/INFO]: /datapack (disable|enable|list)
-[21:54:40] [Server thread/INFO]: /debug (report|start|stop)
-[21:54:40] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[21:54:40] [Server thread/INFO]: /deop <targets>
-[21:54:40] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[21:54:40] [Server thread/INFO]: /effect (clear|give)
-[21:54:40] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[21:54:40] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[21:54:40] [Server thread/INFO]: /experience (add|query|set)
-[21:54:40] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[21:54:40] [Server thread/INFO]: /forceload (add|query|remove)
-[21:54:40] [Server thread/INFO]: /function <name>
-[21:54:40] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[21:54:40] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[21:54:40] [Server thread/INFO]: /give <targets> <item> [<count>]
-[21:54:40] [Server thread/INFO]: /help [<command>]
-[21:54:40] [Server thread/INFO]: /kick <targets> [<reason>]
-[21:54:40] [Server thread/INFO]: /kill [<targets>]
-[21:54:40] [Server thread/INFO]: /list [uuids]
-[21:54:40] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
-[21:54:40] [Server thread/INFO]: /locatebiome <biome>
-[21:54:40] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[21:54:40] [Server thread/INFO]: /me <action>
-[21:54:40] [Server thread/INFO]: /msg <targets> <message>
-[21:54:40] [Server thread/INFO]: /op <targets>
-[21:54:40] [Server thread/INFO]: /pardon <targets>
-[21:54:40] [Server thread/INFO]: /pardon-ip <target>
-[21:54:40] [Server thread/INFO]: /particle <name> [<pos>]
-[21:54:40] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[21:54:40] [Server thread/INFO]: /recipe (give|take)
-[21:54:40] [Server thread/INFO]: /reload
-[21:54:40] [Server thread/INFO]: /replaceitem (block|entity)
-[21:54:40] [Server thread/INFO]: /save-all [flush]
-[21:54:40] [Server thread/INFO]: /save-off
-[21:54:40] [Server thread/INFO]: /save-on
-[21:54:40] [Server thread/INFO]: /say <message>
-[21:54:40] [Server thread/INFO]: /schedule (clear|function)
-[21:54:40] [Server thread/INFO]: /scoreboard (objectives|players)
-[21:54:40] [Server thread/INFO]: /seed
-[21:54:40] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[21:54:40] [Server thread/INFO]: /setidletimeout <minutes>
-[21:54:40] [Server thread/INFO]: /setworldspawn [<pos>]
-[21:54:40] [Server thread/INFO]: /spawnpoint [<targets>]
-[21:54:40] [Server thread/INFO]: /spectate [<target>]
-[21:54:40] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[21:54:40] [Server thread/INFO]: /stop
-[21:54:40] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[21:54:40] [Server thread/INFO]: /summon <entity> [<pos>]
-[21:54:40] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[21:54:40] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[21:54:40] [Server thread/INFO]: /teammsg <message>
-[21:54:40] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[21:54:40] [Server thread/INFO]: /tell -> msg
-[21:54:40] [Server thread/INFO]: /tellraw <targets> <message>
-[21:54:40] [Server thread/INFO]: /time (add|query|set)
-[21:54:40] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[21:54:40] [Server thread/INFO]: /tm -> teammsg
-[21:54:40] [Server thread/INFO]: /tp -> teleport
-[21:54:40] [Server thread/INFO]: /trigger <objective> [add|set]
-[21:54:40] [Server thread/INFO]: /w -> msg
-[21:54:40] [Server thread/INFO]: /weather (clear|rain|thunder)
-[21:54:40] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[21:54:40] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[21:54:40] [Server thread/INFO]: /xp -> experience
-[21:56:51] [Server thread/INFO]: <DrPoyo> im sorry
-[21:56:59] [Server thread/INFO]: <NBSpace_Kid> u good
-[21:57:23] [Server thread/INFO]: <DrPoyo> hey
-[21:57:29] [Server thread/INFO]: <DrPoyo> i have fans
-[21:57:38] [Server thread/INFO]: <NBSpace_Kid> aw sweet man
-[21:57:41] [Server thread/INFO]: <NBSpace_Kid> congrats
-[21:57:43] [Server thread/INFO]: <NBSpace_Kid> o h
-[21:58:49] [Server thread/INFO]: <NBSpace_Kid> mom pls
-[21:59:28] [Server thread/INFO]: <NBSpace_Kid> do you need more torches?
-[21:59:32] [Server thread/INFO]: <DrPoyo> nah
-[21:59:43] [Server thread/INFO]: <NBSpace_Kid> oof
-[22:02:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:02:23] [Server thread/INFO]: save all<--[HERE]
-[22:02:25] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:02:25] [Server thread/INFO]: Saved the game
+[00:00:06] [Server thread/INFO]: <NBSpace_Kid> i saw cows on fire but didnt see you and got spooked
+[00:00:15] [Server thread/INFO]: <DrPoyo> fire cows
+[00:00:20] [Server thread/INFO]: <NBSpace_Kid> all hail
+[00:01:05] [Server thread/INFO]: <NBSpace_Kid> aight so you wanna take this down?
+[00:01:16] [Server thread/INFO]: <DrPoyo> yeah
+[00:01:20] [Server thread/INFO]: <NBSpace_Kid> mk
+[00:04:44] [Server thread/INFO]: <NBSpace_Kid> whatcha doin
+[00:05:00] [Server thread/INFO]: <DrPoyo> getting ready to make more sheep
+[00:05:05] [Server thread/INFO]: <NBSpace_Kid> noice
+[00:05:41] [Server thread/INFO]: <DrPoyo> i got distracted
+[00:05:47] [Server thread/INFO]: <NBSpace_Kid> lel
+[00:05:49] [Server thread/INFO]: <DrPoyo> so, the shops?
+[00:06:14] [Server thread/INFO]: <NBSpace_Kid> first terraforming/material gathering?
+[00:06:16] [User Authenticator #21/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[00:06:17] [Server thread/INFO]: Rocknrow[/24.192.41.13:49445] logged in with entity id 88975 at (-358.41588060413284, 154.95269883131414, -11.41593462156331)
+[00:06:17] [Server thread/INFO]: Rocknrow joined the game
+[00:06:21] [Server thread/INFO]: <NBSpace_Kid> hellohello
+[00:06:26] [Server thread/INFO]: <Rocknrow> egg
+[00:06:29] [Server thread/INFO]: <DrPoyo> howde
+[00:06:29] [Server thread/INFO]: <NBSpace_Kid> ok
+[00:06:31] [Server thread/INFO]: <DrPoyo> oh
+[00:06:47] [Server thread/INFO]: <NBSpace_Kid> yo are the mob spawn rates up?
+[00:06:50] [Server thread/INFO]: <Rocknrow> idk
+[00:06:53] [Server thread/INFO]: <NBSpace_Kid> oof
+[00:07:10] [Server thread/INFO]: <NBSpace_Kid> got dirt you dont want?
+[00:07:17] [Server thread/INFO]: <Rocknrow> always
+[00:07:30] [Server thread/INFO]: <NBSpace_Kid> can we have?
+[00:07:34] [Server thread/INFO]: <NBSpace_Kid> drry
+[00:07:37] [Server thread/INFO]: <NBSpace_Kid> srry*
+[00:07:42] [Server thread/INFO]: <Rocknrow> yeah if you collect it from the base
+[00:07:50] [Server thread/INFO]: <NBSpace_Kid> oof
+[00:08:03] [Server thread/INFO]: <DrPoyo> should i move the cows?
+[00:08:10] [Server thread/INFO]: <NBSpace_Kid> nah
+[00:09:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=736, y=70, z=-794} fx{x=736, y=68, z=-794}
+[00:09:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=736, y=70, z=-794} fx{x=736, y=68, z=-794}
+[00:09:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=735, y=70, z=-794} fx{x=736, y=68, z=-794}
+[00:09:40] [Server thread/INFO]: <DrPoyo> ty
+[00:09:48] [Server thread/INFO]: <Rocknrow> -1828 719
+[00:11:24] [Server thread/INFO]: <NBSpace_Kid> ethan sleb
+[00:11:27] [Server thread/INFO]: <Rocknrow> no
+[00:11:28] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[00:11:28] [Server thread/INFO]: Rocknrow left the game
+[00:11:44] [User Authenticator #22/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[00:11:44] [Server thread/INFO]: Rocknrow[/24.192.41.13:49480] logged in with entity id 94135 at (-1831.8534709323862, 67.0, 715.9550553298218)
+[00:11:44] [Server thread/INFO]: Rocknrow joined the game
+[00:12:00] [Server thread/INFO]: <NBSpace_Kid> roughly how big should the shops be?
+[00:12:03] [Server thread/INFO]: <Rocknrow> can someone retype those coords i typed earlier
+[00:12:12] [Server thread/INFO]: <DrPoyo> -1828 719
+[00:12:15] [Server thread/INFO]: <Rocknrow> ty
+[00:12:24] [Server thread/INFO]: <DrPoyo> ye
+[00:14:51] [Server thread/INFO]: <DrPoyo> this big for bakery 1 think
+[00:14:55] [Server thread/INFO]: <DrPoyo> i*
+[00:15:04] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:18:04] [Server thread/INFO]: <NBSpace_Kid> what materials do you need for banner shop?
+[00:18:57] [Server thread/INFO]: <DrPoyo> maybe some white terricotta
+[00:19:01] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:19:07] [Server thread/INFO]: <DrPoyo> hey
+[00:19:10] [Server thread/INFO]: <NBSpace_Kid> ?
+[00:19:23] [Server thread/INFO]: <DrPoyo> banner shop here, and bakery there?
+[00:19:28] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:19:39] [Server thread/INFO]: <NBSpace_Kid> we can add more shops later
+[00:21:38] [Server thread/INFO]: <Rocknrow> hey guys im starting a google doc for a coordinate map, so if you want anything marked lmk
+[00:21:45] [Server thread/INFO]: <NBSpace_Kid> kk
+[00:21:48] [Server thread/INFO]: <DrPoyo> ok
+[00:22:06] [Server thread/INFO]: <NBSpace_Kid> log rlly quick ethan
+[00:22:11] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[00:22:11] [Server thread/INFO]: Rocknrow left the game
+[00:22:30] [User Authenticator #23/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[00:22:30] [Server thread/INFO]: Rocknrow[/24.192.41.13:49519] logged in with entity id 104461 at (-4519.968682312376, 94.56088746736118, 1686.939058058374)
+[00:22:30] [Server thread/INFO]: Rocknrow joined the game
+[00:22:50] [Server thread/INFO]: <DrPoyo> what should we make the baker out of?
+[00:23:11] [Server thread/INFO]: <NBSpace_Kid> thinkin same vibe as my house
+[00:25:12] [Server thread/INFO]: <DrPoyo> goin to the nether, you need anything>
+[00:25:24] [Server thread/INFO]: <NBSpace_Kid> mm dont think so
+[00:25:30] [Server thread/INFO]: <Rocknrow> lemme get a number 2 with a side of fries
+[00:25:37] [Server thread/INFO]: <NBSpace_Kid> i s2g
+[00:25:46] [Server thread/INFO]: <NBSpace_Kid> ill throw a cat on you
+[00:25:46] [Server thread/INFO]: <DrPoyo> would you like a drink w/that?
+[00:25:51] [Server thread/INFO]: <NBSpace_Kid> oh god
+[00:25:55] [Server thread/INFO]: <Rocknrow> sweat tea
+[00:25:59] [Server thread/INFO]: <Rocknrow> shuit
+[00:26:01] [Server thread/INFO]: <Rocknrow> sweet
+[00:26:05] [Server thread/INFO]: <Rocknrow> not sweat
+[00:26:09] [Server thread/INFO]: <NBSpace_Kid> you good there bud?
+[00:26:11] [Server thread/INFO]: <DrPoyo> ew sweat tea
+[00:26:13] [Server thread/INFO]: <Rocknrow> no
+[00:26:42] [Server thread/INFO]: <Rocknrow> damn i forgot my enderchest
+[00:26:47] [Server thread/INFO]: <NBSpace_Kid> ha
+[00:27:39] [Server thread/INFO]: <NBSpace_Kid> i just got a christmas ad and the rage is slowly building
+[00:27:49] [Server thread/INFO]: <Rocknrow> lol
+[00:27:50] [Server thread/INFO]: <DrPoyo> oh
+[00:27:55] [Server thread/INFO]: <Rocknrow> i live in christmas at work
+[00:28:02] [Server thread/INFO]: <Rocknrow> your plight means nothing
+[00:28:15] [Server thread/INFO]: <NBSpace_Kid> dont work in a southern place??
+[00:28:28] [Server thread/INFO]: <Rocknrow> groovy
+[00:29:27] [Server thread/INFO]: <Rocknrow> well time to fly 6000 blocks back to my base
+[00:29:33] [Server thread/INFO]: <NBSpace_Kid> F
+[00:30:37] [Server thread/INFO]: <Rocknrow> holy whit
+[00:30:38] [Server thread/INFO]: <Rocknrow> shit
+[00:30:44] [Server thread/INFO]: <NBSpace_Kid> ?
+[00:30:45] [Server thread/INFO]: <DrPoyo> wha
+[00:30:57] [Server thread/INFO]: <Rocknrow> abandoned nether portal with a full set of gold armor in the chest
+[00:31:02] [Server thread/INFO]: <NBSpace_Kid> nice
+[00:32:17] [Server thread/INFO]: <Rocknrow> i guess its good i have the coordbook now
+[00:32:27] [Server thread/INFO]: <Rocknrow> cause im gonna just mark those down and come back
+[00:32:46] [Server thread/INFO]: <NBSpace_Kid> i just take screenshots
+[00:33:04] [Server thread/INFO]: <NBSpace_Kid> log pls
+[00:33:07] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[00:33:07] [Server thread/INFO]: Rocknrow left the game
+[00:34:33] [User Authenticator #24/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[00:34:33] [Server thread/INFO]: Rocknrow[/24.192.41.13:49555] logged in with entity id 121585 at (-3113.1961688380397, 75.16414514635906, 84.63501838720492)
+[00:34:33] [Server thread/INFO]: Rocknrow joined the game
+[00:34:54] [Server thread/INFO]: <DrPoyo> do piglins get mad if you chop trees?
+[00:34:58] [Server thread/INFO]: <Rocknrow> dont think so
+[00:35:10] [Server thread/INFO]: <Rocknrow> only gilded blackstone, gold blocks and chests
+[00:35:22] [Server thread/INFO]: <DrPoyo> ok cool, ty
+[00:41:23] [Server thread/INFO]: <DrPoyo> idk abt this, should i use this wood?
+[00:41:38] [Server thread/INFO]: <NBSpace_Kid> can always change it later
+[00:41:44] [Server thread/INFO]: <DrPoyo> true
+[00:42:52] [Server thread/INFO]: <DrPoyo> i just took shaders off and this looks like ass, spruce it is
+[00:43:00] [Server thread/INFO]: <NBSpace_Kid> oof
+[00:43:56] [Server thread/INFO]: <NBSpace_Kid> log pls
+[00:44:50] [Server thread/INFO]: <NBSpace_Kid> im going to murder this villager
+[00:44:57] [Server thread/INFO]: <DrPoyo> who?
+[00:45:01] [Server thread/INFO]: <NBSpace_Kid> fletcher
+[00:45:17] [Server thread/INFO]: <DrPoyo> we need to give that bastard a name
+[00:45:26] [Server thread/INFO]: <NBSpace_Kid> dick
+[00:45:30] [Server thread/INFO]: <DrPoyo> ha
+[00:45:51] [Server thread/INFO]: <NBSpace_Kid> zombie w/ full gold
+[00:45:59] [Server thread/INFO]: <NBSpace_Kid> oop no pants
+[00:47:26] [Server thread/INFO]: <DrPoyo> this zombie rockin full chain armor
+[00:47:37] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[00:47:37] [Server thread/INFO]: Rocknrow left the game
+[00:47:39] [Server thread/INFO]: <NBSpace_Kid> owo
+[00:47:42] [Server thread/INFO]: <NBSpace_Kid> sleb
+[00:47:49] [User Authenticator #25/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[00:47:49] [Server thread/INFO]: Rocknrow[/24.192.41.13:49605] logged in with entity id 129488 at (201.63843301954716, 71.0, -269.412673400479)
+[00:47:49] [Server thread/INFO]: Rocknrow joined the game
+[00:48:01] [Server thread/INFO]: <DrPoyo> nooo
+[00:48:20] [Server thread/INFO]: <NBSpace_Kid> damn no armor drop :(
+[00:48:26] [Server thread/INFO]: <DrPoyo> rip stylish zombie
+[00:48:47] [Server thread/INFO]: <NBSpace_Kid> "stylish" is debatable
+[00:51:38] [Server thread/INFO]: <NBSpace_Kid> does this need to move?
+[00:52:01] [Server thread/INFO]: <DrPoyo> nah, only if u want
+[00:52:06] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:54:10] [Server thread/INFO]: <NBSpace_Kid> lots of windows or just a small amount?
+[00:54:17] [Server thread/INFO]: <DrPoyo> lots
+[00:54:21] [Server thread/INFO]: <NBSpace_Kid> mk
+[00:55:18] [Server thread/INFO]: <NBSpace_Kid> maam
+[00:55:23] [Server thread/INFO]: <DrPoyo> no proof
+[00:55:37] [Server thread/INFO]: <NBSpace_Kid> i saw you??
+[00:55:44] [Server thread/INFO]: <DrPoyo> nah
+[00:55:46] [Server thread/INFO]: <Rocknrow> no proof though
+[00:56:02] [Server thread/INFO]: <NBSpace_Kid> i will come downstairs and smack you
+[00:56:29] [Server thread/INFO]: <DrPoyo> look at that dumbass
+[00:56:33] [Server thread/INFO]: <NBSpace_Kid> look at that dummy
+[00:56:35] [Server thread/INFO]: <NBSpace_Kid> oop
+[00:56:37] [Server thread/INFO]: <DrPoyo> :o
+[00:57:44] [Server thread/INFO]: <Rocknrow> realest question now, are yall gonna make a banner emblem for your city
+[00:57:52] [Server thread/INFO]: <NBSpace_Kid> uuh
+[00:57:57] [Server thread/INFO]: <NBSpace_Kid> talk to the mayor
+[00:58:34] [Server thread/INFO]: <NBSpace_Kid> log
+[00:58:39] [Server thread/INFO]: <DrPoyo> never
+[00:58:43] [Server thread/INFO]: <Rocknrow> grug
+[01:05:33] [Server thread/INFO]: <DrPoyo> hey bud, srry for askin but can you move that chest>
+[01:10:38] [Server thread/INFO]: <NBSpace_Kid> ethannnn log pls
+[01:10:43] [Server thread/INFO]: <Rocknrow> im killing mobs
+[01:10:55] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[01:10:55] [Server thread/INFO]: Rocknrow left the game
+[01:11:07] [User Authenticator #26/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[01:11:07] [Server thread/INFO]: Rocknrow[/24.192.41.13:49687] logged in with entity id 140916 at (-5098.409191181628, 63.0, 675.2278774164884)
+[01:11:07] [Server thread/INFO]: Rocknrow joined the game
+[01:13:12] [Server thread/INFO]: <NBSpace_Kid> should i bring the roof down by one?
+[01:13:22] [Server thread/INFO]: <DrPoyo> yes
+[01:14:54] [Server thread/INFO]: <DrPoyo> do you have any basald
+[01:14:58] [Server thread/INFO]: <DrPoyo> basalt
+[01:15:01] [Server thread/INFO]: <Rocknrow> i love salad
+[01:15:10] [Server thread/INFO]: <NBSpace_Kid> uuh i dont think so
+[01:15:16] [Server thread/INFO]: <NBSpace_Kid> shh pleb
+[01:15:18] [Server thread/INFO]: <DrPoyo> oj, ty
+[01:15:21] [Server thread/INFO]: <Rocknrow> basalad
+[01:15:59] [Server thread/INFO]: <DrPoyo> basalad with balsalmic vineger
+[01:16:11] [Server thread/INFO]: <Rocknrow> yes
+[01:16:11] [Server thread/INFO]: <NBSpace_Kid> i hate yall
+[01:16:29] [Server thread/INFO]: <DrPoyo> you hurt me
+[01:16:33] [Server thread/INFO]: <Rocknrow> oop
+[01:16:33] [Server thread/INFO]: <NBSpace_Kid> goof
+[01:16:35] [Server thread/INFO]: <NBSpace_Kid> good
+[01:16:44] [Server thread/INFO]: <Rocknrow> almost fell in a pit
+[01:16:47] [Server thread/INFO]: <NBSpace_Kid> ha
+[01:17:19] [Server thread/INFO]: <DrPoyo> where do you find basalt again?
+[01:17:31] [Server thread/INFO]: <Rocknrow> theres a whole biome with basalt in it
+[01:17:51] [Server thread/INFO]: <NBSpace_Kid> in our nether strip mines theres some
+[01:17:54] [Server thread/INFO]: <NBSpace_Kid> bruh
+[01:17:59] [Server thread/INFO]: <DrPoyo> oke ty
+[01:18:25] [Server thread/INFO]: <DrPoyo> Nvm, im goin to bed. gn
+[01:18:31] [Server thread/INFO]: <NBSpace_Kid> g'night
+[01:18:50] [Server thread/INFO]: <DrPoyo> \
+[01:18:51] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[01:18:51] [Server thread/INFO]: DrPoyo left the game
+[01:21:12] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[01:21:12] [Server thread/INFO]: NBSpace_Kid left the game
+[01:21:14] [Server thread/INFO]: Rocknrow has made the advancement [Who's the Pillager Now?]
+[01:23:02] [Server thread/INFO]: Villager bfg['Librarian'/142479, l='ServerLevel[world]', x=-5472.34, y=64.96, z=871.87] died, message: 'Librarian was slain by Vindicator'
+[01:23:21] [Server thread/INFO]: Villager bfg['Villager'/142474, l='ServerLevel[world]', x=-5465.36, y=63.00, z=866.91] died, message: 'Villager was slain by Vindicator'
+[01:24:03] [Server thread/INFO]: <Rocknrow> WOOOOOO
+[01:24:07] [Server thread/INFO]: <Rocknrow> totems of undying
+[01:32:42] [Server thread/INFO]: Villager bfg['Villager'/154593, l='ServerLevel[world]', x=-9405.37, y=69.00, z=823.28] died, message: 'Villager suffocated in a wall'
+[01:54:31] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[01:54:31] [Server thread/INFO]: Rocknrow left the game
+[03:46:00] [User Authenticator #27/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[03:46:00] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:49888] logged in with entity id 176515 at (751.5709057533782, 74.0, -751.6520093126857)
+[03:46:00] [Server thread/INFO]: NBSpace_Kid joined the game
+[04:59:17] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[04:59:17] [Server thread/INFO]: NBSpace_Kid left the game
+[10:50:37] [User Authenticator #28/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[10:50:37] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:62308] logged in with entity id 190409 at (753.7858769422429, 74.0, -751.3917086201727)
+[10:50:37] [Server thread/INFO]: NBSpace_Kid joined the game
+[10:52:39] [Server thread/INFO]: NBSpace_Kid was slain by Enderman
+[11:56:17] [User Authenticator #29/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[11:56:17] [Server thread/INFO]: DrPoyo[/74.133.67.1:49990] logged in with entity id 205732 at (808.2297078248158, 67.5, -740.6322966954591)
+[11:56:17] [Server thread/INFO]: DrPoyo joined the game
+[11:56:20] [Server thread/INFO]: <NBSpace_Kid> hihi
+[11:56:23] [Server thread/INFO]: <DrPoyo> howdy
+[11:58:47] [Server thread/INFO]: <DrPoyo> this looks really nice!
+[11:58:52] [Server thread/INFO]: <NBSpace_Kid> tyty!!
+[11:59:05] [Server thread/INFO]: <DrPoyo> how much for cake?
+[11:59:17] [Server thread/INFO]: <NBSpace_Kid> uuh read sign on top
+[11:59:23] [Server thread/INFO]: <DrPoyo> oooh
+[12:00:07] [Server thread/INFO]: <NBSpace_Kid> decided to do gold over emeralds cause its more useful for me
+[12:00:17] [Server thread/INFO]: <DrPoyo> fair
+[12:02:20] [Server thread/INFO]: <NBSpace_Kid> did you by something else?
+[12:02:28] [Server thread/INFO]: <DrPoyo> i bought bread and cake
+[12:02:35] [Server thread/INFO]: <NBSpace_Kid> ah oke
+[12:02:47] [Server thread/INFO]: <NBSpace_Kid> thought you gave an extra one
+[12:02:51] [Server thread/INFO]: <DrPoyo> can 1 use this quarts?
+[12:02:57] [Server thread/INFO]: <NBSpace_Kid> yeye
+[12:06:23] [Server thread/INFO]: <DrPoyo> if you have anymore quarts lmk
+[12:06:29] [Server thread/INFO]: <NBSpace_Kid> mkay
+[12:08:58] [Server thread/INFO]: <DrPoyo> ty
+[12:09:39] [Server thread/INFO]: <DrPoyo> god i hate roofs
+[12:09:46] [Server thread/INFO]: <NBSpace_Kid> you want help?
+[12:09:54] [Server thread/INFO]: <DrPoyo> oui
+[12:10:16] [Server thread/INFO]: <NBSpace_Kid> whatcha need me to do?
+[12:10:27] [Server thread/INFO]: <DrPoyo> idk
+[12:10:31] [Server thread/INFO]: <NBSpace_Kid> oof
+[12:10:36] [Server thread/INFO]: <DrPoyo> brb
+[12:10:39] [Server thread/INFO]: <NBSpace_Kid> mk
+[12:19:37] [Server thread/INFO]: <NBSpace_Kid> feel free to jump on the bakery roof to see it
+[12:19:49] [Server thread/INFO]: <DrPoyo> ty
+[12:29:44] [Server thread/INFO]: <DrPoyo> brb
+[12:29:46] [Server thread/INFO]: <NBSpace_Kid> mk
+[12:36:36] [Server thread/INFO]: <DrPoyo> why is this bitch in my store
+[12:36:40] [Server thread/INFO]: <NBSpace_Kid> lmao
+[12:36:50] [Server thread/INFO]: <NBSpace_Kid> he was staring at you for a good while
+[12:37:08] [Server thread/INFO]: <DrPoyo> i want sea pickel
+[12:38:28] [Server thread/INFO]: <DrPoyo> can i kill him?
+[12:38:31] [Server thread/INFO]: <NBSpace_Kid> sure
+[12:43:25] [Server thread/INFO]: <NBSpace_Kid> brb
+[12:43:28] [Server thread/INFO]: <DrPoyo> k
+[12:46:28] [Server thread/INFO]: <NBSpace_Kid> bacc
+[12:46:34] [Server thread/INFO]: <DrPoyo> yayy
+[12:47:59] [Server thread/INFO]: <NBSpace_Kid> i didnt mean to do that
+[12:48:03] [Server thread/INFO]: <DrPoyo> ha
+[12:48:36] [Server thread/INFO]: <DrPoyo> am stuck
+[12:48:48] [Server thread/INFO]: <NBSpace_Kid> 1 sec
+[12:50:17] [Server thread/INFO]: <NBSpace_Kid> sleb
+[12:50:27] [Server thread/INFO]: <DrPoyo> no
+[12:50:34] [Server thread/INFO]: <NBSpace_Kid> ruud
+[12:54:37] [Server thread/INFO]: <NBSpace_Kid> so i live right by christ the kind and these kids are SCREECHING
+[12:54:51] [Server thread/INFO]: <DrPoyo> yikes
+[12:55:37] [Server thread/INFO]: <NBSpace_Kid> sounds like some kids are getting murdered
+[12:55:54] [Server thread/INFO]: <NBSpace_Kid> i made a fucky wucky
+[12:56:02] [Server thread/INFO]: <DrPoyo> how so?
+[12:56:20] [Server thread/INFO]: <NBSpace_Kid> ender peraled into a wall and started sufficating
+[12:56:27] [Server thread/INFO]: <DrPoyo> ha
+[12:56:45] [Server thread/INFO]: <NBSpace_Kid> i have small brain
+[12:57:58] [Server thread/INFO]: <DrPoyo> cant think of prices
+[12:58:31] [Server thread/INFO]: <NBSpace_Kid> mm think of categories first
+[12:58:45] [Server thread/INFO]: <NBSpace_Kid> and if youll provide custom banners
+[12:59:07] [Server thread/INFO]: <DrPoyo> plain banners, dyes, and commissions
+[12:59:36] [Server thread/INFO]: <NBSpace_Kid> will you be making pre-made banner designs>
+[12:59:39] [Server thread/INFO]: <NBSpace_Kid> ?*
+[12:59:47] [Server thread/INFO]: <DrPoyo> simple ones
+[12:59:54] [Server thread/INFO]: <NBSpace_Kid> mkay
+[13:00:08] [Server thread/INFO]: <NBSpace_Kid> what currency do you want?
+[13:00:09] [Server thread/INFO]: <NBSpace_Kid> brb
+[13:00:31] [Server thread/INFO]: <DrPoyo> probs gold too, gold should be local econ i think
+[13:02:57] [Server thread/INFO]: <NBSpace_Kid> mkay
+[13:04:19] [Server thread/INFO]: <NBSpace_Kid> what quantity will the dyes be sold in?
+[13:04:29] [Server thread/INFO]: <DrPoyo> prolly 2
+[13:04:32] [Server thread/INFO]: <DrPoyo> or 4
+[13:06:08] [Server thread/INFO]: <NBSpace_Kid> aight so 5 gold for simple premade banner, 1 for 2-4 dyes, commissionsany where from 6-12 depending on complexity?
+[13:06:17] [Server thread/INFO]: <DrPoyo> ok
+[13:08:42] [Server thread/INFO]: <DrPoyo> well...
+[13:08:47] [Server thread/INFO]: <NBSpace_Kid> looks good
+[13:09:00] [Server thread/INFO]: <DrPoyo> i dont wanna get all that dye
+[13:09:06] [Server thread/INFO]: <NBSpace_Kid> ill help
+[13:09:09] [Server thread/INFO]: <DrPoyo> bah
+[13:09:11] [Server thread/INFO]: <DrPoyo> oh ty
+[13:09:20] [Server thread/INFO]: <DrPoyo> how many are there
+[13:09:29] [Server thread/INFO]: <NBSpace_Kid> mm lemme check 1 check
+[13:09:41] [Server thread/INFO]: <DrPoyo> fuck i forgot to breed sheep
+[13:09:50] [Server thread/INFO]: <NBSpace_Kid> oof
+[13:10:28] [Server thread/INFO]: <NBSpace_Kid> 16
+[13:11:22] [Server thread/INFO]: <NBSpace_Kid> list was sent on disc
+[13:11:44] [Server thread/INFO]: <DrPoyo> bastard went in the wrong one
+[13:13:43] [Server thread/INFO]: <DrPoyo> 16 dye huh
+[13:13:49] [Server thread/INFO]: <NBSpace_Kid> mhmm
+[13:13:49] [Server thread/WARN]: DrPoyo moved wrongly!
+[13:14:08] [Server thread/INFO]: <DrPoyo> gotta catch em all
+[13:14:35] [Server thread/INFO]: <NBSpace_Kid> is it one dye color per barrel?
+[13:14:40] [Server thread/INFO]: <DrPoyo> yeah
+[13:14:44] [Server thread/INFO]: <NBSpace_Kid> mk
+[13:15:15] [Server thread/INFO]: <NBSpace_Kid> uhh issue
+[13:15:19] [Server thread/INFO]: <DrPoyo> hm?
+[13:15:25] [Server thread/INFO]: <NBSpace_Kid> 13 barrels
+[13:16:12] [Server thread/INFO]: <NBSpace_Kid> we could half the barrels and make the last 5 for premade banners
+[13:17:28] [Server thread/INFO]: <NBSpace_Kid> ill let you figure it out- ima run to the desert and grab cactus
+[13:17:35] [Server thread/INFO]: <DrPoyo> ty
+[13:37:45] [Server thread/INFO]: <DrPoyo> TY
+[13:37:54] [Server thread/INFO]: <DrPoyo> whoops caps
+[13:37:59] [Server thread/INFO]: <NBSpace_Kid> lel
+[13:39:26] [Server thread/INFO]: <NBSpace_Kid> where does regular blue go?
+[13:39:41] [Server thread/INFO]: <NBSpace_Kid> tyty
+[13:42:18] [Server thread/INFO]: <DrPoyo> welcome to mah shop
+[13:42:25] [Server thread/INFO]: <NBSpace_Kid> vry lovely
+[13:42:29] [Server thread/INFO]: <DrPoyo> tyty
+[13:42:37] [Server thread/INFO]: <DrPoyo> imma go squid hunting
+[13:42:41] [Server thread/INFO]: <NBSpace_Kid> where should i put extra dyes?
+[13:42:43] [Server thread/INFO]: <NBSpace_Kid> mkay
+[13:48:07] [Server thread/INFO]: <DrPoyo> do you have an enchanted golden apple?
+[13:48:15] [Server thread/INFO]: <NBSpace_Kid> maybe??
+[13:48:17] [Server thread/INFO]: <DrPoyo> ill pay for it
+[13:48:26] [Server thread/INFO]: <NBSpace_Kid> lemme check rlly quick
+[13:49:30] [Server thread/INFO]: <NBSpace_Kid> dont have one sorry
+[13:49:35] [Server thread/INFO]: <DrPoyo> it cool
+[13:54:52] [Server thread/INFO]: <NBSpace_Kid> brb
+[13:56:17] [Server thread/WARN]: DrPoyo moved wrongly!
+[13:58:06] [Server thread/INFO]: <NBSpace_Kid> bac
+[13:58:12] [Server thread/INFO]: <DrPoyo> wb
+[14:01:13] [Server thread/INFO]: <NBSpace_Kid> theres a turtle in the nether
+[14:01:20] [Server thread/INFO]: <DrPoyo> oh
+[14:01:25] [Server thread/INFO]: <NBSpace_Kid> also ty (i didnt see the wb srry)
+[14:01:49] [Server thread/INFO]: <DrPoyo> u gucci
+[14:07:10] [Server thread/INFO]: <NBSpace_Kid> are the white dyes supposed to be stacked in 8?
+[14:07:45] [Server thread/INFO]: <DrPoyo> ty
+[14:07:48] [Server thread/INFO]: <NBSpace_Kid> np
+[14:14:19] [Server thread/INFO]: <DrPoyo> ty for the help, i need to do hw
+[14:14:29] [Server thread/INFO]: <NBSpace_Kid> oki see ya
+[14:14:32] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[14:14:32] [Server thread/INFO]: DrPoyo left the game
+[14:20:02] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[14:20:02] [Server thread/INFO]: NBSpace_Kid left the game
+[14:44:24] [User Authenticator #30/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[14:44:24] [Server thread/INFO]: Rocknrow[/24.192.41.13:54035] logged in with entity id 241627 at (270.91593621746983, 89.9375, -253.67235995404212)
+[14:44:24] [Server thread/INFO]: Rocknrow joined the game
+[15:24:52] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[15:24:52] [Server thread/INFO]: Rocknrow left the game
+[15:31:41] [User Authenticator #31/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[15:31:41] [Server thread/INFO]: mano328[/128.211.189.182:58419] logged in with entity id 255594 at (466.68983085970274, 63.5, 328.07825958892045)
+[15:31:41] [Server thread/INFO]: mano328 joined the game
+[15:32:32] [User Authenticator #32/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[15:32:32] [Server thread/INFO]: Rocknrow[/24.192.41.13:54462] logged in with entity id 255856 at (220.69999998807907, 79.0, -254.84060602091685)
+[15:32:32] [Server thread/INFO]: Rocknrow joined the game
+[15:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:46:25] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[15:46:25] [Server thread/INFO]: Rocknrow left the game
+[15:48:05] [User Authenticator #33/INFO]: UUID of player Rocknrow is 41122a11-c64b-4626-8815-68da5d249767
+[15:48:06] [Server thread/INFO]: Rocknrow[/24.192.41.13:54559] logged in with entity id 266897 at (28.320159011482392, 117.0, -31.226085526814888)
+[15:48:06] [Server thread/INFO]: Rocknrow joined the game
+[15:57:20] [Server thread/INFO]: Rocknrow lost connection: Disconnected
+[15:57:20] [Server thread/INFO]: Rocknrow left the game
+[16:13:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1753, y=20, z=1457} fx{x=1753, y=22, z=1459}
+[16:36:25] [Server thread/INFO]: mano328 lost connection: Disconnected
+[16:36:25] [Server thread/INFO]: mano328 left the game
+[16:46:52] [User Authenticator #34/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[16:46:52] [Server thread/INFO]: DrPoyo[/74.133.67.1:50694] logged in with entity id 276890 at (744.9743929941549, 71.0, -765.9900846916948)
+[16:46:52] [Server thread/INFO]: DrPoyo joined the game
+[17:31:55] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[17:31:55] [Server thread/INFO]: DrPoyo left the game
+[17:32:02] [User Authenticator #35/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[17:32:02] [Server thread/INFO]: DrPoyo[/74.133.67.1:50784] logged in with entity id 288521 at (786.8319617385367, 78.0, -782.6999999880791)
+[17:32:02] [Server thread/INFO]: DrPoyo joined the game
+[17:37:48] [User Authenticator #36/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[17:37:49] [Server thread/INFO]: Momo37[/74.129.58.2:58700] logged in with entity id 289523 at (829.0053154293992, 56.0, -689.5431437377993)
+[17:37:49] [Server thread/INFO]: Momo37 joined the game
+[17:38:05] [Server thread/INFO]: <DrPoyo> Hola soy dora
+[17:38:33] [Server thread/INFO]: <Momo37> tu es muy stupido
+[17:38:43] [Server thread/INFO]: <DrPoyo> i cant speak spanish
+[17:38:55] [Server thread/INFO]: <DrPoyo> come look at elliots bakery
+[17:39:01] [Server thread/INFO]: <Momo37> i called you a stupid dude
+[17:39:18] [Server thread/INFO]: <DrPoyo> well ur smelly
+[17:40:19] [Server thread/INFO]: <DrPoyo> thats not the bakery
+[17:40:43] [Server thread/INFO]: <Momo37> what is the other building
+[17:40:48] [Server thread/INFO]: <DrPoyo> make sure you read the signs
+[17:40:55] [Server thread/INFO]: <DrPoyo> my banner shop
+[17:41:08] [Server thread/INFO]: <Momo37> well the banners are pretty cool
+[17:41:14] [Server thread/INFO]: <DrPoyo> ty
+[17:42:36] [Server thread/INFO]: <DrPoyo> did you buy anything? times are tough support local buisnesses
+[17:42:48] [Server thread/INFO]: <Momo37> i did not
+[17:42:54] [Server thread/INFO]: <DrPoyo> coward
+[17:43:13] [Server thread/INFO]: <Momo37> i dont even know how much gold i have right now
+[17:43:37] [Server thread/INFO]: <Momo37> but i also rlly want to make a bar/tavern now
+[17:44:03] [Server thread/INFO]: <DrPoyo> make sure the area is cool w/elliot first, then go for it
+[17:44:17] [Server thread/INFO]: <Momo37> ill think about it
+[17:44:26] [Server thread/INFO]: <DrPoyo> imma go, l8r
+[17:44:36] [Server thread/INFO]: <Momo37> see ya
+[17:44:40] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[17:44:40] [Server thread/INFO]: DrPoyo left the game
+[18:08:10] [Server thread/INFO]: Villager bfg['Farmer'/290121, l='ServerLevel[world]', x=743.70, y=78.00, z=-988.08] died, message: 'Farmer was slain by Zombie'
+[18:17:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/296788, l='ServerLevel[world]', x=745.04, y=70.00, z=-745.53]
+[18:37:10] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[18:37:10] [Server thread/INFO]: Momo37 left the game
+[18:37:18] [User Authenticator #37/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[18:37:18] [Server thread/INFO]: Momo37[/74.129.58.2:59069] logged in with entity id 300770 at (588.6999999880791, 20.0, -701.4188628596968)
+[18:37:18] [Server thread/INFO]: Momo37 joined the game
+[18:37:35] [User Authenticator #38/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[18:37:35] [Server thread/INFO]: mano328[/128.211.189.182:64345] logged in with entity id 301050 at (1802.012292500419, 28.100649443784274, 1471.4658527875163)
+[18:37:35] [Server thread/INFO]: mano328 joined the game
+[18:40:33] [Server thread/INFO]: <mano328> can we sleep?
+[18:41:15] [Server thread/INFO]: <mano328> f.y.i. im doing some work around the end portal today so it may be slightly jank for a bit
+[18:41:25] [Server thread/INFO]: <Momo37> ok
+[18:49:03] [Server thread/INFO]: Momo37 has made the advancement [Cover Me With Diamonds]
+[18:52:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=573, y=34, z=-2195} fx{x=572, y=34, z=-2194}
+[19:42:32] [Server thread/INFO]: mano328 lost connection: Disconnected
+[19:42:32] [Server thread/INFO]: mano328 left the game
+[19:42:33] [Server thread/INFO]: Momo37 has reached the goal [Hired Help]
+[19:44:52] [User Authenticator #39/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[19:44:52] [Server thread/INFO]: mano328[/128.211.189.182:64669] logged in with entity id 321354 at (580.8344749691619, 26.0, -2187.570156834414)
+[19:44:52] [Server thread/INFO]: mano328 joined the game
+[19:45:26] [Server thread/WARN]: mano328 moved too quickly! -477.1711751073958,18.79182525195546,2193.7945955298305
+[19:45:26] [Server thread/WARN]: Entity aah['mano328'/321354, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[19:56:15] [Server thread/INFO]: <mano328> sleep?
+[20:27:41] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[20:27:41] [Server thread/INFO]: Momo37 left the game
+[20:30:46] [Server thread/WARN]: mano328 moved too quickly! -476.2325440278436,19.0,2191.6310310696454
+[20:30:46] [Server thread/WARN]: Entity aah['mano328'/321354, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:36:32] [Server thread/WARN]: mano328 moved too quickly! -478.2092157355752,18.971931230394457,2190.228155508795
+[20:36:32] [Server thread/WARN]: Entity aah['mano328'/321354, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:49:07] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:49:07] [Server thread/INFO]: Saved the game

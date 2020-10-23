@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2020-10-21 00:20:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-05 03:52:32 +0000"
@@ -1241,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-10-23 00:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-17 21:13:12 +0000"
@@ -1921,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-10-23 13:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-05 18:55:35 +0000"
@@ -2524,6 +2542,7 @@
       "golden_apple": "2020-10-19 21:53:17 +0000",
       "rotten_flesh": "2020-10-08 02:23:15 +0000",
       "cookie": "2020-10-11 00:45:46 +0000",
+      "suspicious_stew": "2020-10-22 23:46:29 +0000",
       "salmon": "2020-10-05 02:34:23 +0000",
       "dried_kelp": "2020-10-05 01:50:46 +0000",
       "melon_slice": "2020-10-19 16:24:01 +0000",
@@ -3340,6 +3359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-10-23 13:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "cod_bucket": "2020-10-05 01:03:51 +0000"
@@ -4051,6 +4076,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-10-05 19:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-10-23 00:51:04 +0000"
     },
     "done": true
   },
