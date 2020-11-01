@@ -903,7 +903,9 @@
       "minecraft:magma_cube": "2020-01-10 20:57:33 +0000",
       "minecraft:spider": "2019-12-25 21:38:37 +0000",
       "minecraft:creeper": "2019-12-30 06:02:28 +0000",
+      "minecraft:zombified_piglin": "2020-10-30 16:37:40 +0000",
       "minecraft:piglin": "2020-10-19 01:14:26 +0000",
+      "minecraft:enderman": "2020-10-30 16:38:50 +0000",
       "minecraft:zombie": "2019-12-26 03:07:41 +0000",
       "minecraft:drowned": "2019-12-26 00:20:28 +0000"
     },
@@ -1086,6 +1088,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-10-19 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-10-30 16:38:04 +0000"
     },
     "done": true
   },

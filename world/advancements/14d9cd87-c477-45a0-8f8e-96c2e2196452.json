@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-05 01:02:27 +0000"
@@ -876,6 +882,7 @@
       "minecraft:spider": "2020-10-04 23:01:19 +0000",
       "minecraft:creeper": "2020-10-04 23:29:12 +0000",
       "minecraft:slime": "2020-10-14 07:17:08 +0000",
+      "minecraft:evoker": "2020-10-29 21:20:09 +0000",
       "minecraft:zombified_piglin": "2020-10-07 08:26:44 +0000",
       "minecraft:witch": "2020-10-13 04:56:14 +0000",
       "minecraft:wither_skeleton": "2020-10-07 18:11:04 +0000",
@@ -883,6 +890,7 @@
       "minecraft:cave_spider": "2020-10-10 20:47:57 +0000",
       "minecraft:enderman": "2020-10-05 00:57:49 +0000",
       "minecraft:silverfish": "2020-10-09 07:17:51 +0000",
+      "minecraft:vex": "2020-10-29 21:20:17 +0000",
       "minecraft:zombie": "2020-10-04 23:33:15 +0000",
       "minecraft:drowned": "2020-10-07 21:44:36 +0000",
       "minecraft:zombie_villager": "2020-10-10 20:50:54 +0000"
@@ -922,6 +930,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-10-10 23:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-10-31 22:36:15 +0000"
     },
     "done": true
   },
@@ -1222,6 +1236,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-10-07 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
     },
     "done": true
   },
@@ -1552,6 +1572,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2020-10-05 00:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-10-31 22:36:15 +0000"
     },
     "done": true
   },
@@ -2570,6 +2596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-10-15 19:58:17 +0000"
@@ -2597,6 +2629,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
     },
     "done": true
   },
@@ -2822,6 +2860,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-10-05 00:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-10-31 22:36:15 +0000"
     },
     "done": true
   },
@@ -3617,6 +3661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-10-31 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2020-10-05 02:07:09 +0000"
@@ -3770,6 +3820,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-10-21 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
     },
     "done": true
   },
@@ -3959,6 +4015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 23:06:22 +0000"
@@ -4007,6 +4069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-10-07 18:03:30 +0000"
@@ -4040,6 +4108,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2020-10-11 22:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-10-31 21:07:08 +0000"
     },
     "done": true
   },

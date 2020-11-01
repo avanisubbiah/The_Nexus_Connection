@@ -900,12 +900,14 @@
       "minecraft:skeleton": "2020-10-04 23:44:13 +0000",
       "minecraft:ghast": "2020-10-07 17:53:55 +0000",
       "minecraft:hoglin": "2020-10-11 22:02:08 +0000",
+      "minecraft:vindicator": "2020-10-29 21:18:37 +0000",
       "minecraft:magma_cube": "2020-10-12 19:05:58 +0000",
       "minecraft:spider": "2020-10-05 18:39:16 +0000",
       "minecraft:creeper": "2020-10-07 02:33:29 +0000",
       "minecraft:zombified_piglin": "2020-10-11 23:49:12 +0000",
       "minecraft:witch": "2020-10-06 22:31:39 +0000",
       "minecraft:wither_skeleton": "2020-10-15 22:38:24 +0000",
+      "minecraft:husk": "2020-10-30 00:16:29 +0000",
       "minecraft:cave_spider": "2020-10-13 03:55:02 +0000",
       "minecraft:piglin": "2020-10-08 22:57:02 +0000",
       "minecraft:enderman": "2020-10-05 19:04:24 +0000",
@@ -3913,6 +3915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-10-29 23:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-10-06 21:59:38 +0000"
@@ -4288,6 +4296,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-10-27 16:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-10-29 23:53:04 +0000"
     },
     "done": true
   },
