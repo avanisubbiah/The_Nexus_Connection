@@ -35,3 +35,16 @@ exit
 cd ..
 git commit -a -m "Save 3"
 exit
+cd
+ls
+pwd
+vncserver :2
+vncpasswd
+vncserver :2
+exit
+exit
+exit
+exit
+exit
+exit
+exit
