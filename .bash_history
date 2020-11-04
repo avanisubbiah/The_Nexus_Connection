@@ -48,3 +48,6 @@ exit
 exit
 exit
 exit
+cd
+ls
+vim server.properties 

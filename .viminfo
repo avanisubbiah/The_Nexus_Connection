@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1603295293,,"wq"
+|2,0,1604511547,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,31 @@
 # Registers:
 
 # File marks:
-'0  15  16  ~/server.properties
-|4,48,15,16,1603295293,"~/server.properties"
+'0  11  27  ~/server.properties
+|4,48,11,27,1604511547,"~/server.properties"
+'1  15  16  ~/server.properties
+|4,49,15,16,1603295293,"~/server.properties"
+'2  15  16  ~/server.properties
+|4,50,15,16,1603295293,"~/server.properties"
 
 # Jumplist (newest first):
+-'  11  27  ~/server.properties
+|4,39,11,27,1604511547,"~/server.properties"
+-'  15  16  ~/server.properties
+|4,39,15,16,1604511533,"~/server.properties"
 -'  15  16  ~/server.properties
 |4,39,15,16,1603295293,"~/server.properties"
+-'  1  0  ~/server.properties
+|4,39,1,0,1603295234,"~/server.properties"
 -'  1  0  ~/server.properties
 |4,39,1,0,1603295234,"~/server.properties"
 
 # History of marks within files (newest to oldest):
 
 > ~/server.properties
-	*	1603295291	0
-	"	15	16
-	^	15	17
-	.	15	16
+	*	1604511545	0
+	"	11	27
+	^	11	28
+	.	11	27
 	+	15	16
+	+	11	27
