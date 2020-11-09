@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2020-10-16 00:13:09 +0000"
@@ -761,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-12-26 00:20:51 +0000"
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2020-11-06 23:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-12-27 07:05:25 +0000"
@@ -900,6 +918,7 @@
       "minecraft:witch": "2020-01-12 21:03:42 +0000",
       "minecraft:wither_skeleton": "2020-01-10 20:40:35 +0000",
       "minecraft:husk": "2019-12-27 07:00:44 +0000",
+      "minecraft:ender_dragon": "2020-11-06 23:22:48 +0000",
       "minecraft:shulker": "2020-01-10 00:37:06 +0000",
       "minecraft:piglin": "2020-10-10 19:46:17 +0000",
       "minecraft:enderman": "2020-01-06 23:29:55 +0000",
@@ -1098,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-12-30 02:01:56 +0000"
@@ -1272,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-12-27 06:52:32 +0000"
@@ -1377,6 +1408,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-01-01 06:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
     },
     "done": true
   },
@@ -1948,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2020-11-06 16:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-01-19 02:40:10 +0000"
@@ -2011,6 +2054,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-10-13 01:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
     },
     "done": true
   },
@@ -2561,7 +2610,9 @@
       "baked_potato": "2019-12-26 06:48:54 +0000",
       "cooked_cod": "2020-01-09 23:51:52 +0000",
       "golden_apple": "2020-01-10 00:58:53 +0000",
+      "bread": "2020-11-07 21:40:48 +0000",
       "dried_kelp": "2019-12-26 00:11:32 +0000",
+      "golden_carrot": "2020-11-06 16:20:53 +0000",
       "carrot": "2020-10-16 00:50:36 +0000"
     },
     "done": false
@@ -2587,6 +2638,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-12-27 08:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
     },
     "done": true
   },
@@ -2821,6 +2878,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2019-12-26 01:02:54 +0000",
+      "minecraft:turtle": "2020-11-07 16:07:15 +0000",
       "minecraft:sheep": "2020-01-12 22:38:12 +0000",
       "minecraft:cow": "2019-12-26 01:03:27 +0000"
     },
@@ -3486,6 +3544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_the_recipe": "2020-10-15 23:57:12 +0000"
@@ -3627,6 +3691,12 @@
   "minecraft:recipes/misc/coal_from_smelting": {
     "criteria": {
       "has_coal_ore": "2020-01-17 19:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
     },
     "done": true
   },
@@ -3789,6 +3859,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-12-27 07:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
     },
     "done": true
   },
@@ -3984,6 +4060,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-11-06 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-12-27 06:02:20 +0000"
@@ -4122,6 +4204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-11-06 17:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2019-12-30 00:13:27 +0000"
@@ -4215,6 +4303,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-12-30 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2020-11-06 23:18:56 +0000"
     },
     "done": true
   },

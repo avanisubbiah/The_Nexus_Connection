@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-11-07 21:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-12-25 21:23:43 +0000"
@@ -909,6 +915,7 @@
       "minecraft:magma_cube": "2020-01-10 20:57:33 +0000",
       "minecraft:spider": "2019-12-25 21:38:37 +0000",
       "minecraft:creeper": "2019-12-30 06:02:28 +0000",
+      "minecraft:slime": "2020-11-07 21:51:14 +0000",
       "minecraft:zombified_piglin": "2020-10-30 16:37:40 +0000",
       "minecraft:piglin": "2020-10-19 01:14:26 +0000",
       "minecraft:enderman": "2020-10-30 16:38:50 +0000",
@@ -1022,6 +1029,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-10-16 02:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-11-07 21:51:15 +0000"
     },
     "done": true
   },
@@ -1397,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-11-07 21:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-01-01 08:09:50 +0000"
@@ -1628,6 +1647,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-12-25 21:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-11-07 21:51:15 +0000"
     },
     "done": true
   },
