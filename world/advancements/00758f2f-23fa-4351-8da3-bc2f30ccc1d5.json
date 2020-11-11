@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-09 23:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-12-25 21:22:47 +0000"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-12-25 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-11-11 17:45:12 +0000"
     },
     "done": true
   },
@@ -716,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-11-10 00:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-12-25 21:22:47 +0000"
@@ -791,6 +809,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-12-25 21:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-09 23:52:16 +0000"
     },
     "done": true
   },
@@ -920,7 +944,8 @@
       "minecraft:piglin": "2020-10-19 01:14:26 +0000",
       "minecraft:enderman": "2020-10-30 16:38:50 +0000",
       "minecraft:zombie": "2019-12-26 03:07:41 +0000",
-      "minecraft:drowned": "2019-12-26 00:20:28 +0000"
+      "minecraft:drowned": "2019-12-26 00:20:28 +0000",
+      "minecraft:zombie_villager": "2020-11-11 13:48:26 +0000"
     },
     "done": false
   },
@@ -1206,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-11-11 17:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-01-01 08:12:53 +0000"
@@ -1239,6 +1270,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-12-25 21:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-09 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-09 23:55:58 +0000"
     },
     "done": true
   },
@@ -1305,6 +1348,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-01-01 08:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-11-11 13:46:01 +0000"
     },
     "done": true
   },
@@ -1572,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-09 23:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-01-10 20:53:58 +0000"
@@ -1702,6 +1757,9 @@
     "criteria": {
       "minecraft:snowy_mountains": "2020-11-02 15:24:23 +0000",
       "minecraft:forest": "2019-12-25 21:22:43 +0000",
+      "minecraft:mountains": "2020-11-10 13:57:01 +0000",
+      "minecraft:desert_hills": "2020-11-11 17:44:15 +0000",
+      "minecraft:desert": "2020-11-11 17:44:38 +0000",
       "minecraft:birch_forest": "2020-01-10 21:09:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-12-25 21:46:23 +0000",
       "minecraft:beach": "2019-12-25 21:22:46 +0000",
@@ -1709,9 +1767,11 @@
       "minecraft:river": "2019-12-27 07:14:47 +0000",
       "minecraft:lukewarm_ocean": "2020-10-18 19:17:55 +0000",
       "minecraft:birch_forest_hills": "2020-10-18 19:17:40 +0000",
+      "minecraft:wooded_mountains": "2020-11-10 13:57:07 +0000",
       "minecraft:wooded_hills": "2020-10-18 19:18:14 +0000",
       "minecraft:stone_shore": "2020-10-18 19:17:47 +0000",
       "minecraft:swamp": "2020-10-18 19:18:03 +0000",
+      "minecraft:savanna": "2020-11-11 17:43:47 +0000",
       "minecraft:plains": "2020-10-19 01:08:01 +0000"
     },
     "done": false
@@ -1842,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-11-09 23:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-12-26 01:07:10 +0000"
@@ -1899,6 +1965,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-11-02 01:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-09 23:55:58 +0000"
     },
     "done": true
   },
@@ -2010,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2020-11-11 18:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-12-26 01:07:10 +0000"
@@ -2025,6 +2103,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-01-13 04:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-11-11 18:03:20 +0000"
     },
     "done": true
   },
