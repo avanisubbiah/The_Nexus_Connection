@@ -196,3 +196,14 @@
 [20:48:27] [Server thread/WARN]: Entity aah['mano328'/801762, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
 [20:52:37] [Server thread/INFO]: mano328 lost connection: Disconnected
 [20:52:37] [Server thread/INFO]: mano328 left the game
+[21:08:02] [User Authenticator #92/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[21:08:02] [Server thread/INFO]: mano328[/66.216.215.84:53228] logged in with entity id 804260 at (35.55373734171681, 116.17647087614428, -31.69686654692808)
+[21:08:02] [Server thread/INFO]: mano328 joined the game
+[21:09:24] [Server thread/WARN]: mano328 moved too quickly! -476.7243429897517,18.593821145304673,2191.771274725407
+[21:09:24] [Server thread/WARN]: Entity aah['mano328'/804260, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[21:40:33] [Server thread/INFO]: mano328 has made the advancement [Who is Cutting Onions?]
+[21:54:28] [Server thread/WARN]: mano328 moved too quickly! -476.9312293332183,18.3462703824114,2192.773109302346
+[21:54:28] [Server thread/WARN]: mano328 moved too quickly! -476.9312293332183,18.3462703824114,2192.773109302346
+[21:54:28] [Server thread/WARN]: mano328 moved too quickly! -476.9312293332183,18.3462703824114,2192.773109302346
+[21:54:28] [Server thread/WARN]: mano328 moved too quickly! -476.9312293332183,18.3462703824114,2192.773109302346
+[21:54:28] [Server thread/WARN]: Entity aah['mano328'/804260, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
