@@ -194,3 +194,5 @@
 [20:47:05] [Server thread/INFO]: <mano328> git push
 [20:48:27] [Server thread/WARN]: mano328 moved too quickly! -476.7393846428622,18.593821145304673,2192.0376454230222
 [20:48:27] [Server thread/WARN]: Entity aah['mano328'/801762, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:52:37] [Server thread/INFO]: mano328 lost connection: Disconnected
+[20:52:37] [Server thread/INFO]: mano328 left the game
