@@ -1841,6 +1841,7 @@
     "criteria": {
       "minecraft:jungle_edge": "2020-10-17 01:22:46 +0000",
       "minecraft:cold_ocean": "2020-10-17 01:29:36 +0000",
+      "minecraft:snowy_mountains": "2020-11-15 02:25:13 +0000",
       "minecraft:forest": "2020-10-04 22:51:37 +0000",
       "minecraft:mountains": "2020-10-04 23:09:37 +0000",
       "minecraft:badlands_plateau": "2020-10-26 23:37:03 +0000",
@@ -1848,12 +1849,15 @@
       "minecraft:desert_hills": "2020-10-09 23:30:49 +0000",
       "minecraft:giant_tree_taiga": "2020-10-26 21:09:11 +0000",
       "minecraft:deep_cold_ocean": "2020-10-25 18:34:33 +0000",
+      "minecraft:snowy_tundra": "2020-11-15 02:24:24 +0000",
       "minecraft:taiga_hills": "2020-10-05 00:11:21 +0000",
       "minecraft:desert": "2020-10-09 23:17:53 +0000",
+      "minecraft:frozen_river": "2020-11-15 02:32:20 +0000",
       "minecraft:deep_frozen_ocean": "2020-10-25 18:36:41 +0000",
       "minecraft:jungle": "2020-10-17 01:24:33 +0000",
       "minecraft:birch_forest": "2020-10-10 01:50:13 +0000",
       "minecraft:jungle_hills": "2020-10-26 20:29:35 +0000",
+      "minecraft:snowy_beach": "2020-11-15 02:24:10 +0000",
       "minecraft:bamboo_jungle": "2020-10-17 01:23:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-10-06 00:29:24 +0000",
       "minecraft:badlands": "2020-10-15 19:59:52 +0000",
@@ -1862,6 +1866,7 @@
       "minecraft:dark_forest": "2020-10-09 23:11:41 +0000",
       "minecraft:river": "2020-10-04 23:10:34 +0000",
       "minecraft:lukewarm_ocean": "2020-10-06 00:29:20 +0000",
+      "minecraft:snowy_taiga": "2020-11-15 02:27:06 +0000",
       "minecraft:birch_forest_hills": "2020-10-10 01:49:51 +0000",
       "minecraft:wooded_mountains": "2020-10-04 23:10:05 +0000",
       "minecraft:bamboo_jungle_hills": "2020-10-17 01:23:11 +0000",
@@ -4086,6 +4091,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-10-07 02:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-11-14 20:33:19 +0000"
     },
     "done": true
   },
