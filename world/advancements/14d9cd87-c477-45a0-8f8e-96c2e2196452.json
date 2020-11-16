@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-11-15 23:13:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 23:06:22 +0000"
@@ -2457,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-15 23:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-10-05 02:34:51 +0000"
@@ -2601,6 +2613,7 @@
       "chicken": "2020-11-15 01:34:28 +0000",
       "cooked_mutton": "2020-10-04 23:01:14 +0000",
       "cooked_beef": "2020-10-04 23:13:55 +0000",
+      "chorus_fruit": "2020-11-15 23:46:33 +0000",
       "beef": "2020-10-04 23:12:37 +0000",
       "baked_potato": "2020-10-05 02:53:18 +0000",
       "apple": "2020-10-04 22:47:37 +0000",
@@ -3514,6 +3527,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-15 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-15 23:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-10-04 22:48:06 +0000"
@@ -3862,6 +3887,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-11-15 23:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-10-07 18:06:41 +0000"
@@ -3883,6 +3914,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-10-04 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-11-15 23:13:19 +0000"
     },
     "done": true
   },
@@ -4072,6 +4109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-11-15 23:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 23:06:22 +0000"
@@ -4141,6 +4184,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-10-15 22:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-15 23:09:23 +0000"
     },
     "done": true
   },
