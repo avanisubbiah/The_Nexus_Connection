@@ -67,3 +67,6 @@
 [21:50:07] [User Authenticator #103/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
 [21:50:07] [Server thread/INFO]: DrPoyo[/74.133.67.1:50974] logged in with entity id 1043722 at (807.5882949956282, 72.5, -741.5285878754426)
 [21:50:07] [Server thread/INFO]: DrPoyo joined the game
+[22:23:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=704, y=61, z=-849} fx{x=704, y=62, z=-849}
+[22:40:06] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[22:40:06] [Server thread/INFO]: DrPoyo left the game
