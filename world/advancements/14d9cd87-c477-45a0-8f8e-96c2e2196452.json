@@ -893,6 +893,7 @@
       "minecraft:witch": "2020-10-13 04:56:14 +0000",
       "minecraft:wither_skeleton": "2020-10-07 18:11:04 +0000",
       "minecraft:husk": "2020-10-07 21:50:50 +0000",
+      "minecraft:shulker": "2020-11-16 00:09:29 +0000",
       "minecraft:cave_spider": "2020-10-10 20:47:57 +0000",
       "minecraft:enderman": "2020-10-05 00:57:49 +0000",
       "minecraft:silverfish": "2020-10-09 07:17:51 +0000",
@@ -3818,6 +3819,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2020-10-10 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-11-16 00:09:35 +0000"
     },
     "done": true
   },
