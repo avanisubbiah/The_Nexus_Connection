@@ -70,3 +70,8 @@
 [22:23:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=704, y=61, z=-849} fx{x=704, y=62, z=-849}
 [22:40:06] [Server thread/INFO]: DrPoyo lost connection: Disconnected
 [22:40:06] [Server thread/INFO]: DrPoyo left the game
+[23:15:09] [User Authenticator #104/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[23:15:09] [Server thread/INFO]: mano328[/66.216.215.84:51367] logged in with entity id 1050651 at (31.57197606902412, 128.0, -32.391460850951546)
+[23:15:09] [Server thread/INFO]: mano328 joined the game
+[23:17:18] [Server thread/INFO]: mano328 lost connection: Disconnected
+[23:17:18] [Server thread/INFO]: mano328 left the game
