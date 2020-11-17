@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2020-10-07 21:38:02 +0000"
@@ -368,6 +374,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-10-07 02:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-11-17 02:59:35 +0000"
     },
     "done": true
   },
@@ -464,6 +476,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-10-07 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
     },
     "done": true
   },
@@ -623,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-10-07 02:15:18 +0000"
@@ -690,6 +714,7 @@
       "minecraft:skeleton": "2020-10-07 02:20:05 +0000",
       "minecraft:ravager": "2020-10-29 21:16:32 +0000",
       "minecraft:ghast": "2020-10-17 00:44:44 +0000",
+      "minecraft:guardian": "2020-11-17 03:49:18 +0000",
       "minecraft:vindicator": "2020-10-29 21:14:51 +0000",
       "minecraft:magma_cube": "2020-10-07 21:12:20 +0000",
       "minecraft:spider": "2020-10-07 02:17:02 +0000",
@@ -789,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-11-17 02:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2020-10-07 02:41:25 +0000"
@@ -804,6 +835,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-10-07 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
     },
     "done": true
   },
@@ -1323,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-11-17 03:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-10-07 21:34:41 +0000"
@@ -1572,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-11-17 02:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-10-17 01:37:54 +0000"
@@ -1648,6 +1697,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-10-17 03:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-11-17 03:53:54 +0000"
     },
     "done": true
   },
@@ -1828,6 +1883,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-10-07 20:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-11-17 03:53:54 +0000"
     },
     "done": true
   },
@@ -2253,6 +2314,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-10-17 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
     },
     "done": true
   },
@@ -2889,6 +2956,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-10-11 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-11-17 03:54:30 +0000"
     },
     "done": true
   },
