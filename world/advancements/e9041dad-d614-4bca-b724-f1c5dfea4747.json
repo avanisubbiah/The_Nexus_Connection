@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2020-11-17 02:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-10-07 03:53:04 +0000"
@@ -1417,6 +1423,7 @@
       "minecraft:wooded_mountains": "2020-10-11 03:56:08 +0000",
       "minecraft:wooded_hills": "2020-10-07 02:07:52 +0000",
       "minecraft:stone_shore": "2020-10-07 02:16:58 +0000",
+      "minecraft:swamp": "2020-11-17 02:51:44 +0000",
       "minecraft:plains": "2020-10-07 02:06:09 +0000"
     },
     "done": false
