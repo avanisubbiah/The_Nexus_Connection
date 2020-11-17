@@ -281,3 +281,109 @@
 [04:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [04:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6153ms or 123 ticks behind
 [04:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[05:00:24] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[minecraft_server.1.16.3.jar:?]
+	at zs.a(SourceFile:939) ~[minecraft_server.1.16.3.jar:?]
+	at aae.a(SourceFile:467) ~[minecraft_server.1.16.3.jar:?]
+	at aay.a(SourceFile:863) ~[minecraft_server.1.16.3.jar:?]
+	at st.a(SourceFile:122) ~[minecraft_server.1.16.3.jar:?]
+	at st$b.a(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
+	at ol.a(SourceFile:21) ~[minecraft_server.1.16.3.jar:?]
+	at wb.run(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
+	at any.c(SourceFile:144) ~[minecraft_server.1.16.3.jar:?]
+	at aoc.c(SourceFile:23) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[minecraft_server.1.16.3.jar:?]
+	at any.y(SourceFile:118) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[minecraft_server.1.16.3.jar:?]
+	at any.c(SourceFile:127) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:719) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[minecraft_server.1.16.3.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[minecraft_server.1.16.3.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[05:09:48] [Server thread/INFO]: <NBSpace_Kid> sleepy time
+[05:11:42] [Server thread/INFO]: <NBSpace_Kid> ima go netherite hunting for a bit
+[05:12:05] [Server thread/INFO]: <DrPoyo> ok, u can use some of my beds down there
+[05:12:21] [Server thread/INFO]: <DrPoyo> imma go too, to clean up the entrance
+[05:12:28] [Server thread/INFO]: <NBSpace_Kid> nah i dont trust myself ty tho
+[05:12:30] [Server thread/INFO]: <NBSpace_Kid> okie
+[05:13:04] [Server thread/INFO]: <NBSpace_Kid> oh before i forget
+[05:13:09] [Server thread/INFO]: <NBSpace_Kid> i have banners for you
+[05:13:14] [Server thread/INFO]: <DrPoyo> oh?
+[05:13:36] [Server thread/INFO]: <NBSpace_Kid> wya
+[05:13:42] [Server thread/INFO]: <DrPoyo> my house
+[05:14:00] [Server thread/INFO]: <NBSpace_Kid> for the end city
+[05:14:04] [Server thread/INFO]: <NBSpace_Kid> from*
+[05:14:06] [Server thread/INFO]: <DrPoyo> ty :)
+[05:14:26] [Server thread/INFO]: <DrPoyo> ?
+[05:14:32] [Server thread/INFO]: <NBSpace_Kid> stealin wood
+[05:14:35] [Server thread/INFO]: <DrPoyo> oh
+[05:14:40] [Server thread/INFO]: <DrPoyo> goahead
+[05:15:08] [Server thread/INFO]: <NBSpace_Kid> do either of you need somethin enchanted?
+[05:15:10] [Server thread/INFO]: <DrPoyo> lofi n minecraft just go together
+[05:15:23] [Server thread/INFO]: <NBSpace_Kid> 100% agree
+[05:15:26] [Server thread/INFO]: <Momo37> no im fine but ty
+[05:15:36] [Server thread/INFO]: <NBSpace_Kid> lexxy?
+[05:15:39] [Server thread/INFO]: DrPoyo lost connection: Timed out
+[05:15:39] [Server thread/INFO]: DrPoyo left the game
+[05:15:41] [Server thread/INFO]: <NBSpace_Kid> oop
+[05:16:54] [User Authenticator #111/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[05:16:55] [Server thread/INFO]: DrPoyo[/74.133.67.1:50595] logged in with entity id 1141059 at (814.0078690754104, 68.0, -735.5532898866908)
+[05:16:55] [Server thread/INFO]: DrPoyo joined the game
+[05:16:57] [Server thread/INFO]: <NBSpace_Kid> wb
+[05:16:59] [Server thread/INFO]: <DrPoyo> ty
+[05:17:11] [Server thread/INFO]: <NBSpace_Kid> do you need anything enchanted?
+[05:17:15] [Server thread/INFO]: <DrPoyo> nah
+[05:17:19] [Server thread/INFO]: <NBSpace_Kid> mk
+[05:17:36] [Server thread/INFO]: <DrPoyo> did you see what i said before?
+[05:17:42] [Server thread/INFO]: <NBSpace_Kid> mmhm
+[05:17:48] [Server thread/INFO]: <DrPoyo> coocoo
+[05:19:26] [Server thread/INFO]: <DrPoyo> headed to nether now
+[05:19:29] [Server thread/INFO]: <NBSpace_Kid> okie
+[05:21:30] [Server thread/INFO]: <NBSpace_Kid> did you grab fire res?
+[05:21:34] [Server thread/INFO]: <DrPoyo> nop
+[05:21:43] [Server thread/INFO]: <DrPoyo> if i die i die
+[05:22:05] [Server thread/INFO]: <DrPoyo> jk pls bring me some when u come
+[05:22:08] [Server thread/INFO]: <NBSpace_Kid> theres lava above the entrace so its a good chance
+[05:22:24] [Server thread/INFO]: <NBSpace_Kid> already got em and comin
+[05:25:14] [Server thread/INFO]: <DrPoyo> ty
+[05:32:06] [Server thread/INFO]: <DrPoyo> idk why im doing this
+[05:32:19] [Server thread/INFO]: <DrPoyo> were the onlyones who see it anyway
+[05:32:23] [Server thread/INFO]: <NBSpace_Kid> mm aesthic
+[05:32:29] [Server thread/INFO]: <DrPoyo> fair
+[05:33:23] [Server thread/INFO]: <DrPoyo> yo
+[05:33:25] [Server thread/INFO]: <NBSpace_Kid> ?
+[05:33:44] [Server thread/INFO]: <DrPoyo> i was digging out the wall and found ancient debree
+[05:34:04] [Server thread/INFO]: <NBSpace_Kid> i havnt found any f
+[05:34:13] [Server thread/INFO]: <DrPoyo> u can have it :)
+[05:34:19] [Server thread/INFO]: <NBSpace_Kid> ahh tyty
+[05:38:27] [Server thread/INFO]: <NBSpace_Kid> oo lookin nice
+[05:42:03] [Server thread/INFO]: <DrPoyo> ty, srry was stuck in the moment
+[05:42:19] [Server thread/INFO]: <NBSpace_Kid> oop
+[05:42:21] [Server thread/INFO]: Momo37 drowned
+[05:42:25] [Server thread/INFO]: <NBSpace_Kid> o h
+[05:42:25] [Server thread/INFO]: <DrPoyo> wow
+[05:42:44] [Server thread/INFO]: <DrPoyo> how did you drown? like just breath
+[05:42:52] [Server thread/INFO]: <Momo37> dont ask
+[05:42:53] [Server thread/INFO]: <NBSpace_Kid> smart
+[05:45:14] [Server thread/INFO]: <Momo37> ima get off hope yall have a nice night also lexxy ur a nerd and u have a stupid face
+[05:45:16] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[05:45:16] [Server thread/INFO]: Momo37 left the game
+[05:45:20] [Server thread/INFO]: <DrPoyo> WOW
+[05:45:21] [Server thread/INFO]: <NBSpace_Kid> damn
+[05:53:35] [Server thread/INFO]: <DrPoyo> do you think this floor looks ok?
+[05:53:56] [Server thread/INFO]: <DrPoyo> nvm if ur too far away
+[05:53:58] [Server thread/INFO]: <NBSpace_Kid> a bit lost
+[05:54:03] [Server thread/INFO]: <DrPoyo> oh
+[05:54:10] [Server thread/INFO]: <DrPoyo> goodbye :)
+[05:54:18] [Server thread/INFO]: <NBSpace_Kid> wait dad
+[05:54:21] [Server thread/INFO]: <NBSpace_Kid> not again
+[05:54:29] [Server thread/INFO]: <DrPoyo> :)
+[05:54:43] [Server thread/INFO]: <NBSpace_Kid> dad pls
+[05:54:57] [Server thread/INFO]: <DrPoyo> go 50 50 direction
+[05:55:12] [Server thread/INFO]: <NBSpace_Kid> i shall but brb
+[05:58:50] [Server thread/INFO]: <DrPoyo> i haerd smth die
+[05:59:20] [Server thread/INFO]: <NBSpace_Kid> could be piglins fighting the hog things
+[05:59:25] [Server thread/INFO]: <DrPoyo> ye
