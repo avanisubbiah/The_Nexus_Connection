@@ -493,3 +493,6 @@ java.lang.NullPointerException: null
 [06:44:07] [Server thread/INFO]: DrPoyo left the game
 [06:44:08] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
 [06:44:08] [Server thread/INFO]: NBSpace_Kid left the game
+[09:57:09] [User Authenticator #113/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[09:57:09] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56165] logged in with entity id 1169350 at (723.0107564848239, 82.0625, -726.6264985421356)
+[09:57:09] [Server thread/INFO]: NBSpace_Kid joined the game
