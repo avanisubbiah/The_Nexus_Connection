@@ -496,3 +496,7 @@ java.lang.NullPointerException: null
 [09:57:09] [User Authenticator #113/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [09:57:09] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56165] logged in with entity id 1169350 at (723.0107564848239, 82.0625, -726.6264985421356)
 [09:57:09] [Server thread/INFO]: NBSpace_Kid joined the game
+[10:23:52] [Server thread/WARN]: NBSpace_Kid moved too quickly! -476.24953328451124,18.593821145304673,2192.3643961971225
+[10:23:52] [Server thread/WARN]: Entity aah['NBSpace_Kid'/1169350, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[10:58:26] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[10:58:26] [Server thread/INFO]: NBSpace_Kid left the game
