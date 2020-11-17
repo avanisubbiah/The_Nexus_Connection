@@ -500,3 +500,6 @@ java.lang.NullPointerException: null
 [10:23:52] [Server thread/WARN]: Entity aah['NBSpace_Kid'/1169350, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
 [10:58:26] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
 [10:58:26] [Server thread/INFO]: NBSpace_Kid left the game
+[22:30:46] [User Authenticator #114/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[22:30:46] [Server thread/INFO]: DrPoyo[/74.133.67.1:53087] logged in with entity id 1187360 at (812.5, 67.875, -744.5)
+[22:30:46] [Server thread/INFO]: DrPoyo joined the game
