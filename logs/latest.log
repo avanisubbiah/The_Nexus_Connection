@@ -82,3 +82,10 @@
 [02:50:42] [Server thread/INFO]: DrPoyo lost connection: Timed out
 [02:50:42] [Server thread/INFO]: DrPoyo left the game
 [02:56:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1222603, l='ServerLevel[world]', x=826.22, y=71.00, z=-815.97]
+[03:11:45] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[03:11:45] [Server thread/INFO]: NBSpace_Kid left the game
+[03:44:30] [User Authenticator #119/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[03:44:31] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:50624] logged in with entity id 1228984 at (723.8120729487456, 82.0625, -727.5819524100935)
+[03:44:31] [Server thread/INFO]: NBSpace_Kid joined the game
+[03:54:45] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[03:54:45] [Server thread/INFO]: NBSpace_Kid left the game
