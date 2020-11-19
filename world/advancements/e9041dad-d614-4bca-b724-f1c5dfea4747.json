@@ -1724,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-11-19 20:54:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-10-07 04:47:14 +0000"
@@ -2489,6 +2495,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-10-07 22:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-11-19 20:54:58 +0000"
     },
     "done": true
   },
