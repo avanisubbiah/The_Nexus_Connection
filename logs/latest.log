@@ -3,3 +3,29 @@
 [01:58:43] [User Authenticator #122/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [01:58:43] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:59677] logged in with entity id 1270590 at (727.408124519812, 85.0, -726.3860472411269)
 [01:58:43] [Server thread/INFO]: NBSpace_Kid joined the game
+[02:00:43] [Server thread/INFO]: NBSpace_Kid lost connection: Timed out
+[02:00:43] [Server thread/INFO]: NBSpace_Kid left the game
+[02:00:54] [User Authenticator #123/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[02:00:54] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:59713] logged in with entity id 1271317 at (758.7835009407675, 78.67675927506424, -785.2547190820187)
+[02:00:54] [Server thread/INFO]: NBSpace_Kid joined the game
+[02:01:24] [Server thread/INFO]: NBSpace_Kid lost connection: Timed out
+[02:01:24] [Server thread/INFO]: NBSpace_Kid left the game
+[02:01:34] [User Authenticator #124/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[02:01:34] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:57399] logged in with entity id 1271729 at (758.7835009407675, 77.5, -785.2547190820187)
+[02:01:34] [Server thread/INFO]: NBSpace_Kid joined the game
+[02:31:16] [User Authenticator #125/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[02:31:16] [Server thread/INFO]: Aviroblox[/66.216.215.84:65407] logged in with entity id 1278161 at (110.95556229924037, 116.0, -170.2146267635342)
+[02:31:16] [Server thread/INFO]: Aviroblox joined the game
+[02:32:33] [Server thread/INFO]: Aviroblox lost connection: Disconnected
+[02:32:33] [Server thread/INFO]: Aviroblox left the game
+[02:36:36] [Server thread/INFO]: NBSpace_Kid was slain by Enderman
+[02:43:13] [User Authenticator #126/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[02:43:13] [Server thread/INFO]: Aviroblox[/66.216.215.84:49827] logged in with entity id 1286599 at (226.70063365421439, 75.0625, -264.3247710073916)
+[02:43:13] [Server thread/INFO]: Aviroblox joined the game
+[02:48:28] [Server thread/INFO]: Aviroblox lost connection: Disconnected
+[02:48:28] [Server thread/INFO]: Aviroblox left the game
+[02:49:07] [User Authenticator #127/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[02:49:07] [Server thread/INFO]: Aviroblox[/66.216.215.84:50109] logged in with entity id 1289380 at (972.1203029109995, 80.0, 1031.2739252294707)
+[02:49:07] [Server thread/INFO]: Aviroblox joined the game
+[02:53:08] [Server thread/INFO]: Aviroblox lost connection: Disconnected
+[02:53:08] [Server thread/INFO]: Aviroblox left the game
