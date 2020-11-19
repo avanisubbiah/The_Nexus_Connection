@@ -31,3 +31,5 @@
 [02:53:08] [Server thread/INFO]: Aviroblox left the game
 [03:35:05] [Server thread/INFO]: Villager bfg['Villager'/1300766, l='ServerLevel[world]', x=805.70, y=69.00, z=-794.70] died, message: 'Villager was slain by Zombie Villager'
 [03:47:44] [Server thread/WARN]: Trying to add entity with duplicated UUID 2d9934d3-009c-46b3-b6a9-4f83cc1ecfa5. Existing minecraft:armor_stand#1303263, new: minecraft:armor_stand#1303263
+[04:11:07] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[04:11:07] [Server thread/INFO]: NBSpace_Kid left the game
