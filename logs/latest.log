@@ -331,3 +331,14 @@
 [20:08:50] [Server thread/INFO]: [mano328: Set the weather to clear]
 [20:36:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Minecart'/1537812, l='ServerLevel[world]', x=5.88, y=129.00, z=-116.16]
 [20:59:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1160, y=65, z=1373} fx{x=-1160, y=65, z=1372}
+[21:05:32] [Server thread/WARN]: mano328 moved wrongly!
+[21:10:00] [Server thread/INFO]: [mano328: Set the time to 1000]
+[21:48:59] [Server thread/WARN]: mano328 moved too quickly! -10.450068756540304,5.0036025204380365,-0.5417131920735301
+[21:49:02] [Server thread/WARN]: mano328 was kicked for floating too long!
+[21:49:02] [Server thread/INFO]: mano328 lost connection: Flying is not enabled on this server
+[21:49:02] [Server thread/INFO]: mano328 left the game
+[21:49:23] [User Authenticator #149/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[21:49:24] [Server thread/INFO]: mano328[/66.216.215.84:61504] logged in with entity id 1558916 at (-1036.1481339975319, 91.7919717868569, 1420.0068954581998)
+[21:49:24] [Server thread/INFO]: mano328 joined the game
+[21:53:50] [Server thread/INFO]: mano328 lost connection: Disconnected
+[21:53:50] [Server thread/INFO]: mano328 left the game
