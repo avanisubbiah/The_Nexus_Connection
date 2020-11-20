@@ -234,3 +234,8 @@
 [09:23:22] [Server thread/INFO]: [Aviroblox: Set the time to 1000]
 [09:25:35] [Server thread/INFO]: Aviroblox lost connection: Disconnected
 [09:25:35] [Server thread/INFO]: Aviroblox left the game
+[13:10:01] [User Authenticator #143/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[13:10:01] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:50949] logged in with entity id 1486642 at (722.8162554122165, 82.0625, -727.8892940770991)
+[13:10:01] [Server thread/INFO]: NBSpace_Kid joined the game
+[13:55:43] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[13:55:43] [Server thread/INFO]: NBSpace_Kid left the game
