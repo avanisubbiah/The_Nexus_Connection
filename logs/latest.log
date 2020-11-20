@@ -342,3 +342,36 @@
 [21:49:24] [Server thread/INFO]: mano328 joined the game
 [21:53:50] [Server thread/INFO]: mano328 lost connection: Disconnected
 [21:53:50] [Server thread/INFO]: mano328 left the game
+[22:20:58] [User Authenticator #150/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[22:20:58] [Server thread/INFO]: Momo37[/74.129.58.2:53478] logged in with entity id 1560411 at (827.8249693428864, 56.0, -689.5391756878871)
+[22:20:58] [Server thread/INFO]: Momo37 joined the game
+[22:24:58] [User Authenticator #151/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[22:24:58] [Server thread/INFO]: DrPoyo[/74.133.67.1:55349] logged in with entity id 1561381 at (812.6999999880791, 67.5625, -745.6999999880791)
+[22:24:58] [Server thread/INFO]: DrPoyo joined the game
+[22:25:11] [Server thread/INFO]: <Momo37> ewww stinky
+[22:25:26] [Server thread/INFO]: <DrPoyo> no u
+[22:25:32] [Server thread/INFO]: <DrPoyo> brb
+[22:31:48] [Server thread/INFO]: <DrPoyo> bacc
+[22:31:54] [Server thread/INFO]: <Momo37> hrllo
+[22:32:01] [Server thread/INFO]: <DrPoyo> hi
+[22:34:19] [Server thread/INFO]: <DrPoyo> why do you have an indoor pool?
+[22:34:27] [Server thread/INFO]: <Momo37> its a bath
+[22:34:33] [Server thread/INFO]: <DrPoyo> suure
+[22:34:42] [Server thread/INFO]: <Momo37> also y are u in my house
+[22:34:55] [Server thread/INFO]: <DrPoyo> wanted to see the updated
+[22:35:07] [Server thread/INFO]: <Momo37> fair enough
+[22:35:08] [Server thread/INFO]: <DrPoyo> looks gucci
+[22:35:54] [Server thread/INFO]: <DrPoyo> stole ur sugar cane, get punked
+[22:36:04] [Server thread/INFO]: <Momo37> i cant belive
+[22:36:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1563893, l='ServerLevel[world]', x=747.77, y=70.00, z=-745.20]
+[22:36:07] [Server thread/INFO]: <DrPoyo> sleeb
+[22:36:53] [Server thread/INFO]: <DrPoyo> u bastard
+[22:43:36] [Server thread/WARN]: Trying to add entity with duplicated UUID 2fdc014d-7a7d-489d-9620-043ce9aeadcc. Existing minecraft:armor_stand#1565602, new: minecraft:armor_stand#1565602
+[22:45:28] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[22:45:28] [Server thread/INFO]: DrPoyo left the game
+[22:48:16] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[22:48:16] [Server thread/INFO]: Momo37 left the game
+[22:51:54] [User Authenticator #152/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[22:51:54] [Server thread/INFO]: Momo37[/74.129.58.2:53993] logged in with entity id 1566364 at (1025.475874989977, 89.0, -659.0083494907951)
+[22:51:54] [Server thread/INFO]: Momo37 joined the game
+[22:55:28] [Server thread/WARN]: Momo37 moved wrongly!
