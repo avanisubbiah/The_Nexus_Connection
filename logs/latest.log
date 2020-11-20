@@ -239,3 +239,23 @@
 [13:10:01] [Server thread/INFO]: NBSpace_Kid joined the game
 [13:55:43] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
 [13:55:43] [Server thread/INFO]: NBSpace_Kid left the game
+[14:12:31] [User Authenticator #144/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[14:12:32] [Server thread/INFO]: DrPoyo[/74.133.67.1:53820] logged in with entity id 1496901 at (731.5, 70.0, -768.5)
+[14:12:32] [Server thread/INFO]: DrPoyo joined the game
+[14:15:53] [Server thread/WARN]: Boat (vehicle of DrPoyo) moved wrongly! 0.6169858481734991
+[14:15:53] [Server thread/WARN]: Boat (vehicle of DrPoyo) moved wrongly! 0.6425123686659617
+[14:15:53] [Server thread/WARN]: Boat (vehicle of DrPoyo) moved wrongly! 0.6654862365005556
+[14:40:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1506916, l='ServerLevel[world]', x=746.29, y=70.00, z=-745.67]
+[14:45:14] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[14:45:14] [Server thread/INFO]: DrPoyo left the game
+[14:48:32] [User Authenticator #145/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[14:48:32] [Server thread/INFO]: DrPoyo[/74.133.67.1:53900] logged in with entity id 1507347 at (813.387939696969, 67.5, -740.4507974037429)
+[14:48:32] [Server thread/INFO]: DrPoyo joined the game
+[14:49:34] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1507896, l='ServerLevel[world]', x=746.67, y=70.00, z=-746.49]
+[14:51:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1508200, l='ServerLevel[world]', x=745.28, y=70.00, z=-747.43]
+[14:53:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1508519, l='ServerLevel[world]', x=744.20, y=70.00, z=-746.55]
+[14:54:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1508577, l='ServerLevel[world]', x=746.75, y=70.00, z=-747.69]
+[14:54:34] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1508643, l='ServerLevel[world]', x=747.56, y=70.00, z=-748.12]
+[14:54:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1508649, l='ServerLevel[world]', x=745.15, y=70.00, z=-748.30]
+[14:57:33] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[14:57:33] [Server thread/INFO]: DrPoyo left the game
