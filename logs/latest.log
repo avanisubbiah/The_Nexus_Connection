@@ -375,3 +375,9 @@
 [22:51:54] [Server thread/INFO]: Momo37[/74.129.58.2:53993] logged in with entity id 1566364 at (1025.475874989977, 89.0, -659.0083494907951)
 [22:51:54] [Server thread/INFO]: Momo37 joined the game
 [22:55:28] [Server thread/WARN]: Momo37 moved wrongly!
+[23:00:24] [Server thread/INFO]: Momo37 lost connection: Timed out
+[23:00:24] [Server thread/INFO]: Momo37 left the game
+[23:51:43] [User Authenticator #153/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[23:51:43] [Server thread/INFO]: DrPoyo[/74.133.67.1:50360] logged in with entity id 1568222 at (804.9612228979663, 68.0, -754.6930334757687)
+[23:51:43] [Server thread/INFO]: DrPoyo joined the game
+[23:58:41] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1569634, l='ServerLevel[world]', x=746.02, y=70.00, z=-746.02]
