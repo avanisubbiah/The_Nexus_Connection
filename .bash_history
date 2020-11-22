@@ -51,3 +51,5 @@ exit
 cd
 ls
 vim server.properties 
+minecraftd console
+minecraftd console
