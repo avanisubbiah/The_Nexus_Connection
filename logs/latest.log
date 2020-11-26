@@ -1,12 +1,33 @@
-[14:50:11] [User Authenticator #13/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[14:50:11] [Server thread/INFO]: Momo37[/74.129.58.2:57840] logged in with entity id 50306 at (829.1872055372727, 56.0625, -689.8780817721212)
-[14:50:11] [Server thread/INFO]: Momo37 joined the game
-[15:57:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/64316, l='ServerLevel[world]', x=745.12, y=70.00, z=-745.55]
-[16:12:59] [Server thread/WARN]: Trying to add entity with duplicated UUID 210c1927-e632-4e86-a516-81cc3ae8ee00. Existing minecraft:armor_stand#66830, new: minecraft:armor_stand#66830
-[16:28:26] [Server thread/INFO]: Momo37 lost connection: Disconnected
-[16:28:26] [Server thread/INFO]: Momo37 left the game
-[16:52:21] [User Authenticator #14/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[16:52:21] [Server thread/INFO]: DrPoyo[/216.135.49.190:9661] logged in with entity id 70055 at (812.5, 67.875, -744.5)
-[16:52:21] [Server thread/INFO]: DrPoyo joined the game
-[16:52:47] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[16:52:47] [Server thread/INFO]: DrPoyo left the game
+[17:52:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:52:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:50] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:52:51] [Worker-Main-14/INFO]: Loaded 7 recipes
+[17:52:51] [Worker-Main-14/INFO]: Loaded 927 advancements
+[17:52:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:52:52] [Server thread/INFO]: Loading properties
+[17:52:52] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:52] [Server thread/INFO]: Generating keypair
+[17:52:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:52] [Server thread/INFO]: Using epoll channel type
+[17:52:52] [Server thread/INFO]: Preparing level "world"
+[17:52:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:52:53] [Server thread/INFO]: Preparing spawn area: 0%
+[17:52:53] [Server thread/INFO]: Preparing spawn area: 0%
+[17:52:53] [Server thread/INFO]: Preparing spawn area: 0%
+[17:52:54] [Server thread/INFO]: Time elapsed: 1538 ms
+[17:52:54] [Server thread/INFO]: Done (1.589s)! For help, type "help"
+[17:53:29] [User Authenticator #1/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[17:53:29] [Server thread/INFO]: Aviroblox[/66.216.215.84:59278] logged in with entity id 46 at (938.0315878270269, 71.0, 977.7586614980623)
+[17:53:29] [Server thread/INFO]: Aviroblox joined the game
+[17:54:06] [Server thread/INFO]: Aviroblox lost connection: Disconnected
+[17:54:06] [Server thread/INFO]: Aviroblox left the game
+[17:55:25] [User Authenticator #2/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
+[17:55:25] [Server thread/INFO]: Aviroblox[/66.216.215.84:59435] logged in with entity id 290 at (937.3348892028013, 71.0, 976.3272938832179)
+[17:55:25] [Server thread/INFO]: Aviroblox joined the game
+[17:55:33] [Server thread/INFO]: [Aviroblox: Set the weather to clear]
+[17:56:26] [Server thread/INFO]: Aviroblox lost connection: Disconnected
+[17:56:26] [Server thread/INFO]: Aviroblox left the game
