@@ -1,3 +1,4 @@
 [14:50:11] [User Authenticator #13/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
 [14:50:11] [Server thread/INFO]: Momo37[/74.129.58.2:57840] logged in with entity id 50306 at (829.1872055372727, 56.0625, -689.8780817721212)
 [14:50:11] [Server thread/INFO]: Momo37 joined the game
+[15:57:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/64316, l='ServerLevel[world]', x=745.12, y=70.00, z=-745.55]
