@@ -2,3 +2,11 @@
 [14:50:11] [Server thread/INFO]: Momo37[/74.129.58.2:57840] logged in with entity id 50306 at (829.1872055372727, 56.0625, -689.8780817721212)
 [14:50:11] [Server thread/INFO]: Momo37 joined the game
 [15:57:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/64316, l='ServerLevel[world]', x=745.12, y=70.00, z=-745.55]
+[16:12:59] [Server thread/WARN]: Trying to add entity with duplicated UUID 210c1927-e632-4e86-a516-81cc3ae8ee00. Existing minecraft:armor_stand#66830, new: minecraft:armor_stand#66830
+[16:28:26] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[16:28:26] [Server thread/INFO]: Momo37 left the game
+[16:52:21] [User Authenticator #14/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[16:52:21] [Server thread/INFO]: DrPoyo[/216.135.49.190:9661] logged in with entity id 70055 at (812.5, 67.875, -744.5)
+[16:52:21] [Server thread/INFO]: DrPoyo joined the game
+[16:52:47] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[16:52:47] [Server thread/INFO]: DrPoyo left the game
