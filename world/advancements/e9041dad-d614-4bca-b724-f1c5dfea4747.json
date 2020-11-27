@@ -1829,6 +1829,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-11-27 15:43:12 -0500",
       "minecraft:nether_wastes": "2020-10-07 16:58:30 -0400",
       "minecraft:soul_sand_valley": "2020-10-07 17:39:50 -0400"
     },
@@ -2446,6 +2447,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-10-07 18:29:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-11-27 15:55:43 -0500"
     },
     "done": true
   },
@@ -3258,6 +3265,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2020-11-16 00:11:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-11-27 15:55:43 -0500"
     },
     "done": true
   },
