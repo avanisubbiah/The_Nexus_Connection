@@ -1,0 +1,36 @@
+---- Minecraft Crash Report ----
+// Oops.
+
+Time: 11/29/20, 9:15 AM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at aaj.z_(SourceFile:153)
+	at aae$a.y(SourceFile:553)
+	at aae.d(SourceFile:280)
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:749)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737)
+	at aob.c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.4
+	Minecraft Version ID: 1.16.4
+	Operating System: Linux (amd64) version 5.9.10-arch1-1
+	Java Version: 11.0.8, N/A
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1321254832 bytes (1260 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+	CPUs: 16
+	JVM Flags: 3 total; -Xms4096M -Xmx4096M -XX:ParallelGCThreads=1
+	Player Count: 0 / 20; []
+	Data Packs: vanilla, file/bukkit (incompatible)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

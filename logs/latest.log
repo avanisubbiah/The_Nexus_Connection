@@ -1,45 +1,25 @@
-[20:25:14] [User Authenticator #2/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
-[20:25:14] [Server thread/INFO]: Aviroblox[/66.216.215.84:54520] logged in with entity id 16342 at (912.1503027681041, 72.0, 982.8768025181521)
-[20:25:14] [Server thread/INFO]: Aviroblox joined the game
-[20:25:18] [Server thread/INFO]: Aviroblox lost connection: Disconnected
-[20:25:18] [Server thread/INFO]: Aviroblox left the game
-[20:59:39] [User Authenticator #3/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[20:59:40] [Server thread/INFO]: Momo37[/74.129.58.2:55804] logged in with entity id 16566 at (829.5196286320104, 56.0625, -689.9138189380357)
-[20:59:40] [Server thread/INFO]: Momo37 joined the game
-[21:09:22] [Server thread/INFO]: Momo37 hit the ground too hard
-[22:09:23] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.2513647879504788
-[22:09:23] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.6637741945662583
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.2548048160228973
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.7959191396082588
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5137883275588138
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 1.0920479912279006
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5392541278824865
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5451610449420059
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5485364370229036
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5514420740942114
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5529968225587254
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5538287374638458
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5542738785429719
-[22:09:37] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5545120646593205
-[22:09:38] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5546395133012538
-[22:09:38] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5515840743112221
-[22:09:38] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5242449571742327
-[22:09:38] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.4772123202460534
-[22:09:38] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.4217355930436497
-[22:13:31] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.2516763964759434
-[22:13:31] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.8224965827441727
-[22:13:42] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.25486703510841835
-[22:13:42] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.8368483515450862
-[22:14:42] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.5726494150893586
-[22:14:42] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 1.212417542389403
-[22:14:50] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.26065888935193016
-[22:14:50] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.683180425467981
-[22:14:52] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.2597792127480716
-[22:14:52] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.3845991660874688
-[22:14:52] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.45964861782545086
-[22:14:53] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.28096289593020174
-[22:14:53] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.44438818431774507
-[22:14:53] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 0.4668852898765863
-[22:14:53] [Server thread/WARN]: Horse (vehicle of Momo37) moved wrongly! 1.141208313206107
-[22:23:31] [Server thread/INFO]: Momo37 lost connection: Disconnected
-[22:23:31] [Server thread/INFO]: Momo37 left the game
+[09:15:30] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NullPointerException: null
+	at aaj.z_(SourceFile:153) ~[minecraft_server.1.16.4.jar:?]
+	at aae$a.y(SourceFile:553) ~[minecraft_server.1.16.4.jar:?]
+	at aae.d(SourceFile:280) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:749) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[minecraft_server.1.16.4.jar:?]
+	at aob.c(SourceFile:127) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[minecraft_server.1.16.4.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[09:15:30] [Server thread/ERROR]: This crash report has been saved to: /srv/minecraft/./crash-reports/crash-2020-11-29_09.15.30-server.txt
+[09:15:30] [Server thread/INFO]: Stopping server
+[09:15:30] [Server thread/INFO]: Saving players
+[09:15:30] [Server thread/INFO]: Saving worlds
+[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
