@@ -1,25 +1,21 @@
-[09:15:30] [Server thread/ERROR]: Encountered an unexpected exception
-java.lang.NullPointerException: null
-	at aaj.z_(SourceFile:153) ~[minecraft_server.1.16.4.jar:?]
-	at aae$a.y(SourceFile:553) ~[minecraft_server.1.16.4.jar:?]
-	at aae.d(SourceFile:280) ~[minecraft_server.1.16.4.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:749) ~[minecraft_server.1.16.4.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[minecraft_server.1.16.4.jar:?]
-	at aob.c(SourceFile:127) ~[minecraft_server.1.16.4.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[minecraft_server.1.16.4.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[minecraft_server.1.16.4.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[minecraft_server.1.16.4.jar:?]
-	at java.lang.Thread.run(Thread.java:834) [?:?]
-[09:15:30] [Server thread/ERROR]: This crash report has been saved to: /srv/minecraft/./crash-reports/crash-2020-11-29_09.15.30-server.txt
-[09:15:30] [Server thread/INFO]: Stopping server
-[09:15:30] [Server thread/INFO]: Saving players
-[09:15:30] [Server thread/INFO]: Saving worlds
-[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:46:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:46:50] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:46:51] [Worker-Main-14/INFO]: Loaded 7 recipes
+[15:46:51] [Worker-Main-14/INFO]: Loaded 927 advancements
+[15:46:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:46:52] [Server thread/INFO]: Loading properties
+[15:46:52] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:52] [Server thread/INFO]: Generating keypair
+[15:46:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:46:52] [Server thread/INFO]: Using epoll channel type
+[15:46:52] [Server thread/INFO]: Preparing level "world"
+[15:46:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:53] [Server thread/INFO]: Time elapsed: 1294 ms
+[15:46:53] [Server thread/INFO]: Done (1.343s)! For help, type "help"
