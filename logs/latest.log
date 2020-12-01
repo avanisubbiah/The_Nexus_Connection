@@ -21,3 +21,35 @@
 [19:08:13] [Worker-Main-14/INFO]: Preparing spawn area: 86%
 [19:08:13] [Server thread/INFO]: Time elapsed: 1684 ms
 [19:08:13] [Server thread/INFO]: Done (1.734s)! For help, type "help"
+[20:08:26] [User Authenticator #1/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[20:08:26] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:63680] logged in with entity id 41 at (824.4741677112822, 101.0, -735.6954616306263)
+[20:08:26] [Server thread/INFO]: NBSpace_Kid joined the game
+[20:12:01] [Server thread/WARN]: NBSpace_Kid moved too quickly! -477.0177542293583,18.3462703824114,2191.752116933269
+[20:12:01] [Server thread/WARN]: Entity aah['NBSpace_Kid'/41, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:12:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:12:02] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:14:39] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[minecraft_server.1.16.4.jar:?]
+	at zs.a(SourceFile:939) ~[minecraft_server.1.16.4.jar:?]
+	at aae.a(SourceFile:467) ~[minecraft_server.1.16.4.jar:?]
+	at aay.a(SourceFile:931) ~[minecraft_server.1.16.4.jar:?]
+	at st.a(SourceFile:122) ~[minecraft_server.1.16.4.jar:?]
+	at st$a.a(SourceFile:56) ~[minecraft_server.1.16.4.jar:?]
+	at ol.a(SourceFile:21) ~[minecraft_server.1.16.4.jar:?]
+	at wb.run(SourceFile:18) ~[minecraft_server.1.16.4.jar:?]
+	at aob.c(SourceFile:144) ~[minecraft_server.1.16.4.jar:?]
+	at aof.c(SourceFile:23) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[minecraft_server.1.16.4.jar:?]
+	at aob.y(SourceFile:118) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[minecraft_server.1.16.4.jar:?]
+	at aob.c(SourceFile:127) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[minecraft_server.1.16.4.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[20:19:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=768, y=12, z=-516} fx{x=768, y=11, z=-515}
+[20:58:39] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[20:58:39] [Server thread/INFO]: NBSpace_Kid left the game
