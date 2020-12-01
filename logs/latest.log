@@ -21,3 +21,9 @@
 [01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
 [01:09:57] [Server thread/INFO]: Time elapsed: 2304 ms
 [01:09:57] [Server thread/INFO]: Done (2.456s)! For help, type "help"
+[17:02:36] [User Authenticator #1/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[17:02:36] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:53552] logged in with entity id 38 at (751.1520551586982, 74.5625, -755.4955334449809)
+[17:02:36] [Server thread/INFO]: NBSpace_Kid joined the game
+[17:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=799, y=70, z=-798} fx{x=798, y=69, z=-798}
+[17:38:26] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[17:47:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=765, y=71, z=-768} fx{x=765, y=69, z=-770}
