@@ -792,6 +792,7 @@
       "minecraft:magma_cube": "2020-10-07 17:12:20 -0400",
       "minecraft:spider": "2020-10-06 22:17:02 -0400",
       "minecraft:creeper": "2020-10-07 18:29:00 -0400",
+      "minecraft:wither": "2020-12-01 22:27:00 -0500",
       "minecraft:slime": "2020-11-20 01:14:31 -0500",
       "minecraft:evoker": "2020-11-21 17:52:44 -0500",
       "minecraft:zombified_piglin": "2020-11-27 16:39:01 -0500",
@@ -2299,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-12-01 22:26:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-10-07 17:03:14 -0400"
@@ -2631,6 +2638,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-10-06 22:26:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-12-01 22:27:04 -0500"
     },
     "done": true
   },

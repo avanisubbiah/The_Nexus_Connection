@@ -2677,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-12-01 22:26:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-10-10 17:41:44 -0400"
@@ -3073,6 +3079,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 19:06:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-12-01 22:27:09 -0500"
     },
     "done": true
   },
