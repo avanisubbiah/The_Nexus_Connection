@@ -1,226 +1,51 @@
-[20:54:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:28] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:54:29] [Worker-Main-4/INFO]: Loaded 7 recipes
-[20:54:30] [Worker-Main-4/INFO]: Loaded 927 advancements
-[20:54:31] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[20:54:31] [Server thread/INFO]: Loading properties
-[20:54:31] [Server thread/INFO]: Default game type: SURVIVAL
-[20:54:31] [Server thread/INFO]: Generating keypair
-[20:54:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:54:31] [Server thread/INFO]: Using epoll channel type
-[20:54:32] [Server thread/INFO]: Preparing level "world"
-[20:54:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:34] [Server thread/INFO]: Preparing spawn area: 72%
-[20:54:34] [Server thread/INFO]: Time elapsed: 2202 ms
-[20:54:34] [Server thread/INFO]: Done (2.396s)! For help, type "help"
-[22:00:20] [User Authenticator #1/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[22:00:20] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:51338] logged in with entity id 40 at (723.7592854836971, 82.0625, -727.4501832044541)
-[22:00:20] [Server thread/INFO]: NBSpace_Kid joined the game
-[22:10:12] [User Authenticator #2/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[22:10:12] [Server thread/INFO]: Momo37[/74.129.58.2:52416] logged in with entity id 2051 at (827.950277203682, 56.0625, -689.7393101940822)
-[22:10:12] [Server thread/INFO]: Momo37 joined the game
-[22:10:17] [Server thread/INFO]: <NBSpace_Kid> hihi
-[22:10:20] [Server thread/INFO]: <Momo37> hello
-[22:12:36] [Server thread/INFO]: <NBSpace_Kid> non of our villagers trade coal smh
-[22:12:46] [Server thread/INFO]: <Momo37> do u need some
-[22:12:50] [Server thread/INFO]: <NBSpace_Kid> also sleep pls
-[22:12:53] [Server thread/INFO]: <Momo37> I have a lot
-[22:13:08] [Server thread/INFO]: <NBSpace_Kid> nah i have a bunch i was gonna trade emerald
-[22:13:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
-[22:13:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
-[22:13:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
-[22:13:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
-[22:13:45] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
-[22:14:00] [Server thread/INFO]: <Momo37> this evil son of a bitch horse
-[22:14:05] [Server thread/INFO]: <NBSpace_Kid> ha
-[22:14:21] [Server thread/INFO]: <NBSpace_Kid> did you set up a portal in the village across the sea??
-[22:14:26] [Server thread/INFO]: <NBSpace_Kid> to the west
-[22:14:35] [Server thread/INFO]: <Momo37> no
-[22:14:42] [Server thread/INFO]: <NBSpace_Kid> weird
-[22:14:58] [Server thread/INFO]: <Momo37> i dont even now which way is west
-[22:15:05] [Server thread/INFO]: <NBSpace_Kid> f3
-[22:15:24] [Server thread/INFO]: <NBSpace_Kid> my house is west
-[22:15:52] [Server thread/INFO]: <Momo37> lame
-[22:17:10] [Server thread/INFO]: <NBSpace_Kid> ready when you are
-[22:18:39] [Server thread/INFO]: <Momo37> im ready
-[22:19:48] [Server thread/INFO]: <NBSpace_Kid> do you know how this one works?
-[22:19:54] [Server thread/INFO]: <Momo37> no
-[22:20:00] [Server thread/INFO]: <NBSpace_Kid> fuck i forgot the wither stuff
-[22:20:06] [Server thread/INFO]: <NBSpace_Kid> big dumb 1 sec
-[22:21:17] [Server thread/INFO]: <Momo37> i should of brang some swiftness potions
-[22:21:33] [Server thread/INFO]: <NBSpace_Kid> nah those prob wouldnt have helped
-[22:22:51] [Server thread/INFO]: <NBSpace_Kid> for you too
-[22:23:26] [Server thread/INFO]: <NBSpace_Kid> take the gapples
-[22:23:44] [Server thread/INFO]: <Momo37> i have a splash potion of strength for when we start
-[22:23:53] [Server thread/INFO]: <NBSpace_Kid> mkay
-[22:23:58] [Server thread/INFO]: <NBSpace_Kid> take gapples
-[22:25:07] [Server thread/INFO]: <NBSpace_Kid> aight so each go down different tunnel, wither should focus on one person and the other can attack
-[22:26:06] [Server thread/INFO]: Momo37 has made the advancement [Withering Heights]
-[22:26:06] [Server thread/INFO]: NBSpace_Kid has made the advancement [Withering Heights]
-[22:27:06] [Server thread/INFO]: <NBSpace_Kid> yayy
-[22:27:11] [Server thread/INFO]: <NBSpace_Kid> tyty
-[22:27:39] [Server thread/INFO]: <Momo37> that was overly scary getting chased down a hall by the wither
-[22:27:46] [Server thread/INFO]: <NBSpace_Kid> that was vry easy
-[22:27:55] [Server thread/INFO]: <Momo37> we just too good
-[22:28:08] [Server thread/INFO]: <NBSpace_Kid> yeahh you were farther forward do he focused on you
-[22:28:34] [Server thread/INFO]: <NBSpace_Kid> we can do it again at some point and get more stars
-[22:29:04] [Server thread/INFO]: <Momo37> also i hope i didnt shoot you at all i have percing on my crossbow
-[22:29:18] [Server thread/INFO]: <NBSpace_Kid> dont think you did
-[22:29:29] [Server thread/INFO]: <NBSpace_Kid> i never went down to half
-[22:31:40] [Server thread/INFO]: <NBSpace_Kid> i think my new goal is to get all achievements
-[22:31:49] [Server thread/INFO]: <Momo37> wack
-[22:35:11] [Server thread/INFO]: <Momo37> i always over pack potions
-[22:35:12] [Server thread/INFO]: <NBSpace_Kid> do you want anything in shulker?
-[22:35:17] [Server thread/INFO]: <NBSpace_Kid> same
-[22:35:41] [Server thread/INFO]: <Momo37> naw i gots plenty of stuff and a metric fuck ton of potions
-[22:36:35] [Server thread/INFO]: <NBSpace_Kid> how many effects are there in-game? we could try and do the furious cocktail challenge
-[22:37:35] [Server thread/INFO]: <Momo37> the more probematic ones are wither and the bad omen or what ever we should have the rest
-[22:39:10] [Server thread/INFO]: <NBSpace_Kid> bad omens stay as long as you dont go into a village/drink milk but a fighting a wither would be stupid just for that challenge
-[22:39:16] [Server thread/INFO]: <NBSpace_Kid> i s2g this golem
-[22:39:50] [Server thread/INFO]: <Momo37> thats kinda crazy
-[22:40:19] [Server thread/INFO]: <NBSpace_Kid> uneasy allience i think would be the hardest
-[22:41:41] [Server thread/INFO]: <Momo37> which one is that
-[22:42:10] [Server thread/INFO]: <NBSpace_Kid> bring a ghast into overworld
-[22:42:41] [Server thread/INFO]: <Momo37> that dose sound like a pain
-[22:43:46] [Server thread/INFO]: <NBSpace_Kid> oo i only need 3 biomes for adventuring time
-[22:44:09] [Server thread/INFO]: <NBSpace_Kid> also nap time
-[22:46:45] [Server thread/INFO]: <NBSpace_Kid> if you have any iron, gold, emerald, or diamond blocks you don't want pls put it in my mailbox
-[22:46:54] [Server thread/INFO]: <NBSpace_Kid> (for beacon)
-[22:47:42] [Server thread/INFO]: <NBSpace_Kid> opinion on where to put beacon?
-[22:48:12] [Server thread/INFO]: <NBSpace_Kid> bro im stupid
-[22:48:17] [Server thread/INFO]: <Momo37> what
-[22:48:17] [Server thread/INFO]: <NBSpace_Kid> just stand where
-[22:48:30] [Server thread/INFO]: <NBSpace_Kid> oki
-[22:48:41] [Server thread/INFO]: <Momo37> its a good central location
-[22:50:08] [Server thread/INFO]: <NBSpace_Kid> oo tyty
-[22:50:13] [Server thread/INFO]: <Momo37> np
-[22:50:22] [Server thread/INFO]: <NBSpace_Kid> thats a fuck ton of iron holy fuck
-[22:50:37] [Server thread/INFO]: <Momo37> it be like that sometime
-[22:50:53] [Server thread/INFO]: <NBSpace_Kid> rightt
-[22:54:44] [Server thread/INFO]: <Momo37> hi
-[22:54:48] [Server thread/INFO]: <NBSpace_Kid> whatcha doin
-[22:55:18] [Server thread/INFO]: <Momo37> murdered demon horse and im re doing the horse pen
-[22:55:23] [Server thread/INFO]: <NBSpace_Kid> neat
-[22:55:29] [Server thread/INFO]: <NBSpace_Kid> cmere
-[22:55:32] [Server thread/INFO]: <Momo37> ty
-[22:55:39] [Server thread/INFO]: <NBSpace_Kid> neat
-[22:55:54] [Server thread/INFO]: <Momo37> that was rude
-[22:56:06] [Server thread/INFO]: <NBSpace_Kid> i wanted to see how much damage it did
-[22:56:16] [Server thread/INFO]: <NBSpace_Kid> with a crit
-[22:56:33] [Server thread/INFO]: <Momo37> a lot like 7 hearts
-[22:57:10] [Server thread/INFO]: <NBSpace_Kid> yyou went down to 3 from full - half heart
-[22:57:22] [Server thread/INFO]: <NBSpace_Kid> sleep tiem
-[22:57:24] [Server thread/INFO]: <Momo37> can i try my sword next it only dose 10.5 damage
-[22:57:45] [Server thread/INFO]: <NBSpace_Kid> lemme put my stuff away then sure
-[22:57:53] [Server thread/INFO]: <Momo37> i was kidding'
-[22:58:12] [Server thread/INFO]: <NBSpace_Kid> nope youve commited
-[22:58:22] [Server thread/INFO]: <Momo37> i ant got the time
-[22:58:27] [Server thread/INFO]: <NBSpace_Kid> to bad
-[23:00:05] [Server thread/INFO]: <Momo37> whatcha doin
-[23:00:12] [Server thread/INFO]: <NBSpace_Kid> stealin
-[23:00:25] [Server thread/INFO]: <Momo37> thats kinda crazy
-[23:01:00] [Server thread/INFO]: <NBSpace_Kid> exact same
-[23:01:08] [Server thread/INFO]: <Momo37> lit
-[23:02:23] [Server thread/INFO]: <Momo37> thats what we call science
-[23:02:31] [Server thread/INFO]: <NBSpace_Kid> mythbusters extreme
-[23:02:43] [Server thread/INFO]: <Momo37> rad bro
-[23:03:33] [Server thread/INFO]: <Momo37> well then
-[23:03:43] [Server thread/INFO]: <NBSpace_Kid> i only used 2 hush
-[23:04:12] [Server thread/INFO]: <NBSpace_Kid> the golems keep falling into the fountain >:(
-[23:04:16] [Server thread/INFO]: <Momo37> i have littral stacks of them everywhere
-[23:04:27] [Server thread/INFO]: <NBSpace_Kid> sucks
-[23:06:49] [Server thread/INFO]: <NBSpace_Kid> ??
-[23:06:56] [Server thread/INFO]: <NBSpace_Kid> k then
-[23:08:46] [Server thread/INFO]: <NBSpace_Kid> sleebyy
-[23:11:17] [Server thread/INFO]: <NBSpace_Kid> fully powered beacons are 4 levels right?
-[23:11:29] [Server thread/INFO]: <Momo37> ya i think so
-[23:11:34] [Server thread/INFO]: <NBSpace_Kid> mk ty
-[23:13:15] [Server thread/INFO]: <NBSpace_Kid> what color should the beam be?
-[23:13:25] [Server thread/INFO]: <Momo37> light blue
-[23:13:28] [Server thread/INFO]: <NBSpace_Kid> mk
-[23:15:14] [Server thread/INFO]: There are 2 of a max of 20 players online: NBSpace_Kid, Momo37
-[23:16:02] [Server thread/INFO]: NBSpace_Kid has made the advancement [Bring Home the Beacon]
-[23:16:10] [Server thread/INFO]: <NBSpace_Kid> yayy
-[23:16:16] [Server thread/INFO]: <Momo37> pretty
-[23:16:18] [Server thread/INFO]: <NBSpace_Kid> cmere
-[23:16:54] [Server thread/INFO]: Momo37 has made the advancement [Bring Home the Beacon]
-[23:18:37] [Server thread/INFO]: <NBSpace_Kid> extra diamond blocks in mailbox
-[23:18:57] [Server thread/INFO]: <Momo37> ok
-[23:20:06] [Server thread/INFO]: <NBSpace_Kid> sleep pls
-[23:21:28] [Server thread/INFO]: <NBSpace_Kid> did you put a potion on my cat..??
-[23:21:38] [Server thread/INFO]: <Momo37> maybe
-[23:22:06] [Server thread/INFO]: <NBSpace_Kid> did you look in the shulkers..?
-[23:22:14] [Server thread/INFO]: <Momo37> sure
-[23:22:44] [Server thread/INFO]: <Momo37> which ones
-[23:23:12] [Server thread/INFO]: <NBSpace_Kid> black & green, you werent supposed to see em
-[23:23:29] [Server thread/INFO]: <Momo37> where were those
-[23:23:43] [Server thread/INFO]: <NBSpace_Kid> in house
-[23:23:52] [Server thread/INFO]: <Momo37> intresting
-[23:26:19] [Server thread/INFO]: <Momo37> did u pick the buffs for the becon
-[23:26:27] [Server thread/INFO]: <NBSpace_Kid> nope
-[23:26:30] [Server thread/INFO]: <NBSpace_Kid> you can
-[23:26:33] [Server thread/INFO]: <Momo37> lame
-[23:28:11] [Server thread/INFO]: <NBSpace_Kid> someone let my farmer out :(
-[23:28:24] [Server thread/INFO]: <Momo37> ??
-[23:28:54] [Server thread/INFO]: <NBSpace_Kid> i trapped a villager in another village and someone let em out
-[23:29:06] [Server thread/INFO]: <Momo37> sad
-[23:29:17] [Server thread/INFO]: <NBSpace_Kid> very
-[23:33:38] [Server thread/INFO]: <NBSpace_Kid> go sleep
-[23:33:40] [Server thread/INFO]: <NBSpace_Kid> sir
-[23:34:15] [Server thread/INFO]: <Momo37> u could of slept in my guest room
-[23:34:29] [Server thread/INFO]: <NBSpace_Kid> girl idk where that is
-[23:34:36] [Server thread/INFO]: <NBSpace_Kid> i just slet upstairs
-[23:34:41] [Server thread/INFO]: <Momo37> lame
-[23:34:41] [Server thread/INFO]: <NBSpace_Kid> slept*
-[23:35:19] [Server thread/INFO]: <NBSpace_Kid> i think i may need to go mesa mining soon
-[23:36:11] [Server thread/INFO]: <NBSpace_Kid> ??
-[23:36:54] [Server thread/INFO]: <NBSpace_Kid> it happens so much i dont even care anymore
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:44:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
-[23:46:47] [Server thread/INFO]: <Momo37> wow cant belive ur not sleeping couldnt be me
-[23:46:57] [Server thread/INFO]: <NBSpace_Kid> oop im in the mines
-[23:47:07] [Server thread/INFO]: <NBSpace_Kid> m comin
-[23:47:15] [Server thread/INFO]: <Momo37> damn shouldnt of said anything
-[23:47:19] [Server thread/INFO]: <NBSpace_Kid> ha
-[23:47:51] [Server thread/INFO]: Momo37 fell from a high place
-[23:47:55] [Server thread/INFO]: <Momo37> lol
-[23:47:56] [Server thread/INFO]: <NBSpace_Kid> opo
-[23:51:07] [Server thread/INFO]: Momo37 was slain by NBSpace_Kid
-[23:51:10] [Server thread/INFO]: <NBSpace_Kid> OOP
-[23:51:20] [Server thread/INFO]: <Momo37> tragic
-[23:54:05] [Server thread/INFO]: <NBSpace_Kid> did you have emeralds?
-[23:54:15] [Server thread/INFO]: <Momo37> some
-[23:54:30] [Server thread/INFO]: <Momo37> but u can keep them
-[23:54:35] [Server thread/INFO]: <NBSpace_Kid> do you remember how much?
-[23:54:40] [Server thread/INFO]: <NBSpace_Kid> oop okie ty
-[23:55:56] [Server thread/INFO]: <NBSpace_Kid> when you're done doing what ya doin do you wanna go to the mesa w/ me?
-[23:56:55] [Server thread/INFO]: <Momo37> sure im not rlly doing anything
-[23:57:09] [Server thread/INFO]: <NBSpace_Kid> mkay just tell me when ya ready
-[23:57:16] [Server thread/INFO]: <NBSpace_Kid> its for mining btw
-[23:58:31] [Server thread/INFO]: <Momo37> ready
-[23:58:40] [Server thread/INFO]: <NBSpace_Kid> mkay meet at nether house
+[00:01:00] [Server thread/INFO]: <NBSpace_Kid> srry had to grab some final stuff
+[00:05:48] [Server thread/INFO]: <NBSpace_Kid> thats a lot of lava
+[00:05:58] [Server thread/INFO]: <Momo37> it rlly is
+[00:08:18] [Server thread/INFO]: <NBSpace_Kid> go down?
+[00:08:21] [Server thread/INFO]: <Momo37> ya
+[00:09:52] [Server thread/INFO]: <Momo37> good job
+[00:09:55] [Server thread/INFO]: <NBSpace_Kid> ?
+[00:10:10] [Server thread/INFO]: <Momo37> it took u 3 times the first time
+[00:10:13] [Server thread/INFO]: <NBSpace_Kid> brain no worky mann
+[00:11:33] [Server thread/INFO]: <Momo37> i have 4 cat discs
+[00:11:53] [Server thread/INFO]: <NBSpace_Kid> could try and sell them
+[00:12:01] [Server thread/INFO]: <Momo37> to who
+[00:12:08] [Server thread/INFO]: <NBSpace_Kid> server ppl
+[00:12:25] [Server thread/INFO]: <Momo37> idk cats pretty common
+[00:12:29] [Server thread/INFO]: <NBSpace_Kid> yeahh
+[00:16:57] [Server thread/INFO]: <Momo37> that jump made my heart hurt
+[00:17:02] [Server thread/INFO]: <NBSpace_Kid> ha
+[00:21:31] [Server thread/INFO]: <Momo37> look how cool this is
+[00:21:51] [Server thread/INFO]: <NBSpace_Kid> this world has a lot of cool generations
+[00:24:25] [Server thread/INFO]: <NBSpace_Kid> wya
+[00:27:28] [Server thread/INFO]: <Momo37> ha
+[00:28:41] [Server thread/INFO]: <NBSpace_Kid> i dont trust myself
+[00:30:40] [Server thread/INFO]: <NBSpace_Kid> head home or continue
+[00:30:51] [Server thread/INFO]: <Momo37> idc
+[00:33:10] [Server thread/INFO]: <Momo37> my cat keeps burping
+[00:33:17] [Server thread/INFO]: <NBSpace_Kid> huh???
+[00:33:31] [Server thread/INFO]: <NBSpace_Kid> i didnt know cats burped
+[00:33:50] [Server thread/INFO]: <Momo37> hes doing something
+[00:34:08] [Server thread/INFO]: <NBSpace_Kid> reggie keeps sneezing
+[00:34:30] [Server thread/INFO]: <NBSpace_Kid> hes not taking his first winter well
+[00:34:40] [Server thread/INFO]: <Momo37> lol
+[00:36:06] [Server thread/INFO]: <NBSpace_Kid> thank god for good boots
+[00:36:11] [Server thread/INFO]: <Momo37> ha
+[00:42:56] [Server thread/INFO]: <NBSpace_Kid> do you need anything from there?
+[00:43:07] [Server thread/INFO]: <Momo37> i got some torches
+[00:43:09] [Server thread/INFO]: <Momo37> ty
+[00:43:11] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:43:15] [Server thread/INFO]: <NBSpace_Kid> np
+[00:51:53] [Server thread/INFO]: <NBSpace_Kid> im suprised we havent found a mineshaft
+[00:52:00] [Server thread/INFO]: <Momo37> same
+[00:54:24] [Server thread/INFO]: <NBSpace_Kid> do you have fortune?
+[00:54:50] [Server thread/INFO]: <Momo37> do u have an ender chest
+[00:54:56] [Server thread/INFO]: <NBSpace_Kid> nope
+[00:55:03] [Server thread/INFO]: <Momo37> then i dont
+[00:57:06] [Server thread/INFO]: <NBSpace_Kid> sorry
+[00:57:47] [Server thread/INFO]: <NBSpace_Kid> whatcha doin
+[00:57:57] [Server thread/INFO]: <Momo37> idk
+[00:58:55] [Server thread/INFO]: <NBSpace_Kid> do you need to craft/smelt anything?
+[00:59:05] [Server thread/INFO]: <Momo37> not atm
+[00:59:09] [Server thread/INFO]: <NBSpace_Kid> mkay
+[00:59:27] [Server thread/INFO]: <NBSpace_Kid> brb
