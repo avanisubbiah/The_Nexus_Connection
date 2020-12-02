@@ -1,40 +1,24 @@
-[01:09:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:09:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:09:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:09:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:09:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:09:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[01:09:52] [Worker-Main-5/INFO]: Loaded 7 recipes
-[01:09:53] [Worker-Main-5/INFO]: Loaded 927 advancements
-[01:09:54] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[01:09:54] [Server thread/INFO]: Loading properties
-[01:09:54] [Server thread/INFO]: Default game type: SURVIVAL
-[01:09:54] [Server thread/INFO]: Generating keypair
-[01:09:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:09:55] [Server thread/INFO]: Using epoll channel type
-[01:09:55] [Server thread/INFO]: Preparing level "world"
-[01:09:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[01:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[01:09:57] [Server thread/INFO]: Time elapsed: 2304 ms
-[01:09:57] [Server thread/INFO]: Done (2.456s)! For help, type "help"
-[17:02:36] [User Authenticator #1/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[17:02:36] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:53552] logged in with entity id 38 at (751.1520551586982, 74.5625, -755.4955334449809)
-[17:02:36] [Server thread/INFO]: NBSpace_Kid joined the game
-[17:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=799, y=70, z=-798} fx{x=798, y=69, z=-798}
-[17:38:26] [Server thread/WARN]: NBSpace_Kid moved wrongly!
-[17:47:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=765, y=71, z=-768} fx{x=765, y=69, z=-770}
-[18:40:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1037, y=99, z=-581} fx{x=1037, y=99, z=-580}
-[18:40:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1037, y=99, z=-581} fx{x=1037, y=99, z=-580}
-[18:40:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1037, y=99, z=-581} fx{x=1037, y=99, z=-580}
-[18:45:56] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[18:45:56] [Server thread/INFO]: NBSpace_Kid left the game
-[18:48:16] [User Authenticator #2/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[18:48:16] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:53972] logged in with entity id 22408 at (751.884583737462, 74.0, -752.3794490835993)
-[18:48:16] [Server thread/INFO]: NBSpace_Kid joined the game
-[19:11:05] [Server thread/WARN]: NBSpace_Kid moved wrongly!
-[19:20:33] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[19:20:33] [Server thread/INFO]: NBSpace_Kid left the game
+[20:54:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:28] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:54:29] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:54:30] [Worker-Main-4/INFO]: Loaded 927 advancements
+[20:54:31] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:54:31] [Server thread/INFO]: Loading properties
+[20:54:31] [Server thread/INFO]: Default game type: SURVIVAL
+[20:54:31] [Server thread/INFO]: Generating keypair
+[20:54:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:54:31] [Server thread/INFO]: Using epoll channel type
+[20:54:32] [Server thread/INFO]: Preparing level "world"
+[20:54:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:54:34] [Server thread/INFO]: Preparing spawn area: 72%
+[20:54:34] [Server thread/INFO]: Time elapsed: 2202 ms
+[20:54:34] [Server thread/INFO]: Done (2.396s)! For help, type "help"
