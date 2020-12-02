@@ -35,3 +35,6 @@
 [18:48:16] [User Authenticator #2/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [18:48:16] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:53972] logged in with entity id 22408 at (751.884583737462, 74.0, -752.3794490835993)
 [18:48:16] [Server thread/INFO]: NBSpace_Kid joined the game
+[19:11:05] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[19:20:33] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[19:20:33] [Server thread/INFO]: NBSpace_Kid left the game
