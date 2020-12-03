@@ -118,3 +118,9 @@
 [17:56:46] [User Authenticator #3/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [17:56:46] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56856] logged in with entity id 66823 at (725.4823543548122, 82.0625, -727.9301192275625)
 [17:56:46] [Server thread/INFO]: NBSpace_Kid joined the game
+[18:10:44] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[18:10:44] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[18:10:44] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[18:10:44] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[18:45:56] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[18:45:56] [Server thread/INFO]: NBSpace_Kid left the game
