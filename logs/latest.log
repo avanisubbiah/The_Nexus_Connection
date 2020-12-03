@@ -132,3 +132,16 @@
 [19:56:14] [User Authenticator #5/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [19:56:15] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:63042] logged in with entity id 88539 at (726.5, 85.0, -725.5)
 [19:56:15] [Server thread/INFO]: NBSpace_Kid joined the game
+[20:02:30] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[20:03:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=430, y=50, z=-352} fx{x=430, y=51, z=-352}
+[20:04:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=652, y=52, z=-740} fx{x=652, y=53, z=-740}
+[20:14:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=664, y=54, z=-754} fx{x=664, y=52, z=-755}
+[20:28:45] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[20:42:14] [Server thread/INFO]: NBSpace_Kid has made the advancement [Sticky Situation]
+[20:48:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=657, y=61, z=-705} fx{x=656, y=58, z=-705}
+[20:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=652, y=55, z=-705} fx{x=652, y=53, z=-705}
+[20:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=651, y=53, z=-705} fx{x=652, y=53, z=-705}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=648, y=48, z=-709} fx{x=648, y=46, z=-708}
+[20:48:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=651, y=50, z=-708} fx{x=651, y=50, z=-707}
+[20:49:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=656, y=57, z=-707} fx{x=656, y=57, z=-706}
+[20:49:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=655, y=55, z=-710} fx{x=656, y=55, z=-710}

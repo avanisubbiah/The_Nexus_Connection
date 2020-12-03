@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-12-02 20:38:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2020-10-04 22:07:09 -0400"
@@ -788,6 +794,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-10-04 18:48:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-12-02 20:50:20 -0500"
     },
     "done": true
   },
@@ -2128,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-12-02 20:38:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2020-11-15 23:43:44 -0500"
@@ -3040,6 +3058,7 @@
     "criteria": {
       "minecraft:cat": "2020-11-03 19:00:06 -0500",
       "minecraft:pig": "2020-10-04 21:09:52 -0400",
+      "minecraft:turtle": "2020-12-02 20:05:27 -0500",
       "minecraft:sheep": "2020-10-04 21:09:58 -0400",
       "minecraft:cow": "2020-10-04 21:10:38 -0400",
       "minecraft:chicken": "2020-10-04 22:13:17 -0400"
@@ -4132,6 +4151,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-12-02 20:42:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-10-04 21:03:28 -0400"
@@ -4339,6 +4364,12 @@
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2020-10-25 16:05:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-12-02 20:38:40 -0500"
     },
     "done": true
   },
