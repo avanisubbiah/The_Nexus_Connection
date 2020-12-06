@@ -14,3 +14,6 @@
 [21:48:53] [User Authenticator #10/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
 [21:48:53] [Server thread/INFO]: DrPoyo[/74.133.67.1:52493] logged in with entity id 175560 at (807.5799815247493, 67.0, -758.7143814317886)
 [21:48:53] [Server thread/INFO]: DrPoyo joined the game
+[22:10:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/178749, l='ServerLevel[world]', x=745.10, y=70.00, z=-745.55]
+[22:37:19] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[22:37:19] [Server thread/INFO]: DrPoyo left the game
