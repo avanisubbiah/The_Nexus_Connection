@@ -1,3 +1,8 @@
 [15:34:59] [User Authenticator #8/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
 [15:34:59] [Server thread/INFO]: Momo37[/74.129.58.2:54798] logged in with entity id 116897 at (846.2344963369582, 51.0, -674.9744099013672)
 [15:34:59] [Server thread/INFO]: Momo37 joined the game
+[19:16:08] [Server thread/WARN]: Trying to add entity with duplicated UUID 1462d0bf-3ea6-4ea7-a22a-412127ae8b2d. Existing minecraft:armor_stand#171513, new: minecraft:armor_stand#171513
+[19:16:14] [Server thread/WARN]: Trying to add entity with duplicated UUID 3ea6b2f9-9ecf-45c6-8e72-1525d3a61dda. Existing minecraft:armor_stand#171528, new: minecraft:armor_stand#171528
+[19:16:17] [Server thread/WARN]: Trying to add entity with duplicated UUID ebf59c92-a6bb-4a57-ac36-2a3670116881. Existing minecraft:armor_stand#171533, new: minecraft:armor_stand#171533
+[19:33:45] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[19:33:45] [Server thread/INFO]: Momo37 left the game
