@@ -95,3 +95,52 @@
 [12:58:42] [Server thread/INFO]: <NBSpace_Kid> can i take the feather falling 5 book?
 [12:58:55] [Server thread/INFO]: <Momo37> ya anything in there u can take
 [12:58:59] [Server thread/INFO]: <NBSpace_Kid> aight ty
+[13:11:07] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[13:12:57] [Server thread/INFO]: <NBSpace_Kid> how many levels do you have?
+[13:13:17] [Server thread/INFO]: <Momo37> now 6 i had to make a new sword pick and bow
+[13:13:29] [Server thread/INFO]: <NBSpace_Kid> dang
+[13:13:50] [Server thread/INFO]: <Momo37> i have some bottles o enchanting
+[13:13:59] [Server thread/INFO]: <NBSpace_Kid> nah it gucci
+[13:14:14] [Server thread/INFO]: <NBSpace_Kid> ima go to the gaurdian farm
+[13:17:01] [Server thread/INFO]: <NBSpace_Kid> i have no idea which portal it is >:(
+[13:17:49] [Server thread/INFO]: <Momo37> thats kinda crazy
+[13:17:58] [Server thread/INFO]: <NBSpace_Kid> amh now i gotta go to the enderman farm
+[13:18:02] [Server thread/INFO]: <NBSpace_Kid> smh*
+[13:24:11] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[minecraft_server.1.16.4.jar:?]
+	at zs.a(SourceFile:939) ~[minecraft_server.1.16.4.jar:?]
+	at aae.a(SourceFile:467) ~[minecraft_server.1.16.4.jar:?]
+	at aay.a(SourceFile:931) ~[minecraft_server.1.16.4.jar:?]
+	at st.a(SourceFile:122) ~[minecraft_server.1.16.4.jar:?]
+	at st$a.a(SourceFile:56) ~[minecraft_server.1.16.4.jar:?]
+	at ol.a(SourceFile:21) ~[minecraft_server.1.16.4.jar:?]
+	at wb.run(SourceFile:18) ~[minecraft_server.1.16.4.jar:?]
+	at aob.c(SourceFile:144) ~[minecraft_server.1.16.4.jar:?]
+	at aof.c(SourceFile:23) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[minecraft_server.1.16.4.jar:?]
+	at aob.y(SourceFile:118) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[minecraft_server.1.16.4.jar:?]
+	at aob.bl(SourceFile:103) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[minecraft_server.1.16.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[minecraft_server.1.16.4.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[13:30:07] [Server thread/INFO]: <NBSpace_Kid> cute
+[13:30:13] [Server thread/INFO]: <Momo37> u scared the fuck out of me
+[13:30:17] [Server thread/INFO]: <NBSpace_Kid> ha
+[13:33:27] [Server thread/INFO]: Momo37 was shot by Skeleton
+[13:33:32] [Server thread/INFO]: <NBSpace_Kid> hha
+[13:33:39] [Server thread/INFO]: <Momo37> today is not my day
+[13:46:51] [Server thread/INFO]: <NBSpace_Kid> sleep pls
+[13:50:28] [Server thread/INFO]: <NBSpace_Kid> is there anything that makes baby villagers grow faster?
+[13:50:39] [Server thread/INFO]: <Momo37> idk
+[13:53:02] [Server thread/INFO]: <Momo37> do u have or know where to get a looting book by chance
+[13:53:14] [Server thread/INFO]: <NBSpace_Kid> check the tower
+[13:53:32] [Server thread/INFO]: <NBSpace_Kid> actully ill check 1 sec
+[13:53:43] [Server thread/INFO]: <NBSpace_Kid> oop nvm
+[13:54:14] [Server thread/INFO]: <Momo37> oh well ill just do a lot of enchanting
+[13:54:23] [Server thread/INFO]: <NBSpace_Kid> kindly dont use this for a good bit
+[13:54:39] [Server thread/INFO]: <Momo37> ok
