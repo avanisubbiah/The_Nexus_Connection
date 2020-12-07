@@ -239,3 +239,7 @@ java.lang.NullPointerException: null
 [15:53:56] [Server thread/INFO]: Momo37 lost connection: Disconnected
 [15:53:56] [Server thread/INFO]: Momo37 left the game
 [15:57:54] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[16:20:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/343516, l='ServerLevel[world]', x=747.54, y=70.00, z=-747.16]
+[16:32:43] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[16:32:43] [Server thread/INFO]: NBSpace_Kid left the game
+[16:32:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@12f902ac[id=<null>,name=NBSpace_Kid,properties={},legacy=false] (/24.192.41.13:52163) lost connection: Disconnected
