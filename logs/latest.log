@@ -1,31 +1,3 @@
-[14:41:16] [User Authenticator #14/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
-[14:41:16] [Server thread/INFO]: Aviroblox[/66.216.215.84:58213] logged in with entity id 345478 at (912.1503027681041, 72.0, 982.8768025181521)
-[14:41:16] [Server thread/INFO]: Aviroblox joined the game
-[14:41:45] [Server thread/INFO]: Aviroblox lost connection: Disconnected
-[14:41:45] [Server thread/INFO]: Aviroblox left the game
-[20:26:35] [User Authenticator #15/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[20:26:35] [Server thread/INFO]: Momo37[/74.129.58.2:56768] logged in with entity id 345776 at (846.4019763152926, 51.0, -674.8170009605603)
-[20:26:35] [Server thread/INFO]: Momo37 joined the game
-[20:48:59] [Server thread/INFO]: Momo37 lost connection: Disconnected
-[20:48:59] [Server thread/INFO]: Momo37 left the game
-[20:55:17] [User Authenticator #16/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[20:55:17] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:64602] logged in with entity id 357675 at (722.2255017984409, 82.0625, -728.8597980177708)
-[20:55:17] [Server thread/INFO]: NBSpace_Kid joined the game
-[20:56:23] [User Authenticator #17/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[20:56:23] [Server thread/INFO]: Momo37[/74.129.58.2:57179] logged in with entity id 358321 at (831.8268457329826, 55.0, -698.3680103968109)
-[20:56:23] [Server thread/INFO]: Momo37 joined the game
-[20:59:50] [Server thread/INFO]: <NBSpace_Kid> do you want a power 5 infinity bow?
-[21:00:02] [Server thread/INFO]: <Momo37> sure
-[21:06:09] [Server thread/INFO]: Momo37 was slain by NBSpace_Kid
-[21:29:21] [Server thread/INFO]: <NBSpace_Kid> hurry up and get ready for mining nerd
-[21:29:34] [Server thread/INFO]: <Momo37> im getting there i just got back
-[21:29:39] [Server thread/INFO]: <NBSpace_Kid> nerd
-[21:43:58] [Server thread/INFO]: Momo37 burned to death
-[21:55:28] [Server thread/INFO]: Momo37 burned to death
-[22:10:27] [Server thread/INFO]: Momo37 has made the advancement [Hidden in the Depths]
-[22:11:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=528, y=16, z=353} fx{x=530, y=16, z=354}
-[22:16:53] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[22:16:53] [Server thread/INFO]: NBSpace_Kid left the game
-[22:18:45] [Server thread/INFO]: Momo37 tried to swim in lava
-[22:19:13] [Server thread/INFO]: Momo37 lost connection: Disconnected
-[22:19:13] [Server thread/INFO]: Momo37 left the game
+[09:55:30] [User Authenticator #18/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[09:55:30] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:50030] logged in with entity id 396122 at (721.2375000119209, 82.0, -727.0322846638197)
+[09:55:30] [Server thread/INFO]: NBSpace_Kid joined the game
