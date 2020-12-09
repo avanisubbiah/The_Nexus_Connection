@@ -3,3 +3,28 @@
 [09:55:30] [Server thread/INFO]: NBSpace_Kid joined the game
 [10:28:28] [Server thread/WARN]: NBSpace_Kid moved wrongly!
 [10:41:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/407212, l='ServerLevel[world]', x=744.54, y=70.00, z=-745.63]
+[11:06:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/411869, l='ServerLevel[world]', x=747.03, y=70.00, z=-745.97]
+[11:07:35] [User Authenticator #19/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[11:07:35] [Server thread/INFO]: Momo37[/74.129.58.2:62258] logged in with entity id 411972 at (827.9797083498476, 56.0625, -689.8826264075855)
+[11:07:35] [Server thread/INFO]: Momo37 joined the game
+[11:07:38] [Server thread/INFO]: <NBSpace_Kid> hihi
+[11:07:41] [Server thread/INFO]: <Momo37> hi
+[11:08:25] [Server thread/INFO]: <NBSpace_Kid> where you the one that made the secert base behind my house?
+[11:08:40] [Server thread/INFO]: <Momo37> i dont know what ur talking about
+[11:08:47] [Server thread/INFO]: <NBSpace_Kid> bruh
+[11:09:09] [Server thread/INFO]: <NBSpace_Kid> i wanna make a pond theree
+[11:09:16] [Server thread/INFO]: <Momo37> do it
+[11:09:44] [Server thread/INFO]: <NBSpace_Kid> ill have to break the door tho
+[11:09:59] [Server thread/INFO]: <Momo37> im coming to fix that right now
+[11:10:07] [Server thread/INFO]: <NBSpace_Kid> aight ty
+[11:11:51] [Server thread/INFO]: <NBSpace_Kid> where does it go to
+[11:12:03] [Server thread/INFO]: <Momo37> no where
+[11:12:08] [Server thread/INFO]: <NBSpace_Kid> lame
+[11:12:36] [Server thread/INFO]: <Momo37> do u have my door
+[11:12:39] [Server thread/INFO]: <NBSpace_Kid> do you want the door back
+[11:20:32] [Server thread/INFO]: <NBSpace_Kid> nap timee
+[11:20:58] [Server thread/INFO]: <Momo37> ok im off to do school i only got on to fix my door
+[11:21:07] [Server thread/INFO]: <NBSpace_Kid> oki see ya
+[11:21:21] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[11:21:21] [Server thread/INFO]: Momo37 left the game
+[11:23:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/416414, l='ServerLevel[world]', x=1581.62, y=70.00, z=-864.38]
