@@ -28,3 +28,7 @@
 [11:21:21] [Server thread/INFO]: Momo37 lost connection: Disconnected
 [11:21:21] [Server thread/INFO]: Momo37 left the game
 [11:23:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/416414, l='ServerLevel[world]', x=1581.62, y=70.00, z=-864.38]
+[12:10:40] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[12:10:40] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[12:19:23] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[12:19:23] [Server thread/INFO]: NBSpace_Kid left the game

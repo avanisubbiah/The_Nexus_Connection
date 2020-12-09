@@ -2431,6 +2431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-12-09 12:18:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2020-10-04 22:07:09 -0400"
@@ -2518,6 +2524,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-11-16 22:49:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-12-09 12:18:23 -0500"
     },
     "done": true
   },
@@ -2780,6 +2792,7 @@
       "apple": "2020-10-04 18:47:37 -0400",
       "potato": "2020-10-04 21:10:06 -0400",
       "cooked_cod": "2020-10-11 19:16:42 -0400",
+      "rabbit": "2020-12-09 12:14:31 -0500",
       "pumpkin_pie": "2020-10-15 15:59:18 -0400",
       "mutton": "2020-10-04 21:20:02 -0400",
       "pufferfish": "2020-10-04 22:30:30 -0400",
@@ -2788,6 +2801,7 @@
       "rotten_flesh": "2020-10-04 23:46:32 -0400",
       "suspicious_stew": "2020-10-19 09:53:08 -0400",
       "cookie": "2020-10-27 19:47:34 -0400",
+      "salmon": "2020-12-09 12:01:27 -0500",
       "melon_slice": "2020-10-25 09:13:09 -0400",
       "golden_carrot": "2020-10-26 18:36:46 -0400",
       "cooked_chicken": "2020-10-24 08:51:21 -0400",
