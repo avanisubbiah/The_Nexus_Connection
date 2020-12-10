@@ -32,3 +32,9 @@
 [12:10:40] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
 [12:19:23] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
 [12:19:23] [Server thread/INFO]: NBSpace_Kid left the game
+[21:36:29] [User Authenticator #20/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
+[21:36:29] [Server thread/INFO]: Momo37[/74.129.58.2:49193] logged in with entity id 439436 at (829.6126292587965, 56.0, -689.476591948464)
+[21:36:29] [Server thread/INFO]: Momo37 joined the game
+[21:38:40] [Server thread/WARN]: Momo37 moved too quickly! 0.13818623772874616,-0.9641593749554431,-9.955802039230434
+[21:50:21] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[21:50:21] [Server thread/INFO]: Momo37 left the game
