@@ -1,3 +1,5 @@
 [16:53:01] [User Authenticator #21/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
 [16:53:01] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:55489] logged in with entity id 442129 at (723.2981106644513, 82.0625, -728.0646718978006)
 [16:53:01] [Server thread/INFO]: NBSpace_Kid joined the game
+[17:05:56] [Server thread/WARN]: NBSpace_Kid moved wrongly!
+[17:40:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/449258, l='ServerLevel[world]', x=747.02, y=70.00, z=-746.09]
