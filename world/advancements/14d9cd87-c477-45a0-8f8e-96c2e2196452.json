@@ -3859,6 +3859,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-12-11 20:52:53 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-10-04 19:22:26 -0400"
@@ -4503,7 +4509,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2020-12-11 20:16:34 -0500",
       "textures/entity/cat/black.png": "2020-10-09 02:50:12 -0400",
+      "textures/entity/cat/jellie.png": "2020-12-11 20:09:00 -0500",
       "textures/entity/cat/siamese.png": "2020-10-25 15:52:01 -0400",
       "textures/entity/cat/british_shorthair.png": "2020-11-02 14:45:45 -0500",
       "textures/entity/cat/all_black.png": "2020-11-02 17:16:36 -0500",
