@@ -1826,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-12-13 16:30:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-04 18:54:04 -0400"
@@ -2265,9 +2271,10 @@
       "minecraft:crimson_forest": "2020-10-11 17:54:01 -0400",
       "minecraft:nether_wastes": "2020-10-07 03:47:28 -0400",
       "minecraft:soul_sand_valley": "2020-10-12 23:46:47 -0400",
-      "minecraft:basalt_deltas": "2020-10-15 19:45:23 -0400"
+      "minecraft:basalt_deltas": "2020-10-15 19:45:23 -0400",
+      "minecraft:warped_forest": "2020-12-13 16:29:54 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2866,6 +2873,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-10-04 19:06:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-12-13 16:30:37 -0500"
     },
     "done": true
   },
