@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2020-12-13 15:39:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-10-04 18:48:34 -0400"
