@@ -1,6 +1,5 @@
-[16:31:05] [User Authenticator #29/INFO]: UUID of player Momo37 is e9041dad-d614-4bca-b724-f1c5dfea4747
-[16:31:05] [Server thread/INFO]: Momo37[/74.129.58.2:50536] logged in with entity id 598550 at (846.047719354028, 51.0, -674.9480170068159)
-[16:31:05] [Server thread/INFO]: Momo37 joined the game
-[16:39:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1087, y=17, z=-457} fx{x=1087, y=15, z=-457}
-[18:47:03] [Server thread/INFO]: Momo37 lost connection: Disconnected
-[18:47:03] [Server thread/INFO]: Momo37 left the game
+[08:10:06] [User Authenticator #30/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[08:10:06] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:64716] logged in with entity id 622975 at (5468.403372503988, 73.0, -2536.1546026710316)
+[08:10:06] [Server thread/INFO]: NBSpace_Kid joined the game
+[08:14:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=4228, y=47, z=-2811} fx{x=4228, y=48, z=-2811}
+[08:15:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/628193, l='ServerLevel[world]', x=3612.25, y=14.00, z=-2623.88]
