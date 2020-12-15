@@ -3,3 +3,13 @@
 [08:10:06] [Server thread/INFO]: NBSpace_Kid joined the game
 [08:14:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=4228, y=47, z=-2811} fx{x=4228, y=48, z=-2811}
 [08:15:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/628193, l='ServerLevel[world]', x=3612.25, y=14.00, z=-2623.88]
+[09:02:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=583, y=14, z=229} fx{x=583, y=16, z=228}
+[09:18:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=85, z=-730} fx{x=722, y=86, z=-731}
+[09:18:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=85, z=-731}
+[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=85, z=-730} fx{x=722, y=86, z=-731}
+[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
+[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
+[09:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
+[09:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
+[09:25:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=727, y=78, z=-730} fx{x=727, y=76, z=-730}
+[09:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
