@@ -22,3 +22,5 @@
 [10:16:50] [Server thread/WARN]: Trying to add entity with duplicated UUID af8c1dfa-30b6-45c3-91f5-59893ff98c34. Existing minecraft:armor_stand#661068, new: minecraft:armor_stand#661068
 [10:16:51] [Server thread/WARN]: Trying to add entity with duplicated UUID 992c4bb9-ab06-49d3-9423-dc2f01b968fb. Existing minecraft:armor_stand#661069, new: minecraft:armor_stand#661069
 [10:18:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 409e36df-8867-4cde-842b-28d58ea74ae0. Existing minecraft:armor_stand#661289, new: minecraft:armor_stand#661289
+[11:23:53] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[11:23:53] [Server thread/INFO]: NBSpace_Kid left the game
