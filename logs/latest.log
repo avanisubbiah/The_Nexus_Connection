@@ -13,3 +13,12 @@
 [09:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
 [09:25:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=727, y=78, z=-730} fx{x=727, y=76, z=-730}
 [09:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[10:10:31] [Server thread/WARN]: Trying to add entity with duplicated UUID 9c7b43dd-0ab7-446d-838f-ca00d44f62f0. Existing minecraft:armor_stand#659923, new: minecraft:armor_stand#659923
+[10:10:32] [Server thread/WARN]: Trying to add entity with duplicated UUID 3dc86e33-afa9-4b07-aa9f-0e40605d0820. Existing minecraft:armor_stand#659925, new: minecraft:armor_stand#659925
+[10:10:33] [Server thread/WARN]: Trying to add entity with duplicated UUID f002dc0f-88f2-4a94-acd0-d95bb79e0fa2. Existing minecraft:armor_stand#659926, new: minecraft:armor_stand#659926
+[10:16:48] [Server thread/WARN]: Trying to add entity with duplicated UUID 9d767c5c-630d-4480-affe-213a791f0a8d. Existing minecraft:armor_stand#661058, new: minecraft:armor_stand#661058
+[10:16:49] [Server thread/WARN]: Trying to add entity with duplicated UUID 3fe64877-9ca8-485b-a1c0-05f984e42d6b. Existing minecraft:armor_stand#661064, new: minecraft:armor_stand#661064
+[10:16:50] [Server thread/WARN]: Trying to add entity with duplicated UUID e17532ea-3dd1-4ede-a125-c588fbecfc06. Existing minecraft:armor_stand#661066, new: minecraft:armor_stand#661066
+[10:16:50] [Server thread/WARN]: Trying to add entity with duplicated UUID af8c1dfa-30b6-45c3-91f5-59893ff98c34. Existing minecraft:armor_stand#661068, new: minecraft:armor_stand#661068
+[10:16:51] [Server thread/WARN]: Trying to add entity with duplicated UUID 992c4bb9-ab06-49d3-9423-dc2f01b968fb. Existing minecraft:armor_stand#661069, new: minecraft:armor_stand#661069
+[10:18:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 409e36df-8867-4cde-842b-28d58ea74ae0. Existing minecraft:armor_stand#661289, new: minecraft:armor_stand#661289
