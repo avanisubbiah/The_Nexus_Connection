@@ -17,3 +17,11 @@
 [05:26:50] [Server thread/INFO]: NBSpace_Kid was slain by Zombie
 [05:46:50] [Server thread/INFO]: NBSpace_Kid experienced kinetic energy
 [05:57:36] [Server thread/INFO]: NBSpace_Kid fell from a high place
+[06:15:45] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[06:15:45] [Server thread/INFO]: NBSpace_Kid left the game
+[06:15:57] [User Authenticator #32/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[06:15:57] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56482] logged in with entity id 714064 at (-1525.4644378625349, 61.0, -240.41229327423062)
+[06:15:57] [Server thread/INFO]: NBSpace_Kid joined the game
+[07:04:50] [Server thread/WARN]: NBSpace_Kid moved too quickly! 0.0,-18.188483636543523,0.0
+[07:04:51] [Server thread/INFO]: NBSpace_Kid fell out of the world
+[07:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
