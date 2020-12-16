@@ -1,26 +1,19 @@
-[08:10:06] [User Authenticator #30/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[08:10:06] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:64716] logged in with entity id 622975 at (5468.403372503988, 73.0, -2536.1546026710316)
-[08:10:06] [Server thread/INFO]: NBSpace_Kid joined the game
-[08:14:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=4228, y=47, z=-2811} fx{x=4228, y=48, z=-2811}
-[08:15:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/628193, l='ServerLevel[world]', x=3612.25, y=14.00, z=-2623.88]
-[09:02:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=583, y=14, z=229} fx{x=583, y=16, z=228}
-[09:18:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=85, z=-730} fx{x=722, y=86, z=-731}
-[09:18:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=85, z=-731}
-[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=85, z=-730} fx{x=722, y=86, z=-731}
-[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
-[09:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
-[09:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
-[09:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=84, z=-730} fx{x=722, y=84, z=-731}
-[09:25:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=727, y=78, z=-730} fx{x=727, y=76, z=-730}
-[09:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
-[10:10:31] [Server thread/WARN]: Trying to add entity with duplicated UUID 9c7b43dd-0ab7-446d-838f-ca00d44f62f0. Existing minecraft:armor_stand#659923, new: minecraft:armor_stand#659923
-[10:10:32] [Server thread/WARN]: Trying to add entity with duplicated UUID 3dc86e33-afa9-4b07-aa9f-0e40605d0820. Existing minecraft:armor_stand#659925, new: minecraft:armor_stand#659925
-[10:10:33] [Server thread/WARN]: Trying to add entity with duplicated UUID f002dc0f-88f2-4a94-acd0-d95bb79e0fa2. Existing minecraft:armor_stand#659926, new: minecraft:armor_stand#659926
-[10:16:48] [Server thread/WARN]: Trying to add entity with duplicated UUID 9d767c5c-630d-4480-affe-213a791f0a8d. Existing minecraft:armor_stand#661058, new: minecraft:armor_stand#661058
-[10:16:49] [Server thread/WARN]: Trying to add entity with duplicated UUID 3fe64877-9ca8-485b-a1c0-05f984e42d6b. Existing minecraft:armor_stand#661064, new: minecraft:armor_stand#661064
-[10:16:50] [Server thread/WARN]: Trying to add entity with duplicated UUID e17532ea-3dd1-4ede-a125-c588fbecfc06. Existing minecraft:armor_stand#661066, new: minecraft:armor_stand#661066
-[10:16:50] [Server thread/WARN]: Trying to add entity with duplicated UUID af8c1dfa-30b6-45c3-91f5-59893ff98c34. Existing minecraft:armor_stand#661068, new: minecraft:armor_stand#661068
-[10:16:51] [Server thread/WARN]: Trying to add entity with duplicated UUID 992c4bb9-ab06-49d3-9423-dc2f01b968fb. Existing minecraft:armor_stand#661069, new: minecraft:armor_stand#661069
-[10:18:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 409e36df-8867-4cde-842b-28d58ea74ae0. Existing minecraft:armor_stand#661289, new: minecraft:armor_stand#661289
-[11:23:53] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[11:23:53] [Server thread/INFO]: NBSpace_Kid left the game
+[05:01:23] [User Authenticator #31/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
+[05:01:23] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56208] logged in with entity id 676189 at (721.8991431190333, 82.0625, -727.6532082649151)
+[05:01:23] [Server thread/INFO]: NBSpace_Kid joined the game
+[05:12:38] [Server thread/INFO]: NBSpace_Kid has made the advancement [Who's the Pillager Now?]
+[05:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4388ms or 87 ticks behind
+[05:20:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/690966, l='ServerLevel[world]', x=5266.74, y=70.00, z=-1939.36]
+[05:24:58] [Server thread/INFO]: Villager bfj['Villager'/690434, l='ServerLevel[world]', x=5325.63, y=68.27, z=-2037.77] died, message: 'Villager was slain by Vindicator'
+[05:25:04] [Server thread/INFO]: Villager bfj['Villager'/690425, l='ServerLevel[world]', x=5327.70, y=69.42, z=-2031.33] died, message: 'Villager was slain by Vindicator'
+[05:25:05] [Server thread/INFO]: Villager bfj['Villager'/690388, l='ServerLevel[world]', x=5325.88, y=69.68, z=-2036.05] died, message: 'Villager was slain by Vindicator'
+[05:25:08] [Server thread/INFO]: Villager bfj['Villager'/690381, l='ServerLevel[world]', x=5346.33, y=70.56, z=-2035.46] died, message: 'Villager was slain by Vindicator'
+[05:25:17] [Server thread/INFO]: Villager bfj['Farmer'/690384, l='ServerLevel[world]', x=5326.66, y=73.00, z=-2013.30] died, message: 'Farmer was slain by Ravager'
+[05:25:34] [Server thread/INFO]: Villager bfj['Villager'/690409, l='ServerLevel[world]', x=5285.63, y=61.94, z=-2039.02] died, message: 'Villager was slain by Zombie'
+[05:26:14] [Server thread/INFO]: Villager bfj['Nitwit'/690387, l='ServerLevel[world]', x=5332.40, y=69.56, z=-2020.37] died, message: 'Nitwit was slain by Vindicator'
+[05:26:28] [Server thread/INFO]: Villager bfj['Villager'/690408, l='ServerLevel[world]', x=5313.11, y=69.00, z=-2021.69] died, message: 'Villager was slain by Vindicator'
+[05:26:45] [Server thread/INFO]: Villager bfj['Villager'/690403, l='ServerLevel[world]', x=5330.30, y=74.85, z=-2011.30] died, message: 'Villager was slain by Vindicator'
+[05:26:49] [Server thread/INFO]: Villager bfj['Villager'/690378, l='ServerLevel[world]', x=5331.33, y=70.56, z=-2013.23] died, message: 'Villager was slain by Vindicator'
+[05:26:50] [Server thread/INFO]: NBSpace_Kid was slain by Zombie
+[05:46:50] [Server thread/INFO]: NBSpace_Kid experienced kinetic energy
+[05:57:36] [Server thread/INFO]: NBSpace_Kid fell from a high place
