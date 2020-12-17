@@ -3,3 +3,6 @@
 [10:18:04] [Server thread/INFO]: NBSpace_Kid joined the game
 [10:31:17] [Server thread/WARN]: NBSpace_Kid moved too quickly! -476.24743323105486,19.559544869528043,2192.534806233989
 [10:31:17] [Server thread/WARN]: Entity aah['NBSpace_Kid'/755482, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[11:17:33] [Server thread/INFO]: NBSpace_Kid fell from a high place
+[11:17:59] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
+[11:17:59] [Server thread/INFO]: NBSpace_Kid left the game
