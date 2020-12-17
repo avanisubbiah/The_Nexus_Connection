@@ -55,3 +55,10 @@
 [17:24:43] [Server thread/INFO]: DrPoyo lost connection: Disconnected
 [17:24:43] [Server thread/INFO]: DrPoyo left the game
 [17:28:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/742099, l='ServerLevel[world]', x=744.99, y=70.00, z=-745.24]
+[18:46:02] [Server thread/INFO]: Momo37 lost connection: Disconnected
+[18:46:02] [Server thread/INFO]: Momo37 left the game
+[18:48:56] [User Authenticator #35/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[18:48:56] [Server thread/INFO]: DrPoyo[/74.133.67.1:51676] logged in with entity id 754829 at (809.2301187459765, 67.5, -741.5594967740283)
+[18:48:56] [Server thread/INFO]: DrPoyo joined the game
+[18:50:30] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[18:50:30] [Server thread/INFO]: DrPoyo left the game
