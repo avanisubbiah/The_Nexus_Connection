@@ -1,33 +1,23 @@
-[14:56:12] [User Authenticator #39/INFO]: UUID of player NBSpace_Kid is 14d9cd87-c477-45a0-8f8e-96c2e2196452
-[14:56:12] [Server thread/INFO]: NBSpace_Kid[/24.192.41.13:56402] logged in with entity id 770679 at (724.1223975761056, 82.0625, -728.1806681259341)
-[14:56:12] [Server thread/INFO]: NBSpace_Kid joined the game
-[15:02:45] [User Authenticator #40/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[15:02:45] [Server thread/INFO]: DrPoyo[/74.133.67.1:54529] logged in with entity id 772396 at (815.5, 68.875, -732.5)
-[15:02:45] [Server thread/INFO]: DrPoyo joined the game
-[15:02:48] [Server thread/INFO]: <NBSpace_Kid> hihi
-[15:02:51] [Server thread/INFO]: <DrPoyo> hewwo
-[15:04:17] [Server thread/INFO]: <NBSpace_Kid> btw i lost my elytra + seths elytra trying to retrieve mine soo
-[15:04:25] [Server thread/INFO]: <DrPoyo> aw man
-[15:04:49] [Server thread/INFO]: <NBSpace_Kid> theres a full body/color commission if you get me two elytras
-[15:05:06] [Server thread/INFO]: <DrPoyo> im a coward but thx
-[15:05:41] [Server thread/INFO]: <DrPoyo> :o
-[15:05:54] [Server thread/INFO]: <DrPoyo> this is dope
-[15:06:00] [Server thread/INFO]: <NBSpace_Kid> my chests were overflowing
-[15:06:02] [Server thread/INFO]: <NBSpace_Kid> tytyty
-[15:06:02] [Server thread/INFO]: <DrPoyo> smooch
-[15:06:12] [Server thread/INFO]: <NBSpace_Kid> harassment
-[15:06:15] [Server thread/INFO]: <DrPoyo> u didnt see it
-[15:06:26] [Server thread/INFO]: <NBSpace_Kid> haha scaley
-[15:06:33] [Server thread/INFO]: <DrPoyo> says the furry
-[15:07:06] [Server thread/INFO]: <DrPoyo> baf
-[15:07:48] [Server thread/WARN]: DrPoyo moved wrongly!
-[15:07:55] [Server thread/INFO]: <NBSpace_Kid> bruh my basement is so colddd
-[15:08:02] [Server thread/INFO]: <DrPoyo> wack
-[15:08:47] [Server thread/INFO]: <DrPoyo> u wanished
-[15:09:30] [Server thread/INFO]: <DrPoyo> imma go paint again :) ty for showing me
-[15:09:41] [Server thread/INFO]: <NBSpace_Kid> okii see ya
-[15:09:44] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[15:09:44] [Server thread/INFO]: DrPoyo left the game
-[15:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
-[15:34:01] [Server thread/INFO]: NBSpace_Kid lost connection: Disconnected
-[15:34:01] [Server thread/INFO]: NBSpace_Kid left the game
+[00:41:01] [User Authenticator #41/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
+[00:41:01] [Server thread/INFO]: mano328[/73.169.183.91:62178] logged in with entity id 782414 at (-1294.6434466450544, 72.0, 1336.1843960496665)
+[00:41:01] [Server thread/INFO]: mano328 joined the game
+[00:42:38] [Server thread/INFO]: [mano328: Set own game mode to Creative Mode]
+[00:47:07] [Server thread/INFO]: [mano328: Set the time to 13000]
+[00:53:49] [Server thread/INFO]: [mano328: Set own game mode to Survival Mode]
+[00:54:06] [Server thread/INFO]: [mano328: Set the time to 1000]
+[00:54:17] [Server thread/INFO]: [mano328: Set the time to 13000]
+[00:54:50] [Server thread/INFO]: [mano328: Set own game mode to Creative Mode]
+[00:56:22] [Server thread/INFO]: [mano328: Set the time to 1000]
+[00:56:28] [Server thread/INFO]: [mano328: Set the time to 13000]
+[00:59:35] [Server thread/INFO]: Villager bfj['Villager'/787018, l='ServerLevel[world]', x=-152.91, y=128.00, z=177.26] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:37] [Server thread/INFO]: Villager bfj['Villager'/787017, l='ServerLevel[world]', x=-156.47, y=128.00, z=171.78] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:38] [Server thread/INFO]: Villager bfj['Villager'/787019, l='ServerLevel[world]', x=-151.48, y=128.00, z=172.10] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:41] [Server thread/INFO]: Villager bfj['Villager'/787022, l='ServerLevel[world]', x=-150.84, y=128.00, z=189.43] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:45] [Server thread/INFO]: Villager bfj['Villager'/787023, l='ServerLevel[world]', x=-150.26, y=128.00, z=191.56] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:46] [Server thread/INFO]: Villager bfj['Villager'/787024, l='ServerLevel[world]', x=-150.14, y=128.00, z=189.52] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:54] [Server thread/INFO]: Villager bfj['Villager'/786995, l='ServerLevel[world]', x=-136.30, y=128.00, z=189.26] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:55] [Server thread/INFO]: Villager bfj['Villager'/786994, l='ServerLevel[world]', x=-134.06, y=128.00, z=188.34] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[00:59:56] [Server thread/INFO]: Villager bfj['Villager'/786993, l='ServerLevel[world]', x=-125.35, y=128.00, z=194.50] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[01:00:00] [Server thread/INFO]: Villager bfj['Villager'/786999, l='ServerLevel[world]', x=-130.53, y=128.00, z=170.75] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[01:00:01] [Server thread/INFO]: Villager bfj['Villager'/786998, l='ServerLevel[world]', x=-130.84, y=128.00, z=176.08] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[01:00:02] [Server thread/INFO]: Villager bfj['Villager'/786997, l='ServerLevel[world]', x=-137.19, y=129.00, z=170.66] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
