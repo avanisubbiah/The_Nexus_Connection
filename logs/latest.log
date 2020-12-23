@@ -21,3 +21,6 @@
 [01:00:00] [Server thread/INFO]: Villager bfj['Villager'/786999, l='ServerLevel[world]', x=-130.53, y=128.00, z=170.75] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
 [01:00:01] [Server thread/INFO]: Villager bfj['Villager'/786998, l='ServerLevel[world]', x=-130.84, y=128.00, z=176.08] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
 [01:00:02] [Server thread/INFO]: Villager bfj['Villager'/786997, l='ServerLevel[world]', x=-137.19, y=129.00, z=170.66] died, message: 'Villager was slain by mano328 using [( #`⌂´)/┌┛]'
+[01:16:24] [Server thread/INFO]: [mano328: Teleported mano328 to 0.5, 131.0, 0.5]
+[01:16:54] [Server thread/WARN]: mano328 moved too quickly! 8.470004867249429,0.0,-6.842820691700268
+[01:41:33] [Server thread/INFO]: [mano328: Set own game mode to Survival Mode]
