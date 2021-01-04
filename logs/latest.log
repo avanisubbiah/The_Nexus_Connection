@@ -1,6 +1,1 @@
-[16:21:14] [User Authenticator #1/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
-[16:21:14] [Server thread/INFO]: DrPoyo[/74.133.67.1:60644] logged in with entity id 42 at (794.4989352950458, 77.0, -783.2762645931995)
-[16:21:14] [Server thread/INFO]: DrPoyo joined the game
-[16:28:39] [Server thread/INFO]: DrPoyo lost connection: Disconnected
-[16:28:39] [Server thread/INFO]: DrPoyo left the game
-[17:04:35] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[06:33:07] [Server thread/INFO]: /161.97.72.209:36206 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
