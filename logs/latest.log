@@ -1,30 +1,5 @@
-[21:29:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:29:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:29:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:29:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:26] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:29:27] [Worker-Main-4/INFO]: Loaded 7 recipes
-[21:29:27] [Worker-Main-4/INFO]: Loaded 927 advancements
-[21:29:29] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:29:29] [Server thread/INFO]: Loading properties
-[21:29:29] [Server thread/INFO]: Default game type: SURVIVAL
-[21:29:29] [Server thread/INFO]: Generating keypair
-[21:29:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:29:29] [Server thread/INFO]: Using epoll channel type
-[21:29:29] [Server thread/INFO]: Preparing level "world"
-[21:29:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:29:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:29:32] [Server thread/INFO]: Preparing spawn area: 72%
-[21:29:32] [Server thread/INFO]: Time elapsed: 2584 ms
-[21:29:32] [Server thread/INFO]: Done (2.719s)! For help, type "help"
-[21:30:21] [User Authenticator #1/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
-[21:30:21] [Server thread/INFO]: Aviroblox[/192.168.50.1:50592] logged in with entity id 41 at (942.8534385543202, 70.0, 1020.3134824614629)
-[21:30:21] [Server thread/INFO]: Aviroblox joined the game
-[21:30:28] [Server thread/INFO]: Aviroblox lost connection: Disconnected
-[21:30:28] [Server thread/INFO]: Aviroblox left the game
+[18:47:01] [User Authenticator #2/INFO]: UUID of player DrPoyo is f56028ba-52d5-4e22-b628-9cb98a0dff02
+[18:47:02] [Server thread/INFO]: DrPoyo[/74.133.67.1:50248] logged in with entity id 297 at (750.8231987790626, 70.0, -770.3655807555781)
+[18:47:02] [Server thread/INFO]: DrPoyo joined the game
+[18:53:01] [Server thread/INFO]: DrPoyo lost connection: Disconnected
+[18:53:01] [Server thread/INFO]: DrPoyo left the game
