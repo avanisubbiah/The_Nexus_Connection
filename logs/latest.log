@@ -1,5 +1,23 @@
-[19:13:10] [User Authenticator #3/INFO]: UUID of player Aviroblox is 00758f2f-23fa-4351-8da3-bc2f30ccc1d5
-[19:13:10] [Server thread/INFO]: Aviroblox[/192.168.50.1:49456] logged in with entity id 1858 at (945.087361923521, 72.0, 1026.0861288269814)
-[19:13:10] [Server thread/INFO]: Aviroblox joined the game
-[19:13:12] [Server thread/INFO]: Aviroblox lost connection: Disconnected
-[19:13:12] [Server thread/INFO]: Aviroblox left the game
+[01:21:29] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:21:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:21:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:21:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:21:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:21:29] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:21:30] [Worker-Main-5/INFO]: Loaded 7 recipes
+[01:21:31] [Worker-Main-5/INFO]: Loaded 927 advancements
+[01:21:32] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:21:32] [Server thread/INFO]: Loading properties
+[01:21:32] [Server thread/INFO]: Default game type: SURVIVAL
+[01:21:32] [Server thread/INFO]: Generating keypair
+[01:21:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:21:33] [Server thread/INFO]: Using epoll channel type
+[01:21:33] [Server thread/INFO]: Preparing level "world"
+[01:21:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:36] [Server thread/INFO]: Time elapsed: 2327 ms
+[01:21:36] [Server thread/INFO]: Done (2.525s)! For help, type "help"
