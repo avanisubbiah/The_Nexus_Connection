@@ -1,5 +1,1 @@
-[19:39:47] [User Authenticator #3/INFO]: UUID of player mano328 is 5df8f9d8-510c-4260-a4ec-e70dc4ff6a60
-[19:39:48] [Server thread/INFO]: mano328[/73.169.183.91:60573] logged in with entity id 92 at (72.335202075045, 116.0, 111.89743015972755)
-[19:39:48] [Server thread/INFO]: mano328 joined the game
-[19:39:48] [Server thread/INFO]: mano328 lost connection: Disconnected
-[19:39:48] [Server thread/INFO]: mano328 left the game
+[10:46:55] [Server thread/INFO]: /45.139.113.95:36744 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
