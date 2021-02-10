@@ -53,3 +53,13 @@ ls
 vim server.properties 
 minecraftd console
 minecraftd console
+ls
+cd
+sl
+ls
+ls -la
+git config --global pack.windowsMemory "32m"
+git gc --aggressive --prune
+ls
+clear
+exit
