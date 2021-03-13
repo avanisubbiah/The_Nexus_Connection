@@ -63,3 +63,6 @@ git gc --aggressive --prune
 ls
 clear
 exit
+ls
+su avanish
+exit
