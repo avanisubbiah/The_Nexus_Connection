@@ -66,3 +66,11 @@ exit
 ls
 su avanish
 exit
+su -
+su -
+exit
+ls
+su avanish
+ls
+exi
+exit
