@@ -74,3 +74,9 @@ su avanish
 ls
 exi
 exit
+ls
+cd
+ls
+htophtop
+htop
+exit
